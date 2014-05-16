@@ -1,0 +1,181 @@
+Competition: Chinese Super League
+Key: position; team; games; wins; ties; losses; goals_for; goals_against; points
+
+
+Season: 2004
+
+1      ; Shenzhen Jianlibao     ; 22     ; 11     ; 9      ; 2      ; 30     ; 13     ; 42
+2      ; Shandong Luneng Taishan; 22     ; 10     ; 6      ; 6      ; 44     ; 29     ; 36
+3      ; Inter Shanghai         ; 22     ; 8      ; 8      ; 6      ; 39     ; 31     ; 32
+4      ; Liaoning Zhongyu       ; 22     ; 10     ; 2      ; 10     ; 39     ; 40     ; 32
+5      ; Dalian Shide           ; 22     ; 10     ; 6      ; 6      ; 33     ; 26     ; 30
+6      ; Tianjin Teda           ; 22     ; 7      ; 8      ; 7      ; 28     ; 29     ; 29
+7      ; Beijing Hyundai        ; 22     ; 8      ; 7      ; 7      ; 35     ; 33     ; 28
+8      ; Shenyang Ginde         ; 22     ; 7      ; 5      ; 10     ; 23     ; 29     ; 26
+9      ; Sichuan Guancheng      ; 22     ; 4      ; 11     ; 7      ; 29     ; 37     ; 23
+10     ; Shanghai Shenhua       ; 22     ; 4      ; 10     ; 8      ; 28     ; 37     ; 22
+11     ; Qingdao Zhongneng      ; 22     ; 4      ; 9      ; 9      ; 21     ; 28     ; 21
+12     ; Chongqing Lifan        ; 22     ; 4      ; 9      ; 9      ; 14     ; 31     ; 21
+
+
+Season: 2005
+
+1     ; Dalian Shide            ; 26     ; 21     ; 2      ; 3      ; 57     ; 18     ; 65
+2     ; Shanghai Shenhua        ; 26     ; 15     ; 8      ; 3      ; 41     ; 23     ; 53
+3     ; Shandong Luneng Taishan ; 26     ; 15     ; 7      ; 4      ; 47     ; 30     ; 52
+4     ; Tianjin Teda            ; 26     ; 14     ; 7      ; 5      ; 48     ; 26     ; 49
+5     ; Wuhan Huanghelou        ; 26     ; 11     ; 9      ; 6      ; 34     ; 26     ; 42
+6     ; Beijing Hyundai         ; 26     ; 12     ; 4      ; 10     ; 46     ; 32     ; 40
+7     ; Qingdao Zhongneng       ; 26     ; 8      ; 8      ; 10     ; 25     ; 31     ; 32
+8     ; Inter Shanghai          ; 26     ; 8      ; 7      ; 11     ; 30     ; 32     ; 31
+9     ; Sichuan Guancheng       ; 26     ; 8      ; 5      ; 13     ; 28     ; 45     ; 29
+10    ; Liaoning Zhongyu        ; 26     ; 7      ; 8      ; 11     ; 34     ; 42     ; 29
+11    ; Shanghai Zobon          ; 26     ; 5      ; 7      ; 14     ; 18     ; 35     ; 22
+12    ; Shenzhen Jianlibao      ; 26     ; 4      ; 10     ; 12     ; 22     ; 42     ; 22
+13    ; Shenyang Ginde          ; 26     ; 4      ; 7      ; 15     ; 19     ; 43     ; 18
+14    ; Chongqing Lifan         ; 26     ; 2      ; 7      ; 17     ; 16     ; 41     ; 13
+
+
+Season: 2006
+
+1     ;  Shandong Luneng Taishan ;28     ; 22     ; 3      ; 3      ; 74     ; 26     ; 69
+2     ;  Shanghai Shenhua        ;28     ; 14     ; 10     ; 4      ; 37     ; 19     ; 52
+3     ;  Beijing Guoan           ;28     ; 13     ; 10     ; 5      ; 27     ; 16     ; 49
+4     ;  Changchun Yatai         ;28     ; 13     ; 7      ; 8      ; 41     ; 26     ; 46
+5     ;  Dalian Shide            ;28     ; 13     ; 6      ; 9      ; 43     ; 29     ; 45
+6     ;  Tianjin Teda            ;28     ; 10     ; 10     ; 8      ; 40     ; 38     ; 40
+7     ;  Shanghai United         ;28     ; 9      ; 12     ; 7      ; 32     ; 25     ; 39
+8     ;  Xiamen Lanshi           ;28     ; 9      ; 11     ; 8      ; 28     ; 27     ; 38
+9     ;  Inter Xian              ;28     ; 8      ; 12     ; 8      ; 33     ; 34     ; 36
+10    ;  Wuhan Guanggu           ;28     ; 8      ; 7      ; 13     ; 28     ; 42     ; 31
+11    ;  Shenzhen Kingway        ;28     ; 8      ; 6      ; 14     ; 22     ; 42     ; 30
+12    ;  Liaoning FC             ;28     ; 6      ; 8      ; 14     ; 24     ; 42     ; 26
+13    ;  Shenyang Ginde          ;28     ; 6      ; 8      ; 14     ; 22     ; 43     ; 26
+14    ;  Qingdao Zhongneng       ;28     ; 6      ; 7      ; 15     ; 25     ; 36     ; 25
+15    ;  Chongqing Lifan         ;28     ; 3      ; 7      ; 18     ; 20     ; 51     ; 16
+
+
+Key: position; team; games; wins; ties; losses; goals_for; goals_against; gd; points
+Season: 2007
+
+1     ;  Changchun Yatai        ; 28 ; 16        ;  7      ; 5      ; 48     ; 25     ; +23    ; 55
+2     ;  Beijing Guoan          ; 28 ; 15        ;  9      ; 4      ; 45     ; 19     ; +26    ; 54
+3     ;  Shandong Luneng Taishan; 28 ; 14        ;  6      ; 8      ; 53     ; 29     ; +24    ; 48
+4     ;  Shanghai Shenhua       ; 28 ; 12        ;  10     ; 6      ; 35     ; 29     ; +6     ; 46
+5     ;  Dalian Shide           ; 28 ; 11        ;  11     ; 6      ; 36     ; 31     ; +5     ; 44
+6     ;  Tianjin Teda           ; 28 ; 12        ;  8      ; 8      ; 31     ; 22     ; +9     ; 44
+7     ;  Wuhan Guanggu          ; 28 ; 11        ;  7      ; 10     ; 29     ; 31     ; -2     ; 40
+8     ;  Qingdao Zhongneng      ; 28 ; 10        ;  6      ; 12     ; 36     ; 42     ; -6     ; 36
+9     ;  Liaoning F.C.          ; 28 ; 9         ;  8      ; 11     ; 26     ; 36     ; -10    ; 35
+10    ;  Changsha Ginde         ; 28 ; 8         ;  10     ; 10     ; 17     ; 24     ; -7     ; 34
+11    ;  Zhejiang Lucheng       ; 28 ; 6         ;  10     ; 12     ; 25     ; 35     ; -10    ; 28
+12    ;  Henan Jianye           ; 28 ; 5         ;  12     ; 11     ; 20     ; 28     ; -8     ; 27
+13    ;  Shaanxi Baorong        ; 28 ; 4         ;  14     ; 10     ; 24     ; 29     ; -5     ; 26
+14    ;  Shenzhen Shangqingyin  ; 28 ; 5         ;  10     ; 13     ; 21     ; 42     ; -21    ; 25
+15    ;  Xiamen Lanshi          ; 28 ; 4         ;  8      ; 16     ; 22     ; 46     ; -24    ; 20
+
+
+Season: 2008
+
+1    ;  Shandong Luneng Taishan        ; 30    ;  18   ;   9     ;  3    ;   54   ;   25   ;   +29   ;  63 
+2    ; Shanghai Shenhua Liansheng      ; 30    ;  17   ;   10    ;  3    ;   58   ;   29   ;   +29   ;  61
+3    ; Beijing Guoan                   ; 30    ;  16   ;   10    ;  4    ;   44   ;   27   ;   +17   ;  58
+4    ; Tianjin MasterKong              ; 30    ;  16   ;   9     ;  5    ;   54   ;   29   ;   +25   ;  57
+5    ; Shaanxi Neo-China Chanba        ; 30    ;  15   ;   7     ;  8    ;   41   ;   29   ;   +12   ;  52      
+6    ; Changchun Yatai                 ; 30    ;  12   ;   9     ;  9    ;   53   ;   45   ;   +8    ;  45
+7    ; Guangzhou GPC Zhongyi           ; 30    ;  10   ;   10    ;  10   ;   41   ;   42   ;   −1    ;  40
+8    ; Qingdao Shengwen Jonoon         ; 30    ;  10   ;   9     ;  11   ;   39   ;   36   ;   +3    ;  39 
+9    ;  Zhejiang Greentown             ; 30    ;  9    ;   12    ;  9    ;   38   ;   32   ;   +6    ;  39
+10   ;  Henan Siwulaojiao              ; 30    ;  9    ;   9     ;  12   ;   30   ;   31   ;   −1    ;  36
+11   ;  Changsha Ginde                 ; 30    ;  7    ;   13    ;  10   ;   28   ;   36   ;   −8    ;  34
+12   ;  Shenzhen Xiangxue Shangqingyin ; 30    ;  8    ;   9     ;  13   ;   35   ;   34   ;   +1    ;  33
+13   ;  Chengdu Blades                 ; 30    ;  7    ;   11    ;  12   ;   30   ;   37   ;   −7    ;  32
+14   ;  Dalian Haichang                ; 30    ;  6    ;   12    ;  12   ;   30   ;   40   ;   −10   ;  30
+15   ;  Liaoning Whowin                ; 30    ;  6    ;   9     ;  15   ;   34   ;   47   ;   −13   ;  27      
+16   ;  Wuhan South Asia Optics Valley ; 30    ;  0    ;   0     ;  30   ;   0    ;   90   ;   −90   ;  01      
+* Withdrew from the league and folded
+
+
+Season: 2009
+
+1       ; Beijing Guoan     ; 30     ; 13   ;   12    ;  5    ;   48  ;    28  ;    +20   ;  51    
+2       ; Changchun Yatai   ; 30     ; 14   ;   8     ;  8    ;   38  ;    31  ;    +7    ;  50
+3       ; Henan Jianye      ; 30     ; 13   ;   9     ;  8    ;   35  ;    26  ;    +9    ;  48
+4       ; Shandong Luneng   ; 30     ; 11   ;   12    ;  7    ;   35  ;    30  ;    +5    ;  45      
+5       ; Shanghai Shenhua  ; 30     ; 12   ;   9     ;  9    ;   39  ;    29  ;    +10   ;  45      
+6       ; Tianjin Teda      ; 30     ; 12   ;   9     ;  9    ;   36  ;    29  ;    +7    ;  45
+7       ; Chengdu Blades    ; 30     ; 11   ;   6     ;  13   ;   32  ;    39  ;    −7    ;  392   
+8       ; Dalian Shide      ; 30     ; 10   ;   8     ;  12   ;   27  ;    31  ;    −4    ;  38      
+9       ; Guangzhou GPC     ; 30     ; 9    ;   10    ;  11   ;   38  ;    38  ;    0     ;  372   
+10      ; Jiangsu Sainty    ; 30     ; 9    ;   10    ;  11   ;   30  ;    30  ;    0     ;  37      
+11      ; Shenzhen Ruby     ; 30     ; 10   ;   10    ;  10   ;   36  ;    40  ;    −4    ;  371
+12      ; Shaanxi Renhe     ; 30     ; 9    ;   10    ;  11   ;   26  ;    24  ;    +2    ;  37
+13      ; Qingdao Jonoon    ; 30     ; 8    ;   12    ;  10   ;   36  ;    36  ;    0     ;  36
+14      ; Changsha Ginde    ; 30     ; 6    ;   15    ;  9    ;   23  ;    31  ;    −8    ;  33
+15      ; Hangzhou Greentown; 30     ; 8    ;   8     ;  14   ;   30  ;    43  ;    −13   ;  32
+16      ; Chongqing Lifan   ; 30     ; 7    ;   8     ;  15   ;   27  ;    51  ;    −24   ;  29
+
+
+Season: 2010
+
+1   ;   Shandong Luneng   ; 30   ;   18   ;   9    ;   3    ;   59  ;    34  ;    +25   ;  63    
+2   ;   Tianjin Teda      ; 30   ;   13   ;   11   ;   6    ;   37  ;    29  ;    +8    ;  50
+3   ;   Shanghai Shenhua  ; 30   ;   14   ;   6    ;   10   ;   44  ;    41  ;    +3    ;  48    
+4   ;   Hangzhou Greentown; 30   ;   13   ;   9    ;   8    ;   38  ;    30  ;    +8    ;  48
+5   ;   Beijing Guoan     ; 30   ;   12   ;   10   ;   8    ;   35  ;    29  ;    +6    ;  46      
+6   ;   Dalian Shide      ; 30   ;   10   ;   12   ;   8    ;   40  ;    37  ;    +3    ;  42
+7   ;   Liaoning Whowin   ; 30   ;   10   ;   10   ;   10   ;   39  ;    36  ;    +3    ;  40      
+8   ;   Henan Jianye      ; 30   ;   9    ;   13   ;   8    ;   31  ;    31  ;    0     ;  40
+9   ;   Changchun Yatai   ; 30   ;   10   ;   8    ;   12   ;   40  ;    41  ;    −1    ;  38
+10  ;   Shaanxi Renhe     ; 30   ;   9    ;   10   ;   11   ;   33  ;    36  ;    −3    ;  37
+11  ;   Jiangsu Sainty    ; 30   ;   8    ;   11   ;   11   ;   27  ;    27  ;    0     ;  35
+12  ;   Shenzhen Ruby     ; 30   ;   8    ;   8    ;   14   ;   34  ;    41  ;    −7    ;  32      
+13  ;   Nanchang Hengyuan ; 30   ;   8    ;   8    ;   14   ;   33  ;    35  ;    −2    ;  32
+14  ;   Qingdao Jonoon    ; 30   ;   6    ;   12   ;   12   ;   31  ;    44  ;    −13   ;  30      
+15  ;   Chongqing Lifan   ; 30   ;   7    ;   9    ;   14   ;   36  ;    48  ;    −12   ;  30      
+16  ;   Changsha Ginde    ; 30   ;   6    ;   12   ;   12   ;   24  ;    42  ;    −18   ;  30
+
+
+Season: 2011
+
+1    ;  Guangzhou Evergrande  ;  30  ;    20   ;   8    ;   2    ;   67   ;   23  ;    +44  ;   68  
+2    ;  Beijing Guoan         ;  30  ;    14   ;   11   ;   5    ;   49   ;   21  ;    +28  ;   53
+3    ;  Liaoning Whowin       ;  30  ;    14   ;   8    ;   8    ;   38   ;   23  ;    +15  ;   50
+4    ;  Jiangsu Sainty        ;  30  ;    14   ;   5    ;   11   ;   43   ;   28  ;    +15  ;   47
+5    ;  Shandong Luneng       ;  30  ;    13   ;   8    ;   9    ;   37   ;   31  ;    +6   ;   47
+6    ;  Qingdao Jonoon        ;  30  ;    12   ;   9    ;   9    ;   37   ;   33  ;    +4   ;   45    
+7    ;  Changchun Yatai       ;  30  ;    11   ;   12   ;   7    ;   33   ;   31  ;    +2   ;   45
+8    ;  Hangzhou Greentown    ;  30  ;    10   ;   9    ;   11   ;   28   ;   32  ;    −4   ;   39
+9    ;  Shaanxi Renhe         ;  30  ;    10   ;   8    ;   12   ;   34   ;   41  ;    −7   ;   38
+10   ;  Tianjin Teda          ;  30  ;    8    ;   13   ;   9    ;   37   ;   41  ;    −4   ;   37    
+11   ;  Shanghai Shenhua      ;  30  ;    11   ;   4    ;   15   ;   31   ;   41  ;    −10  ;   37      
+12   ;  Dalian Shide          ;  30  ;    7    ;   11   ;   12   ;   27   ;   43  ;    −16  ;   32    
+13   ;  Henan Jianye          ;  30  ;    7    ;   11   ;   12   ;   29   ;   35  ;    −6   ;   32
+14   ;  Nanchang Hengyuan     ;  30  ;    8    ;   5    ;   17   ;   20   ;   41  ;    −21  ;   29
+15   ;  Chengdu Blades        ;  30  ;    5    ;   12   ;   13   ;   27   ;   47  ;    −20  ;   27
+16   ;  Shenzhen Ruby         ;  30  ;    5    ;   8    ;   17   ;   27   ;   53  ;    −26  ;   23
+
+
+Season: 2012
+
+1    ;   Guangzhou Evergrande ; 30  ;    17  ;    7    ;   6   ;    51   ;   30   ;   +21  ;   58   
+2    ;   Jiangsu Guoxin Sainty; 30  ;    14  ;    12   ;   4   ;    49   ;   29   ;   +20  ;   54
+3    ;   Beijing Guoan        ; 30  ;    14  ;    6    ;   10  ;    34   ;   35   ;   −1   ;   48
+4    ;   Guizhou Moutai       ; 30  ;    12  ;    9    ;   9   ;    44   ;   33   ;   +11  ;   45
+5    ;   Dalian Aerbin        ; 30  ;    11  ;    11   ;   8   ;    51   ;   46   ;   +5   ;   44           
+6    ;   Changchun Yatai      ; 30  ;    12  ;    8    ;   10  ;    37   ;   40   ;   −3   ;   44
+7    ;   Guangzhou R&F        ; 30  ;    13  ;    3    ;   14  ;    47   ;   49   ;   −2   ;   42
+8    ;   Tianjin Teda         ; 30  ;    10  ;    10   ;   10  ;    29   ;   30   ;   −1   ;   40
+9    ;   Shanghai Shenhua     ; 30  ;    8   ;    14   ;   8   ;    39   ;   34   ;   +5   ;   38
+10   ;   Liaoning Whowin      ; 30  ;    8   ;    12   ;   10  ;    40   ;   41   ;   −1   ;   36 
+11   ;   Hangzhou Greentown   ; 30  ;    9   ;    9    ;   12  ;    34   ;   46   ;   −12  ;   36
+12   ;   Shandong Luneng      ; 30  ;    8   ;    12   ;   10  ;    46   ;   43   ;   +3   ;   36
+13   ;   Qingdao Jonoon       ; 30  ;    10  ;    6    ;   14  ;    26   ;   34   ;   −8   ;   36
+14   ;   Dalian Shide         ; 30  ;    8   ;    10   ;   12  ;    39   ;   49   ;   −10  ;   34 
+15   ;   Shanghai Shenxin     ; 30  ;    6   ;    12   ;   12  ;    36   ;   35   ;   +1   ;   30
+16   ;   Henan Jianye         ; 30  ;    7   ;    5    ;   18  ;    28   ;   56   ;   −28  ;   26 
+
+
+
+
+
