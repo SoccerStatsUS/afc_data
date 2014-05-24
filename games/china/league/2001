@@ -4,28 +4,28 @@ Season: 2001
 
 
 *Stadiums
-*Army August 1st Zhenbang        City Sports Centre      Liuzhou         35,000
-*Beijing Guoan                        Worker’s Stadium   Beijing                 60,000
-*Chongqing Longxin                             Datianwan Stadium                 Chongqing       32,000
-*Dalian Shide                                                                    City Stadium            Dalian          35,000
-*                                                                                                        Jinzhou Stadium  Dalian  35,000
-*Liaoning Fushun Tegang                                                                                          Lei Feng Stadium Fushun  30,000
-*                                                                                                                    City Stadium         Daqing  10,000
-*Qingdao Beer                                                                                                                             Yizhong Stadium  Qingdao  40,000
-*                                                                                                                                                          City Stadium  Zibo  20,000
-*Shaanxi Guoli Hans Beer                                                                                                                                        Zhuque Stadium  Xi’an  51,000
-*Shandong Luneng Taishan                                                                                                                                               Provincial Stadium Ji’nan  50,000
-*Shanghai Shenhua Top                                                                                                                                                             Hongkou Stadium  Shanghai 35,000
-*                                                                                                                                                                                         Shanghai Stadium  Shanghai 80,000
-*Shenyang Ginde                                                                                                                                                                                             Wulihe Stadium  Shenyang 65,000
-*                                City Stadium                                                                                                                                                               Jinzhou                  30,000
-*                                                                                                                                                                                                                                    People’s Stadium Anshan  30,000
-*Shenzhen Kejian Ping’an                                                                                                                                                                                                                      City Stadium     Shenzhen 40,000
-*Sichuan Shangwutong                                                                                                                                                                                                                               City Sports Centre   Chengdu  40,000
-*                                                                                                                                                                                                                                                              City Stadium       Deyang  20,000
-*                                                                                                                                                                                                                                                                                         City Stadium  Nanchong 13,000
-*Tianjin Teda CEC                                                                                                                                                                                                                                                                              Minyuan Stadium    Tianjin  20,000
-*Yunnan Hongta                                                                                                                                                                                                                                                                                                    Tuodong Stadium  Kunming  40,000
+*Army August 1st Zhenbang       City Sports Centre Liuzhou   35,000
+*Beijing Guoan                  Worker’s Stadium   Beijing   60,000
+*Chongqing Longxin              Datianwan Stadium  Chongqing 32,000
+*Dalian Shide                   City Stadium       Dalian    35,000
+*                               Jinzhou Stadium    Dalian    35,000
+*Liaoning Fushun Tegang         Lei Feng Stadium   Fushun    30,000
+*                               City Stadium       Daqing    10,000
+*Qingdao Beer                   Yizhong Stadium    Qingdao   40,000
+*                               City Stadium       Zibo      20,000
+*Shaanxi Guoli Hans Beer        Zhuque Stadium     Xi’an     51,000
+*Shandong Luneng Taishan        Provincial Stadium Ji’nan    50,000
+*Shanghai Shenhua Top           Hongkou Stadium    Shanghai  35,000
+*                               Shanghai Stadium   Shanghai  80,000
+*Shenyang Ginde                 Wulihe Stadium     Shenyang  65,000
+*                               City Stadium       Jinzhou   30,000
+*                               People’s Stadium   Anshan    30,000
+*Shenzhen Kejian Ping’an        City Stadium       Shenzhen  40,000
+*Sichuan Shangwutong            City Sports Centre Chengdu   40,000
+*                               City Stadium       Deyang    20,000
+*                               City Stadium       Nanchong  13,000
+*Tianjin Teda CEC               Minyuan Stadium    Tianjin   20,000
+*Yunnan Hongta                  Tuodong Stadium    Kunming   40,000
 *
 *Name changes                                                                                                                                                                                                                                                                                                     
 *Chongqing Longxin become Chongqing Lifan
@@ -54,7 +54,9 @@ Season: 2001
 *13.Qingdao Beer                      26   5  7 14  22-35  22
 *14.Shenyang Ginde                         26   2  1 23  23-69   7
 
-Round: 1 [Mar 11]
+Round: 1 
+Date: 3/11/2001
+
 Beijing Guoan           1-0     Qingdao Beer
   [Shao Jiayi 45; att 20,000]
 Chongqing Longxin 0-1 Liaoning Fushun Tegang
@@ -71,10 +73,14 @@ Yunnan Hongta        2-0      Tianjin Teda CEC
   [Kiriakov 23pen, 62]
 
 Round: 2
-[Mar 17]
+
+Date: 3/17/2001
+
 Liaoning Fushun Tegang  0-0     Shandong Luneng Taishan
   [att: 30,000]
-[Mar 18]
+
+Date: 3/18/2001
+
 Army August 1st         0-1     Dalian Shide
   [Li Ming 37pen; att: 34,000]
 Beijing Guoan          1-3      Shanghai Shenhua Top
@@ -89,7 +95,9 @@ Tianjin Teda CEC        2-2     Sichuan Shangwutong
   [Sun Jianjun 44pen, Souza 81; Li Bing 35, 55; att: 15,000]
 
 Round: 3
-[Mar 25]
+
+Date: 3/25/2001
+
 Chongqing Longxin       1-1     Beijing Guoan
   [Zhao Lichun 69; Xu Yunlong 4; att: 18,000]
 Dalian Shide       2-1        Tianjin Teda CEC
@@ -102,11 +110,15 @@ Sichuan Shangwutong     3-0    Shaanxi Guoli Hans Beer
   [Vukoja 13, 25, 60; att: 34,000]
 Yunnan Hongta     3-1 Liaoning Fushun Tegang
   [Yang Wei 59, Sun Xiaodong 77, Zhou Ting 87; Li Jinyu 55; att: 29,000]
-[Apr 5]
+
+Date: 4/5/2001
+
 Shandong Luneng Taishan 0-2     Shenzhen Kejian Ping’an
   [Fan Yuhong 1, Tiago 90; att: 15,000]
 
-Round: 4 [Mar 29]
+Round: 4 
+Date: 3/29/2001
+
 Beijing Guoan           0-0     Shandong Luneng Taishan
   [att: 18,000]
 Liaoning Fushun Tegang  0-2     Sichuan Shangwutong
@@ -123,7 +135,9 @@ Shenzhen Kejian Ping’an 2-0     Yunnan Hongta
 Tianjin Teda CEC 1-0  Shenyang Ginde
   [Arturi 39; att: 10,000]
 
-Round: 5 [Apr 1]
+Round: 5 
+Date: 4/1/2001
+
 Army August 1st         1-1     Tianjin Teda CEC
   [Guo Hui 17; Gao Feng 88; att: 12,000]
 Chongqing Longxin  1-1  Qingdao Beer
@@ -140,7 +154,9 @@ Sichuan Shangwutong     0-0     Shenzhen Kejian Ping’an
 Yunnan Hongta      2-2  Beijing Guoan
   [Wang Guangwei 10, Stelian 61; Cermelj 17, Wang Tao 69; att: 33,000]
 
-Round: 6 [Apr 8]
+Round: 6 
+Date: 4/8/2001
+
 Army August 1st         1-1     Shaanxi Guoli Hans Beer
   [Huang Yong 23pen; Renato 36; att: 13,000]
 Beijing Guoan        1-1    Sichuan Shangwutong
@@ -156,7 +172,9 @@ Shanghai Shenhua Top 2-0 Yunnan Hongta
 Shenzhen Kejian Ping’an 1-2     Dalian Shide
   [Tiago 46; Wang Peng 18, Zhang Enhua 83; att: 30,000]
 
-Round: 7 [May 31]
+Round: 7 
+Date: 5/31/2001
+
 Army August 1st         1-0     Liaoning Fushun Tegang
   [Lu Bofei 9; att: 18,000]
 Dalian Shide        4-2 Beijing Guoan
@@ -173,7 +191,9 @@ Tianjin Teda CEC 3-0       Shaanxi Guoli Hans Beer
 Yunnan Hongta          1-1 Chongqing Lifan
   [Yang Wei 11; Racunica 6pen; att: 8,000]
 
-Round: 8 [Jun 3]
+Round: 8 
+Date: 6/3/2001
+
 Beijing Guoan           4-1     Shenyang Ginde
   [Dimitrov 31, Yang Pu 52, Wang Tao 78pen, Tian Ye 86; Min Jin 60pen; att: 10,000]
 Chongqing Lifan      1-2    Sichuan Shangwutong
@@ -189,7 +209,9 @@ Shanghai Shenhua Top    1-0 Dalian Shide
 Shenzhen Kejian Ping’an 2-1     Army August 1st Zhenbang
   [Tiago 36, Shivute 83; Guo Hui 53pen; att: 16,000]
 
-Round: 9 [Jun 10]
+Round: 9 
+Date: 6/10/2001
+
 Army August 1st         1-1     Beijing Guoan
   [Wei Yimin 52; Xue Shen 3; att: 11,000]
 Dalian Shide     2-1 Chongqing Lifan
@@ -206,7 +228,9 @@ Tianjin Teda CEC 0-0    Shenzhen Kejian Ping’an
 Yunnan Hongta           5-0     Qingdao Beer
   [Li Zhi 25, Kiriakov 36, 52, 61, Chang Wei 84; att: 19,000]
 
-Round: 10 [Jun 14]
+Round: 10 
+Date: 6/14/2001
+
 Beijing Guoan   0-1     Tianjin Teda CEC
   [Castiano 27; att: 7,000]
 Chongqing Lifan      2-1        Shenyang Ginde
@@ -223,7 +247,9 @@ Shenzhen Kejian Ping’an 0-0     Shaanxi Guoli Hans Beer
 Yunnan Hongta           0-1     Sichuan Shangwutong
   [Zhu Qi 55; att: 20,000]
 
-Round: 11 [Jun 17]
+Round: 11 
+Date: 6/17/2001
+
 Army August 1st         0-0     Chongqing Lifan
   [att: 8,000]
 Dalian Shide            2-1     Yunnan Hongta
@@ -240,7 +266,9 @@ Sichuan Shangwutong     1-0    Qingdao Beer
 Tianjin Teda CEC    0-1 Shanghai Shenhua Top
   [Rankovic 66; att: 12,000]
 
-Round: 12 [Jun 24]
+Round: 12 
+Date: 6/24/2001
+
 Beijing Guoan   2-0     Liaoning Fushun Tegang
   [Dimitrov 30, Tian Ye 45; att: 20,000]
 Chongqing Lifan      2-0    Tianjin Teda CEC
@@ -256,7 +284,9 @@ Sichuan Shangwutong 3-0       Dalian Shide
 Yunnan Hongta     5-1 Shenyang Ginde
   [Kiriakov 5, 73, Hu Wei 32, 89, Chang Hui 86; Du Ping 90; att: 18,000]
 
-Round: 13 [Jun 28]
+Round: 13 
+Date: 6/28/2001
+
 Army August 1st         2-0     Yunnan Hongta
   [Liu Junwei 15, Wei Yimin 56pen; att: 8,000]
 Dalian Shide      2-1 Qingdao Beer
@@ -274,7 +304,9 @@ Tianjin Teda CEC   4-1 Shandong Luneng Taishan
   [Castiano 33, Yu Genwei 39, Gao Feng 55, Han Yanming 90; Nagorniak 74;
    att: 8,000]
 
-Round: 14 [Jul 1]
+Round: 14 
+Date: 7/1/2001
+
 Army August 1st         3-0     Sichuan Shangwutong
   [Huang Yong 41, 89, Jia Wenpeng 59; att: 20,000]
 Liaoning Fushun Tegang    2-1     Chongqing Lifan
@@ -291,7 +323,9 @@ Tianjin Teda CEC  4-2  Yunnan Hongta
   [Chi Rongliang 16, Souza 35, Yang Xu 54, Yu Genwei 64; Hu Wei 58,
    Kiriakov 73; att: 15,000]
 
-Round: 15 [Jul 8]
+Round: 15 
+Date: 7/8/2001
+
 Chongqing Lifan         0-3     Shenzhen Kejian Ping'an
   [Li Yi 35, Shivute 49, Tiago 56; att: 15,000]
 Dalian Shide         8-0 Army August 1st Zhenbang
@@ -307,7 +341,9 @@ Sichuan Shangwutong    1-4 Tianjin Teda CEC
 Yunnan Hongta       2-2    Shaanxi Guoli Hans Beer
   [Li Zhi 48, 67; Douglas 61, Zhou Haogang 79; att: 10,000]
 
-Round: 16 [Jul 12]
+Round: 16 
+Date: 7/12/2001
+
 Army August 1st         2-0     Shenyang Ginde
   [Wei Yimin 6, Sun Xinbo 55; att: 11,000]
 Beijing Guoan       3-0   Chongqing Lifan
@@ -323,7 +359,9 @@ Shenzhen Kejian Ping'an     2-0 Shandong Luneng Taishan
 Tianjin Teda CEC      1-3 Dalian Shide
   [Castiano 30; Hao Haidong 8, 81, Yan Song 45; att: 20,000]
 
-Round: 17 [Jul 15]
+Round: 17 
+Date: 7/15/2001
+
 Army August 1st         2-1     Qingdao Beer
   [Huang Yong 54, 63; Mafula 77; att: 20,000]
 Chongqing Lifan       3-0    Shanghai Shenhua Top
@@ -343,7 +381,9 @@ Yunnan Hongta         0-0       Shenzhen Kejian Ping'an
 NB: break until after World Cup qualifiers finished 
 
 Round: 18 
-[Oct 25]
+
+Date: 10/25/2001
+
 Beijing Guoan           4-1     Yunnan Hongta
   [Wang Tao 1, 52pen, Tian Yi 55, 58; Hu Wei 75; att: 10,000]
 Qingdao Beer          2-4  Chongqing Lifan
@@ -361,7 +401,9 @@ Liaoning Fushun Tegang  3-2     Dalian Shide
   [Chen Yang 15, Wang Liang 60, Zhang Yuning 85; Hao Haidong 11pen,
    Sun Jihai 90; att: 15,000]
 
-Round: 19 [Oct 28]
+Round: 19 
+Date: 10/28/2001
+
 Dalian Shide    3-0     Shenzhen Kejian Ping'an
   [Orlando 31, 74, Sun Gang 59og; att: 10,000 (at Jinzhou Stadium)]
 Shaanxi Guoli      1-0 Army August 1st Zhenbang
@@ -531,7 +573,9 @@ China Cup 2001
 
 Mexin Doors FA Cup
 
-Round: 1 [Apr 29]
+Round: 1 
+Date: 4/29/2001
+
 Dalian Shide    2-1     Tianjin Lifei
   [Orlando 66, Sejan 85; Amir 68pen; att: 3,000 (at Jinzhou Stadium)]
 Guangdong Hongyuan   3-0 Sichuan Shangwutong
@@ -553,7 +597,9 @@ Xiamen Hongshi            0-1  Henan Jianye
 Yunnan Hongta      3-2  Shanghai Zhongyuan Huili
   [Kiriakov 6pen, 15pen, Yang Wei 67; Williams 10, 23; att: 8,000]
 
-Round: 2 [May 26]
+Round: 2 
+Date: 5/26/2001
+
 Changchun Yatai         1-0     Guangdong Hongyuan
   [Gaida 1; att: 8,000]
 Henan Jianye            1-3     Dalian Shide
@@ -574,7 +620,9 @@ Yunnan Hongta         0-1    Beijing Guoan
 
 Quarter-Finals 
 
-First Legs [Jul 29]
+First Legs 
+Date: 7/29/2001
+
 Beijing Guoan           2-1     Shenzhen Kejian Ping'an
   [Tian Ye 33, Wang Tao 51; Tiago 13; att: 18,000]
 Changchun Yatai         2-1 Shandong Luneng Taishan
@@ -585,7 +633,9 @@ Dalian Shide        5-2   Qingdao Beer
 Tianjin Teda CEC        2-1     Wuhan Hongjinlong
   [Chen Licheng 64, Gao Feng 82; Marcelo 37; att: 20,000]
 
-Second Legs [Aug 5]
+Second Legs 
+Date: 8/5/2001
+
 Qingdao Beer            0-3     Dalian Shide
   [Zou Jie 32, Zhu Guanghui 71, Chen Dong 77; att: 10,000]
   [Dalian Shide won 8-2 on aggregate]
@@ -602,14 +652,20 @@ Wuhan Hongjinlong    1-0 Tianjin Teda CEC
 Semi-Finals 
 
 First Legs
-[Sep 2]
+
+Date: 9/2/2001
+
 Wuhan Hongjinlong       0-0     Beijing Guoan
   [att: 15,000 (at Xianning)]
-[Sep 5]
+
+Date: 9/5/2001
+
 Dalian Shide            3-1     Shandong Luneng Taishan
   [Orlando 9, 90, Bajcetic 83; Song Lihui 46; att: 15,000 (at Jinzhou Stadium)]
 
-Second Legs [Sep 9]
+Second Legs 
+Date: 9/9/2001
+
 Beijing Guoan           3-1     Wuhan Hongjinlong
   [Xue Shen 46, Dimitrov 63, Shang Yi 90; Zhang Bin 61; att: 8,000]
   [Beijing Guoan won 3-1 on aggregate]
@@ -697,7 +753,9 @@ Final Table:
     round 21 match and were relegated as punishment (no relegation had been
     planned).
 
-Round: 1 [Mar 24]
+Round: 1 
+Date: 3/24/2001
+
 Guangdong Hongyuan      0-0     Changchun Yatai
   [att: 10,000]
 Guangzhou Jili Cars     1-0     Henan Jianye
@@ -711,7 +769,9 @@ Sichuan Mianyang Taiji 2-2      Tianjin Lifei
 Zhejiang Sanhua Lucheng     2-2 Chengdu Wuniu Guotai
   [Antoni 47, Xia Qing 72; Asasi 36, Li Yuzhan 77; att: 25,000]
 
-Round: 2 [Mar 31]
+Round: 2 
+Date: 3/31/2001
+
 Chengdu Wuniu Guotai    2-0     Guangdong Hongyuan
   [Maximilian 60pen, Peng Xiaofang 83; att: 7,000]
 Guangzhou Jili Cars  1-0  Changchun Yatai
@@ -725,7 +785,9 @@ Tianjin Lifei        1-1  Wuhan Hongjinlong
 Xiamen Hongshi      1-1   Zhejiang Sanhua Lucheng
   [Gao Yuyong 35; Valencia 5; att: 24,000]
 
-Round: 3 [Apr 7]
+Round: 3 
+Date: 4/7/2001
+
 Guangdong Hongyuan      3-4     Xiamen Hongshi
   [Li Haiqiang 13, 50, 90pen; Fabio 35, 45, Yu Yuanwei 67pen, Agbo 80; 
    att: 10,000]
@@ -740,7 +802,9 @@ Wuhan Hongjinlong   1-0  Henan Jianye
 Zhejiang Sanhua Lucheng 4-0     Sichuan Mianyang Taiji
   [Apelstav 2, Valencia 48, 77, Yu Fen 90; att: 30,000]
 
-Round: 4 [Apr 14]
+Round: 4 
+Date: 4/14/2001
+
 Changchun Yatai         2-0     Wuhan Hongjinlong
   [Gaida 10, Du Zhenyu 63; att: 12,000]
 Chengdu Wuniu Guotai   1-1 Shanghai Zhongyuan Huili
@@ -754,7 +818,9 @@ Tianjin Lifei           0-1     Henan Jianye
 Xiamen Hongshi      1-1 Guangzhou Jili Cars
   [Zhang Jun 30; Katalay 33; att: 21,000]
 
-Round: 5 [Apr 21]
+Round: 5 
+Date: 4/21/2001
+
 Guangdong Hongyuan      1-1     Jiangsu Shuntian
   [Stefanovic 80; Ribeiro 2; att: 10,000]
 Guangzhou Jili Cars       1-0     Sichuan Mianyang Taiji
@@ -769,7 +835,9 @@ Wuhan Hongjinlong     2-2    Chengdu Wuniu Guotai
 Zhejiang Sanhua Lucheng 6-0     Tianjin Lifei
   [Yu Fen 22, 78, Philip 44, 55, Tan Ende 70, Valencia 90; att: 19,000]
 
-Round: 6 [May 5]
+Round: 6 
+Date: 5/5/2001
+
 Chengdu Wuniu Guoteng   1-0     Henan Jianye
   [Asasi 67; att: 5,000]
 Jiangsu Shuntian  1-1   Guangzhou Jili Cars
@@ -783,7 +851,9 @@ Xiamen Hongshi      2-0   Wuhan Hongjinlong
 Zhejiang Sanhua Lucheng    2-0  Guangdong Hongyuan
   [Phillip 47, Li Guanghao 57; att: 26,000]
 
-Round: 7 [May 12]
+Round: 7 
+Date: 5/12/2001
+
 Changchun Yatai         1-1     Chengdu Wuniu Guoteng
   [Gaida 64; Peng Xiaofang 56; att: 12,000]
 Guangdong Hongyuan         1-0 Tianjin Lifei
@@ -797,7 +867,9 @@ Shanghai Zhongyuan H 1-0  Jiangsu Shuntian
 Wuhan Hongjinlong  1-1  Sichuan Mianyang Taiji
   [Jefferson 79; Juan Freili 90; att: 10,000]
 
-Round: 8 [May 19]
+Round: 8 
+Date: 5/19/2001
+
 Guangdong Hongyuan      1-1     Guangzhou Jili Cars
   [Li Haiqiang 6; Feng Minzhi 35; att: 10,000]
 Jiangsu Shuntian  1-0  Wuhan Hongjinlong
@@ -811,7 +883,9 @@ Xiamen Hongshi      0-2    Changchun Yatai
 Zhejiang Sanhua Lucheng    2-2 Shanghai Zhongyuan Huili
   [Valencia 44pen, Phillip 71; Jashia 70, Cheng Liang 83; att: 48,000]
 
-Round: 9 [Jun 2]
+Round: 9 
+Date: 6/2/2001
+
 Changchun Yatai         3-0     Sichuan Mianyang Taiji
   [Du Zhenyu 4, David 62, 71; att: 12,000]
 Chengdu Wuniu Guotai  1-2 Xiamen Hongshi
@@ -825,7 +899,9 @@ Shanghai Zhongyuan H  1-0  Guangdong Hongyuan
 Wuhan Hongjinlong  3-1  Zhejiang Sanhua Lucheng
   [Zheng Bin 42, Wang Xiaoshi 51, 83; Yang Changjin 90; att: 10,000]
 
-Round: 10 [Jun 9]
+Round: 10 
+Date: 6/9/2001
+
 Guangdong Hongyuan      0-2     Wuhan Hongjinlong
   [Wang Xiaoshi 44, Zhang Bin 82; att: 4,500]
 Guangzhou Jili Cars 2-1   Shanghai Zhongyuan Huili
@@ -839,7 +915,9 @@ Tianjin Lifei        1-2 Xiamen Hongshi
 Zhejiang Sanhua Lucheng    4-0 Henan Jianye
   [Valencia 10pen, 13, Andoni 31, Yu Fen 50pen; att: 35,000]
 
-Round: 11 [Jun 16]
+Round: 11 
+Date: 6/16/2001
+
 Changchun Yatai         0-0     Zhejiang Sanhua Lucheng
   [att: 15,000]
 Chengdu Wuniu Guoteng   1-4     Jiangsu Shuntian
@@ -854,7 +932,9 @@ Wuhan Hongjinlong       1-0     Guangzhou Jili Cars
 Xiamen Hongshi        2-0       Sichuan Mianyang Taiji
   [Fabio 34, Wang Haibo 70pen; att: 12,000]
 
-Round: 12 [Jun 30]
+Round: 12 
+Date: 6/30/2001
+
 Changchun Yatai         2-0     Guangdong Hongyuan
   [Hu Haodong 46pen, 90; att: 15,000]
 Chengdu Wuniu Guoteng    3-2  Zhejiang Sanhua Lucheng
@@ -868,7 +948,9 @@ Wuhan Hongjinlong    1-1        Shanghai Zhongyuan Huili
 Xiamen Hongshi            0-0 Jiangsu Shuntian
   [att: 16,000]
 
-Round: 13 [Jul 7]
+Round: 13 
+Date: 7/7/2001
+
 Changchun Yatai         2-0     Guangzhou Jili Cars
   [Liu Chengjun 53, Du Zhenyu 68; att: 12,000]
 Guangdong Hongyuan  0-1       Chengdu Wuniu Guotai
@@ -882,7 +964,9 @@ Wuhan Hongjinlong  0-0 Tianjin Lifei
 Zhejiang Sanhua Lucheng 1-1     Xiamen Hongshi
   [Valencia 28; Fabio 60; att: 20,000]
 
-Round: 14 [Jul 14]
+Round: 14 
+Date: 7/14/2001
+
 Changchun Yatai         1-5     Shanghai Zhongyuan Huili
   [Leuppino 57; Andres 14, 60, Williams 15, Lu Wei 71, Jashia 90;
    att: 28,000]
@@ -897,7 +981,9 @@ Tianjin Lifei       1-1      Jiangsu Shuntian
 Xiamen Hongshi            1-0  Guangdong Hongyuan
   [Fabio 51; att: 10,000]
 
-Round: 15 [Jul 21]
+Round: 15 
+Date: 7/21/2001
+
 Guangdong Hongyuan      3-0     Sichuan Mianyang Taiji
   [Wajinnuo 45, 55, Li Haiqiang 64; att: 2,000]
 Guangzhou Jili Cars 2-2         Xiamen Hongshi
@@ -911,7 +997,9 @@ Wuhan Hongjinlong  0-1 Changchun Yatai
 Zhejiang Sanhua Lucheng  0-1    Jiangsu Shuntian
   [Wu Jun 84; att: 40,000]
 
-Round: 16 [Aug 11]
+Round: 16 
+Date: 8/11/2001
+
 Changchun Yatai         1-1     Henan Jianye 
   [Leuppino 51; Song Qi 56; att: 12,000 ]
 Chengdu Wuniu Guoteng   3-0     Wuhan Hongjinlong 
@@ -925,7 +1013,9 @@ Tianjin Lifei           0-2     Zhejiang Sanhua Lucheng
 Xiamen Hongshi          3-1     Shanghai Zhongyuan Huili 
   [Tang Xiaocheng 15, 66, Gao Yuyong 41; Andres 83; att: 22,000]
 
-Round: 17 [Aug 18]
+Round: 17 
+Date: 8/18/2001
+
 Changchun Yatai         8-0     Tianjin Lifei
   [Wang Dong 7, Leuppino 43pen, 88, Gaohaile 67, 80, 83, David 69,
    Wei Dong 85; att: 10,000]
@@ -942,7 +1032,9 @@ Wuhan Hongjinlong       5-2     Xiamen Hongshi
   [Rodrigues 19, 26, 89, Da Silva 65, Zeng Qinggao 73; Yang Gang 12,
    Huang Yong 59; att: 10,000]
 
-Round: 18 [Aug 25]
+Round: 18 
+Date: 8/25/2001
+
 Chengdu Wuniu Guoteng   0-0     Changchun Yatai
   [att: 5,000]
 Jiangsu Shuntian        1-0     Shanghai Zhongyuan Huili
@@ -957,7 +1049,9 @@ Xiamen Hongshi       5-3 Henan Jianye
 Zhejiang Sanhua Lucheng 0-3     Guangzhou Jili Cars
   [Tumu 27, 32, Katalay 47; att: 10,000]
 
-Round: 19 [Sep 15]
+Round: 19 
+Date: 9/15/2001
+
 Changchun Yatai         3-2     Xiamen Hongshi
   [Wei Dong 17, Li Hongzheng 66, 70; Agbo 12, 77; att: 12,000]
 Chengdu Wuniu Guoteng        1-2 Tianjin Lifei
@@ -971,7 +1065,9 @@ Shanghai Zhongyuan H.     1-0 Zhejiang Sanhua Lucheng
 Wuhan Hongjinlong  1-3  Jiangsu Shuntian
   [Luo Hao 74; Rodrigues 24, Tang Jing 43, Kadiji 69; att: 6,000]
 
-Round: 20 [Sep 22]
+Round: 20 
+Date: 9/22/2001
+
 Guangdong Hongyuan      0-2     Shanghai Zhongyuan Huili
   [Williams 8, Andres 55; att: 4,000]
 Jiangsu Shuntian      1-0 Henan Jianye
@@ -985,7 +1081,9 @@ Xiamen Hongshi          2-4     Chengdu Wuniu Guoteng
 Zhejiang Sanhua Lucheng 2-2 Wuhan Hongjinlong
   [Valencia 37pen, Yang Changjin 60; Wang Xiaoshi 48, Da Silva 55; att: 3,000]
 
-Round: 21 [Sep 29]
+Round: 21 
+Date: 9/29/2001
+
 Changchun Yatai         2-0     Jiangsu Shuntian
   [Gaohaile 65, David 88pen; att: 25,000]
 Chengdu Wuniu Guoteng  11-2  Sichuan Mianyang Taiji
@@ -1002,7 +1100,9 @@ Wuhan Hongjinlong  1-0 Guangdong Hongyuan
 Xiamen Hongshi        2-1       Tianjin Lifei
   [Fabio 58, 77; Adiba 60; att: 1,000]
 
-Round: 22 [Oct 6]
+Round: 22 
+Date: 10/6/2001
+
 Guangdong Hongyuan      1-2     Henan Jianye
   [Duaili 72; Liang Yong 35, 88; att: 1,000]
 Guangzhou Jili Cars 3-1  Wuhan Hongjinlong
