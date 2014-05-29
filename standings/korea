@@ -477,3 +477,27 @@ Season: 2012
 *(C) Copyright Seungsoo Lee, Mark Trevena and RSSSF 1998/2010
 *You are free to copy this document in whole or part provided that proper acknowledgement is given to the authors. All rights reserved.
 
+
+Key: position; team; games; wins; ties; losses; goals_for; goals_against; points; notes
+
+
+Season: 2013
+BlockSource: http://www.rsssf.com/tabless/skor2013.html
+
+ 1; Pohang Steelers                 ; 26;  14;  7;  5;  42; 26 ; 49 ; Championship Group
+ 2; Ulsan Hyundai Horang-i          ; 26;  14;  6;  6;  48; 29 ; 48 ; Championship Group
+ 3; Jeonbuk Hyundai Motors (Jeonju) ; 26;  14;  6;  6;  50; 33 ; 48 ; Championship Group
+ 4; FC Seoul                        ; 26;  13;  7;  6;  44; 31 ; 46 ; Championship Group
+ 5; Suwon Samsung Bluewings         ; 26;  12;  5;  9;  38; 29 ; 41 ; Championship Group
+ 6; Incheon United                  ; 26;  11;  8;  7;  37; 30 ; 41 ; Championship Group
+ 7; Busan I'Park                    ; 26;  11;  7;  8;  33; 27 ; 40 ; Championship Group
+
+ 8; Seongnam Ilhwa Chunma           ; 26;  11;  7;  8;  36; 31 ; 40 ; Relegation Group
+ 9; Jeju United                     ; 26;  10;  9;  7;  40; 34 ; 39 ; Relegation Group
+10; Chunnam Dragons (Gwangyang)     ; 26;   6; 11;  9;  24; 29 ; 29 ; Relegation Group
+11; Gyeongnam FC                    ; 26;   4; 10; 12;  26; 41 ; 22 ; Relegation Group
+12; Daegu FC                        ; 26;   4;  8; 14;  24; 41 ; 20 ; Relegation Group
+13; Gangwon FC                      ; 26;   2;  9; 15;  18; 49 ; 15 ; Relegation Group
+14; Daejeon Citizen                 ; 26;   2;  8; 16;  22; 52 ; 14 ; Relegation Group
+
+

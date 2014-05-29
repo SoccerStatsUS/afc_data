@@ -62,7 +62,7 @@ Date: 10/27/2012
 
 Date: 10/28/2012
 
-;; Air-India;           0-1 Mohun Bagan         
+; Air-India;           0-1; Mohun Bagan         
 ; Salgaocar          ; 0-0; Pailan Arrows       
 ; Shillong Lajong    ; 1-2; SC Goa              
 ; United Sikkim      ; 1-2; Dempo               
@@ -95,7 +95,7 @@ Date: 11/9/2012
 
 Date: 11/10/2012
 
-;; Air-India;           0-3 East Bengal         
+; Air-India;           0-3; East Bengal         
 ; Dempo              ; 4-1; Shillong Lajong     
 ; Prayag United     ; 10-1; United Sikkim       
 
@@ -139,7 +139,7 @@ Date: 11/25/2012
 Round: 8
 Date: 11/27/2012
 
-;; Air-India;           3-3 United Sikkim       
+; Air-India;           3-3; United Sikkim       
 ; East Bengal        ; 1-0; Salgaocar           
 ; SC Goa             ; 1-2; Pune FC             
 
@@ -173,7 +173,7 @@ Date: 12/8/2012
 
 Date: 12/9/2012
 
-;; Air-India;           4-1 Mumbai FC           
+; Air-India;           4-1; Mumbai FC           
 
 *East Bengal         awd Mohun Bagan         [awarded 3-0; abandoned at 1-0 in 45']
 *  [Mohun Bagan walked off after their player Syed Rahim Nabi had been carried off to
@@ -182,7 +182,7 @@ Date: 12/9/2012
 *   to continue the match, they were excluded from the league and banned for two seasons;
 *   all their results were annulled; however, on Jan 15, Mohun Bagan were readmitted, 
 *   their punishment being reduced to the deduction of 12 points]
-Salgaocar           0-2 Pune FC             
+; Salgaocar          ; 0-2; Pune FC             
 
 Date: 12/10/2012
 
@@ -200,7 +200,7 @@ Date: 12/15/2012
 
 Date: 12/16/2012
 
-;; Air-India;           1-1 Shillong Lajong     
+; Air-India;           1-1; Shillong Lajong     
 ; Churchill Brothers ; 8-4; SC Goa              
 ; East Bengal        ; 0-1; Prayag United       
 
@@ -256,7 +256,7 @@ Date: 1/4/2012
 
 Date: 1/5/2012
 
-;; Air-India;           1-1 SC Goa              
+; Air-India;           1-1; SC Goa              
 ; ONGC               ; 3-0; Pailan Arrows       
 ; Salgaocar          ; 1-4; East Bengal         
 ; United Sikkim      ; 1-2; Pune FC             
@@ -268,7 +268,7 @@ Date: 4/10/2012
 Round: 15
 Date: 1/8/2012
 
-;; Air-India;           1-1 Salgaocar           
+; Air-India;           1-1; Salgaocar           
 ; ONGC               ; 1-0; East Bengal         
 ; SC Goa             ; 0-0; Shillong Lajong     
 
@@ -285,7 +285,7 @@ Date: 3/31/2012
 Round: 16
 Date: 1/12/2012
 
-;; Air-India;           1-1 Pailan Arrows       
+; Air-India;           1-1; Pailan Arrows       
 ; ONGC               ; 1-0; Salgaocar           
 ; SC Goa             ; 1-2; Prayag United       
 
@@ -314,7 +314,7 @@ Date: 1/20/2012
 
 Date: 3/3/2012
 
-;; Air-India;           1-2 ONGC                
+; Air-India;           1-2; ONGC                
 
 Round: 18
 Date: 1/24/2012
@@ -344,7 +344,7 @@ Date: 2/1/2012
 
 Date: 2/2/2012
 
-;; Air-India;           1-4 Prayag United       
+; Air-India;           1-4; Prayag United       
 ; Dempo              ; 2-2; Mumbai FC           
 ; Pailan Arrows      ; 1-2; East Bengal         
 ; Pune FC            ; 0-2; Salgaocar           
@@ -359,7 +359,7 @@ Date: 2/9/2012
 
 Date: 2/10/2012
 
-;; Air-India;           2-1 Dempo               
+; Air-India;           2-1; Dempo               
 ; Churchill Brothers ; 2-2; Prayag United       
 ; Pailan Arrows      ; 0-2; SC Goa              
 ; United Sikkim      ; 0-1; ONGC                
@@ -445,7 +445,7 @@ Date: 4/19/2012
 
 Date: 4/20/2012
 
-;; Air-India;           0-6 Pune FC             
+; Air-India;           0-6; Pune FC             
 ; ONGC               ; 1-1; Mumbai FC           
 ; Pailan Arrows      ; 1-2; Salgaocar           
 
@@ -467,7 +467,7 @@ Date: 5/11/2012
 
 Date: 5/12/2012
 
-;; Air-India;           0-3 Churchill Brothers  
+; Air-India;           0-3; Churchill Brothers  
 ; Dempo              ; 2-1; Salgaocar           
 ; East Bengal        ; 0-1; Shillong Lajong     
 ; United Sikkim      ; 0-3; Mohun Bagan         
