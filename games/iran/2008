@@ -34,12 +34,12 @@ Date: 8/5/2008
 
 ; Saba         ; 1-1; Peykan
 ; Malavan      ; 0-1; Rah-Ahan      
-;; Hamadan-Paas;  0-0 Sepahan       
+; Hamadan-Paas;  0-0; Sepahan       
 ; Payam        ; 1-2; Bargh   
 ; Esteghlal T  ; 2-0; AbooMoslem    
 ; Moghavemat   ; 0-1; Foolad        
 ; Esteghlal A  ; 1-1; Pegah         
-;; Zob-Ahan;      1-0 Mes            
+; Zob-Ahan;      1-0; Mes            
 
 Round: 2 
 Date: 8/9/2008
@@ -47,7 +47,7 @@ Date: 8/9/2008
 ; Pegah        ; 1-0; Esteghlal T
 ; Peykan       ; 1-2; Zob-Ahan 
 ; AbooMoslem   ; 1-0; Saba
-;; Rah-Ahan;      0-0 Moghavemat 
+; Rah-Ahan;      0-0; Moghavemat 
 ; Mes          ; 4-0; Esteghlal A
 ; Bargh        ; 3-0; Malavan 
 ; Pirouzi      ; 3-1; Hamadan-Paas
@@ -62,9 +62,9 @@ Date: 8/17/2008
 
 ; Malavan      ; 2-2; Pirouzi
 ; Saipa        ; 0-1; Peykan 
-;; Hamadan-Paas;  2-1 AbooMoslem
+; Hamadan-Paas;  2-1; AbooMoslem
 ; Payam        ; 1-2; Foolad  
-;; Zob-Ahan;      2-1 Pegah 
+; Zob-Ahan;      2-1; Pegah 
 ; Moghavemat   ; 2-0; Mes 
 ; Esteghlal T  ; 1-1; Sepahan
 ; Esteghlal A  ; 1-1; Rah-Ahan 
@@ -78,7 +78,7 @@ Date: 8/24/2008
 
 ; Mes          ; 1-0; Esteghlal T
 ; Peykan       ; 2-2; Moghavemat 
-;; Rah-Ahan;      1-2 Saipa 
+; Rah-Ahan;      1-2; Saipa 
 ; Bargh        ; 2-0; Hamadan-Paas
 ; Pegah        ; 1-1; Payam 
 ; Sepahan      ; 2-0; Saba 
@@ -95,8 +95,8 @@ Date: 9/11/2008
 
 Date: 9/12/2008
 
-;; Rah-Ahan;      1-4 Peykan
-;; Hamadan-Paas;  1-0 Payam
+; Rah-Ahan;      1-4; Peykan
+; Hamadan-Paas;  1-0; Payam
 ; AbooMoslem   ; 4-0; Zob-Ahan
 ; Esteghlal A  ; 1-1; Moghavemat
 ; Sepahan      ; 0-0; Malavan
@@ -109,7 +109,7 @@ Date: 9/16/2008
 
 Date: 9/18/2008
 
-;; Zob-Ahan;      2-1 Sepahan
+; Zob-Ahan;      2-1; Sepahan
 ; Peykan       ; 3-1; Malavan
 ; Foolad       ; 0-0; AbooMoslem
 ; Pegah        ; 2-2; Rah-Ahan
@@ -127,7 +127,7 @@ Date: 9/25/2008
 ; Pirouzi      ; 2-0; Pegah
 ; Sepahan      ; 2-0; Foolad
 ; Saba         ; 0-0; Payam
-;; Hamadan-Paas;  2-2 Zob-Ahan
+; Hamadan-Paas;  2-2; Zob-Ahan
 ; AbooMoslem   ; 1-2; Moghavemat
 ; Bargh        ; 4-1; Mes
 ; Esteghlal A  ; 2-3; Peykan
@@ -152,9 +152,9 @@ Date: 10/3/2008
 
 ; Pirouzi      ; 1-1; Esteghlal T
 ; Mes          ; 3-1; AbooMoslem
-;; Hamadan-Paas;  0-0 Malavan
-;; Zob-Ahan;      6-3 Saipa
-;; Rah-Ahan;      0-1 Sepahan
+; Hamadan-Paas;  0-0; Malavan
+; Zob-Ahan;      6-3; Saipa
+; Rah-Ahan;      0-1; Sepahan
 
 Round: 10 
 Date: 10/7/2008
@@ -164,7 +164,7 @@ Date: 10/7/2008
 ; Saipa        ; 1-3; Hamadan-Paas
 ; Foolad       ; 2-2; Mes
 ; Malavan      ; 0-1; Payam
-;; Zob-Ahan;      1-0 Rah-Ahan
+; Zob-Ahan;      1-0; Rah-Ahan
 ; Bargh        ; 1-1; Sepahan
 ; Saba         ; 2-0; Esteghlal A
 
@@ -178,10 +178,10 @@ Date: 10/17/2008
 
 ; Esteghlal T  ; 1-1; Bargh
 ; Peykan       ; 2-0; AbooMoslem
-;; Hamadan-Paas;  1-0 Rah-Ahan
+; Hamadan-Paas;  1-0; Rah-Ahan
 ; Payam        ; 2-1; Esteghlal A
 ; Malavan      ; 1-0; Mes
-;; Zob-Ahan;      2-2 Saba
+; Zob-Ahan;      2-2; Saba
 ; Moghavemat   ; 1-1; Pegah
 
 Date: 10/18/2008
@@ -194,9 +194,9 @@ Date: 10/18/2008
 Round: 11
 Date: 10/21/2008
 
-;; Rah-Ahan;      1-1 Saba
+; Rah-Ahan;      1-1; Saba
 ; Payam        ; 1-0; AbooMoslem
-;; Hamadan-Paas;  2-4 Esteghlal T
+; Hamadan-Paas;  2-4; Esteghlal T
 ; Moghavemat   ; 0-2; Zob-Ahan
 ; Esteghlal A  ; 3-0; Malavan
 
@@ -213,7 +213,7 @@ Date: 10/26/2008
 ; Saipa        ; 0-2; Moghavemat
 ; AbooMoslem   ; 3-2; Damash
 ; Mes          ; 3-3; Payam
-;; Zob-Ahan;      1-1 Esteghlal A
+; Zob-Ahan;      1-1; Esteghlal A
 ; Bargh        ; 0-1; Rah-Ahan
 ; Foolad       ; 5-1; Hamadan-Paas
 ; Pirouzi      ; 3-2; Sepahan
@@ -237,7 +237,7 @@ Date: 10/30/2008
 Date: 10/31/2008
 
 ; Peykan       ; 1-0; Bargh
-;; Rah-Ahan;      3-0 AbooMoslem
+; Rah-Ahan;      3-0; AbooMoslem
 ; Damash       ; 1-2; Malavan
 ; Esteghlal A  ; 0-0; Hamadan-Paas
 ; Esteghlal T  ; 2-0; Zob-Ahan
@@ -251,7 +251,7 @@ Date: 11/6/2008
 Date: 11/7/2008
 
 ; Saipa        ; 3-2; Esteghlal A
-;; Hamadan-Paas;  1-1 Moghavemat
+; Hamadan-Paas;  1-1; Moghavemat
 ; Payam        ; 1-3; Zob-Ahan
 ; Mes          ; 2-1; Rah-Ahan
 ; Sepahan      ; 1-1; Damash
@@ -262,7 +262,7 @@ Round: 15
 Date: 11/21/2008
 
 ; Esteghlal T  ; 0-1; Foolad
-;; Rah-Ahan;      0-0 Payam
+; Rah-Ahan;      0-0; Payam
 ; Damash       ; 2-2; Mes
 ; Moghavemat   ; 2-2; Malavan
 ; Saba         ; 3-1; Hamadan-Paas
@@ -275,7 +275,7 @@ Date: 11/22/2008
 Date: 11/25/2008
 
 ; AbooMoslem   ; 0-0; Saipa
-;; Zob-Ahan;      2-1 Bargh
+; Zob-Ahan;      2-1; Bargh
 
 Round: 16
 Date: 11/25/2008
@@ -285,7 +285,7 @@ Date: 11/25/2008
 Date: 11/26/2008
 
 ; Pirouzi      ; 1-0; Esteghlal A  
-;; Hamadan-Paas;  2-0 Peykan  
+; Hamadan-Paas;  2-0; Peykan  
 
 Date: 11/29/2008
 
@@ -309,11 +309,11 @@ Date: 12/4/2008
 
 ; Moghavemat   ; 1-0; Sepahan      
 ; Damash       ; 1-0; Hamadan-Paas 
-;; Zob-Ahan;      2-2 Foolad       
+; Zob-Ahan;      2-2; Foolad       
 ; Peykan       ; 1-1; Mes          
 ; Saba         ; 2-0; Saipa        
 ; Esteghlal A  ; 1-0; Bargh        
-;; Rah-Ahan;      1-2 Pirouzi      
+; Rah-Ahan;      1-2; Pirouzi      
 
 Round: 18
 Date: 12/7/2008
@@ -326,7 +326,7 @@ Date: 12/8/2008
 ; Damash       ; 2-4; Esteghlal A  
 ; Sepahan      ; 2-2; Hamadan-Paas 
 ; Foolad       ; 0-1; Moghavemat   
-;; Rah-Ahan;      1-0 Malavan      
+; Rah-Ahan;      1-0; Malavan      
 ; Peykan       ; 0-1; Saba    
 
 Date: 12/9/2008
@@ -342,7 +342,7 @@ Date: 12/12/2008
 
 ; Payam        ; 2-2; Sepahan      
 ; Moghavemat   ; 1-3; Rah-Ahan     
-;; Zob-Ahan;      2-0 Peykan       
+; Zob-Ahan;      2-0; Peykan       
 ; Esteghlal A  ; 1-0; Mes          
 ; Saba         ; 1-0; AbooMoslem   
 ; Malavan      ; 1-0; Bargh        
@@ -351,14 +351,14 @@ Date: 12/12/2008
 Date: 12/13/2008
 
 ; Saipa        ; 3-2; Foolad       
-;; Hamadan-Paas;  0-3 Pirouzi      
+; Hamadan-Paas;  0-3; Pirouzi      
 
 Round: 20
 Date: 12/29/2008
 
 ; AbooMoslem   ; 2-1; Hamadan-Paas 
 ; Foolad       ; 3-0; Payam     
-;; Rah-Ahan;      2-2 Esteghlal A   
+; Rah-Ahan;      2-2; Esteghlal A   
 
 Date: 12/30/2008
 
@@ -377,12 +377,12 @@ Date: 1/3/2009
 
 ; Moghavemat   ; 1-2; Peykan       
 ; Payam        ; 3-2; Damash       
-;; Hamadan-Paas;  1-0 Bargh        
+; Hamadan-Paas;  1-0; Bargh        
 ; Saipa        ; 1-0; Rah-Ahan     
 ; Malavan      ; 3-0; Foolad       
 ; Saba         ; 1-1; Sepahan      
 ; Esteghlal T  ; 2-1; Mes          
-;; Zob-Ahan;      3-1 Pirouzi  
+; Zob-Ahan;      3-1; Pirouzi  
 
 Date: 1/4/2009
 
@@ -392,7 +392,7 @@ Round: 22
 Date: 1/16/2009
 
 ; AbooMoslem   ; 1-0; Peykan
-;; Rah-Ahan;      2-1 Hamadan-Paas  
+; Rah-Ahan;      2-1; Hamadan-Paas  
 ; Esteghlal A  ; 1-0; Payam
 ; Mes          ; 1-0; Malavan      
 ; Saba         ; 0-0; Zob-Ahan
@@ -416,7 +416,7 @@ Date: 1/23/2009
 ; Foolad       ; 3-1; Bargh
 ; Peykan       ; 0-1; Rah-Ahan 
 ; Payam        ; 1-4; Hamadan-Paas  
-;; Zob-Ahan;      0-3 AbooMoslem  
+; Zob-Ahan;      0-3; AbooMoslem  
 ; Moghavemat   ; 1-0; Esteghlal A 
 ; Esteghlal T  ; 2-1; Saba
 
@@ -425,11 +425,11 @@ Date: 1/30/2009
 
 ; Malavan      ; 1-1; Peykan
 ; AbooMoslem   ; 1-2; Foolad
-;; Rah-Ahan;      1-0 Damash
+; Rah-Ahan;      1-0; Damash
 
 Date: 1/31/2009
 
-;; Hamadan-Paas;  1-1 Mes
+; Hamadan-Paas;  1-1; Mes
 ; Pirouzi      ; 1-0; Payam
 ; Sepahan      ; 1-2; Zob-Ahan
 ; Saba         ; 2-0; Moghavemat   
@@ -442,11 +442,11 @@ Date: 2/4/2009
 ; Damash       ; 1-2; Pirouzi
 ; Foolad       ; 2-2; Sepahan
 ; Payam        ; 1-1; Saba
-;; Zob-Ahan;      2-1 Hamadan-Paas 
+; Zob-Ahan;      2-1; Hamadan-Paas 
 ; Moghavemat   ; 0-0; AbooMoslem  
 ; Mes          ; 2-1; Bargh       
 ; Peykan       ; 1-0; Esteghlal A 
-;; Rah-Ahan;      1-5 Esteghlal T  
+; Rah-Ahan;      1-5; Esteghlal T  
 ; Saipa        ; 2-1; Malavan
 
 Round: 26
@@ -474,9 +474,9 @@ Date: 2/17/2009
 Date: 2/18/2009
 
 ; Esteghlal A  ; 1-1; Saba
-;; Rah-Ahan;      0-1 Zob-Ahan
+; Rah-Ahan;      0-1; Zob-Ahan
 ; Damash       ; 1-0; Peykan
-;; Hamadan-Paas;  2-1 Saipa
+; Hamadan-Paas;  2-1; Saipa
 ; Mes          ; 3-2; Foolad
 ; Payam        ; 2-0; Malavan
 ; Moghavemat   ; 4-1; Esteghlal T
@@ -489,7 +489,7 @@ Date: 2/21/2009
 Date: 2/22/2009
 
 ; Saipa        ; 1-1; Mes
-;; Zob-Ahan;      3-1 Moghavemat
+; Zob-Ahan;      3-1; Moghavemat
 ; Peykan       ; 0-1; Sepahan
 ; Foolad       ; 3-0; Damash
 ; Malavan      ; 1-0; Esteghlal A
@@ -501,12 +501,12 @@ Round: 29
 Date: 2/27/2009
 
 ; Sepahan      ; 0-0; Pirouzi
-;; Rah-Ahan;      3-0 Bargh
+; Rah-Ahan;      3-0; Bargh
 ; Esteghlal A  ; 0-2; Zob-Ahan
 ; Saba         ; 3-0; Malavan
 ; Damash       ; 1-0; AbooMoslem
 ; Payam        ; 1-2; Mes
-;; Hamadan-Paas;  0-0 Foolad
+; Hamadan-Paas;  0-0; Foolad
 ; Moghavemat   ; 0-0; Saipa
 
 Date: 2/28/2009
@@ -521,11 +521,11 @@ Date: 3/3/2009
 
 Date: 3/4/2009
 
-;; Zob-Ahan;      1-1 Esteghlal T
+; Zob-Ahan;      1-1; Esteghlal T
 ; Malavan      ; 1-1; Damash
 ; Saipa        ; 1-2; Payam
 ; Mes          ; 2-1; Sepahan
-;; Hamadan-Paas;  5-1 Esteghlal A
+; Hamadan-Paas;  5-1; Esteghlal A
 ; AbooMoslem   ; 0-0; Rah-Ahan
 ; Bargh        ; 1-2; Peykan
 
@@ -534,8 +534,8 @@ Date: 4/3/2009
 
 ; Esteghlal A  ; 3-1; Saipa
 ; Esteghlal T  ; 3-0; Malavan
-;; Rah-Ahan;      0-1 Mes
-;; Zob-Ahan;      2-0 Payam
+; Rah-Ahan;      0-1; Mes
+; Zob-Ahan;      2-0; Payam
 ; Peykan       ; 0-1; Foolad
 ; Damash       ; 1-1; Sepahan
 ; Moghavemat   ; 0-1; Hamadan-Paas 
@@ -553,15 +553,15 @@ Date: 4/12/2009
 ; Saipa        ; 0-0; AbooMoslem
 ; Sepahan      ; 2-1; Esteghlal A
 ; Malavan      ; 1-0; Moghavemat
-;; Hamadan-Paas;  0-0 Saba          
+; Hamadan-Paas;  0-0; Saba          
 
 Round: 33 
 Date: 4/16/2009
 
 ; Esteghlal T  ; 1-1; Saipa
-;; Zob-Ahan;      3-0 Malavan
+; Zob-Ahan;      3-0; Malavan
 ; Saba         ; 1-3; Mes
-;; Rah-Ahan;      2-1 Foolad
+; Rah-Ahan;      2-1; Foolad
 ; Peykan       ; 1-0; Hamadan-Paas 
 ; AbooMoslem   ; 1-2; Sepahan
 ; Esteghlal A  ; 2-1; Pirouzi
@@ -579,7 +579,7 @@ Date: 4/26/2009
 ; Sepahan      ; 0-0; Moghavemat
 ; Malavan      ; 0-0; AbooMoslem
 ; Bargh        ; 0-3; Esteghlal A
-;; Hamadan-Paas;  3-3 Damash
+; Hamadan-Paas;  3-3; Damash
 
 * 1.Esteghlal (Tehran)         34 19  9  6  70-34  66  Champions
 * 2.Zob-Ahan (Isfahan)         34 19  9  6  58-42  66
