@@ -24,45 +24,39 @@ Date: 8/28/2003
 ; Paas        ; 2-2; Esteghlal T
   Bayatinia 6, Nekonam 68; Nikbakht 71, Akbari 80
 
-
 Date: 8/29/2003
 
 ; Pirouzi     ; 8-2; Pegah
-  Salmani 15, Daei 38, 71, 85, 90, Peirovani 56, Kazemian 61, 78;
-   Khojoeian 18, Nori 67
+  Salmani 15, Daei 38, Daei 71, Daei 85, Daei 90, Peirovani 56, Kazemian 61, Kazemian 78; Khojoeian 18, Nori 67
 
 ; Bargh       ; 3-4; Esteghlal A
-  Golamreza Abasfard 72, Mohammad Mansori, Alireza Abasfard 87;
-   Adriano 35, 85, Rezaei 62, 80
+  Golamreza Abasfard 72, Mohammad Mansori, Alireza Abasfard 87; Adriano 35, Adriano 85, Rezaei 62, Rezaei 80
 
 ; Saipa       ; 0-1; Peykan
-  Kashi 35
+;  Kashi 35
 
 ; Shamoushak  ; 2-2; Sepahan
   Pakniat 4, Eini 75; Bayat 33, Karimi 46
 
 ; Foolad      ; 2-0; AbooMoslem
-  Soleimani 10, Momenzadeh 50
+  Soleimani 10, Momenzadeh 50;
 
 ;; Zob-Ahan;     2-1 Fajr-Sepasi
   Vaziri 42, Taghipor 51; Fallahi 35
 
-
 Round: 2
-
 Date: 9/8/2003
 
 ; AbooMoslem  ; 0-1; Pirouzi
-  Jabari 9
+;  Jabari 9
 
 ; Esteghlal A ; 1-2; Shamoushak
   Adriano 93; Meysam bao 36, Mehdizadeh 88
 
-
 Date: 9/9/2003
 
 ; Pegah       ; 1-0; Pas
-  Dinmohamadi 10
+  Dinmohamadi 10;
 
 ; Esteghlal T ; 2-2; Bargh
   Majidi 20, Aghamohamadi 65; Golamreza Abasfard 80, Alireza Abasfard 88
@@ -74,46 +68,39 @@ Date: 9/9/2003
   Zarei 3; Momenzadeh 50, Bakhtiarizadeh 66
 
 ; Peykan      ; 0-3; Zob-Ahan
-  Vaziri 25, Rajabzadeh 70, Ezokam 91
-
+; Vaziri 25, Rajabzadeh 70, Ezokam 91
 
 Round: 3
-
 Date: 9/13/2003
 
 ;; Zob-Ahan;     3-1 Sepahan
   Omidian 3, Rajabzadeh 51, Vaziri 70; Bayat 31
 
 ; Pirouzi     ; 5-2; Fajr-Sepasi
-  Jabari 31, Daei 66, 69, Kazemian 82, Bagheri 90; Madanchi 27,
-   Shirmardi 87
-
+  Jabari 31, Daei 66, Daei 69, Kazemian 82, Bagheri 90; Madanchi 27, Shirmardi 87
 
 Date: 9/14/2003
 
 ; AbooMoslem  ; 3-0; Pegah
-  Fazli 10, Razaghirad 35, Latifi 80
+  Fazli 10, Razaghirad 35, Latifi 80;
 
 ; Shamoushak  ; 1-2; Esteghlal T
   Geraili 42; Enayati 65, Navazi 87
 
 ; Foolad      ; 2-0; Peykan
-  Momenzadeh 81, 93
+  Momenzadeh 81, Momenzadeh 93;
 
 ; Saipa       ; 1-1; Esteghlal A
   Yousefi 41; Abolhil 85
 
 ; Bargh       ; 1-3; Paas
-  Mansouri 66; Borhani 16, 64, Bayatinia 40
-
+  Mansouri 66; Borhani 16, Borhani 64, Bayatinia 40
 
 Round: 4
-
 Date: 9/18/2003
 
 ; Peykan      ; 2-1; Pirouzi
   Ebrahimian 41, Tahmasebi 45; Bagheri 62
-
 
 Date: 9/19/2003
 
@@ -121,20 +108,19 @@ Date: 9/19/2003
   Nori 34, Salami Bakhsh 46, Khojoeian 85; Gh.Abaasfard 45, Amiri 79
 
 ; Sepahan     ; 2-1; Foolad
-  Bezik 38, 65; Solani 42
+  Bezik 38, Bezik 65; Solani 42
 
 ; Esteghlal A ; 0-1; Zob-Ahan
-  Azizi 27
+;  Azizi 27
 
 ; Paas        ; 2-1; Shamoushak
-  Nekonam (2); Khalatbari
+  Nekonam, Nekonam; Khalatbari
 
 ;; Fajr-Sepasi;  1-0 AbooMoslem
-  Akbarpour 63
+  Akbarpour 63;
 
 ; Esteghlal T ; 3-2; Saipa
-  Nikbakht 11, Majidi 19, 92; Izadi 18, Sadeghi 23
-
+  Nikbakht 11, Majidi 19, Majidi 92; Izadi 18, Sadeghi 23
 
 Round: 5 
 Date: 9/30/2003
@@ -142,26 +128,24 @@ Date: 9/30/2003
 ; Pegah       ; 0-0; Fajr-Sepasi
 
 ;; Zob-Ahan;     2-1 Esteghlal T
-  Rajabzadeh 47, 71; Navazi 60
+  Rajabzadeh 47, Rajabzadeh 71; Navazi 60
 
 ; Foolad      ; 2-2; Esteghlal A
-  Mobali 54, 87; Khalifeh Asl 45, 74
+  Mobali 54, Mobali 87; Khalifeh Asl 45, Khalifeh Asl 74
 
 ; Bargh       ; 2-1; Shamoushak
-  A.Abbasfard 2, 89, Pakniat 70
+  A.Abbasfard 2, A.Abbasfard 89, Pakniat 70
 
 ; Saipa       ; 1-3; Paas
-  Yousefi 49; bayatinia 4, 80, Aghaei 45
+  Yousefi 49; Bayatinia 4, Bayatinia 80, Aghaei 45
 
 ; AbooMoslem  ; 1-0; Peykan
-  Mazaheri 83
+  Mazaheri 83;
 
 ; Pirouzi     ; 3-3; Sepahan
-  Jabari 23, Salmani 52, Traoré 73; Talebnasab 37, Bezik 40, 48
-
+  Jabari 23, Salmani 52, Traoré 73; Talebnasab 37, Bezik 40, Bezik 48
 
 Round: 6
-
 Date: 10/6/2003
 
 ; Estehglal A ; 1-1; Pirouzi
@@ -174,7 +158,7 @@ Date: 10/7/2003
 ; Shamoushak  ; 0-0; Pegah
 
 ; Sepahan     ; 3-0; AbooMoslem
-  Khatibi (2), Farshbaf
+  Khatibi, Khatibi, Farshbaf;
 
 ; Bargh       ; 2-1; Saipa
   Mansouri 25, Matori 80; Bostani 93
@@ -184,25 +168,23 @@ Date: 10/7/2003
 ; Esteghlal T ; 3-1; Foolad
   Fabricio 5, Majidi 68, Enayati 89; Hamidi 77
 
-
 Round: 7
-
 Date: 10/16/2003
 
 ; Pegah       ; 0-2; Peykan
-  Ebrahimian 51, Tahmasebi 72
+; Ebrahimian 51, Tahmasebi 72
 
 ; Foolad      ; 2-1; Paas
   Kabi 18, Soleimani 63; Azizi 49
 
 ; AbooMoslem  ; 4-2; Esteghlal A
-  Razaghirad 12, 50, Tartar 17, Fazli 64; Haghi 48, Eidizadeh 80
+  Razaghirad 12, Razaghirad 50, Tartar 17, Fazli 64; Haghi 48, Eidizadeh 80
 
 ;; Zob-Ahan;     3-3 Bargh
-  Bahadorani 44, Taghipour 45, Rajabzadeh 54; Mansouri 4, 71, Amiri 34
+  Bahadorani 44, Taghipour 45, Rajabzadeh 54; Mansouri 4, Mansouri 71, Amiri 34
 
 ;; Fajr-Sepasi;  2-1 Sepahan
-  Alizadeh 7, 48; Bezik 95
+  Alizadeh 7, Alizadeh 48; Bezik 95
 
 ; Saipa       ; 0-0; Shamoushak
 
@@ -211,14 +193,11 @@ Date: 10/17/2003
 ; Pirouzi     ; 1-2; Esteghlal T
   Traoré 70; Samereh 9, Fekri 56
 
-
 Round: 8
-
 Date: 10/23/2003
 
 ; Esteghlal T ; 3-3; AbooMoslem
-  Samereh 31, 72, Enayati 90; Razaghi Rad 10, Fazli 50, 65
-
+  Samereh 31, Samereh 72, Enayati 90; Razaghi Rad 10, Fazli 50, Fazli 65
 
 Date: 10/24/2003
 
@@ -226,22 +205,20 @@ Date: 10/24/2003
   Karimi; Nori, Ashorizadeh
 
 ; Esteghlal A ; 3-0; Fajr-Sepasi
-  Eidizadeh 27, Khalifehasl 34, Adriano 72
-
+  Eidizadeh 27, Khalifehasl 34, Adriano 72;
 
 Date: 10/30/2003
 
 ; Shamoushak  ; 1-0; Zob-Ahan
-  Bengar 42
-
+  Bengar 42;
 
 Date: 11/2/2003
 
 ; Bargh       ; 2-0; Foolad
-  Amiri 54, 72
+  Amiri 54, Amiri 72;
 
 ; Sepahan     ; 2-1; Peykan
-  Farshbaf 28, 51; Mohtashami 26
+  Farshbaf 28, Farshbaf 51; Mohtashami 26
 
 ; Pirouzi     ; 1-2; Paas
   Daei 92; Aghaei 80, Rahbarifard 85
@@ -255,14 +232,13 @@ Date: 11/6/2003
 ;; Zob-Ahan;     1-1 Saipa
   Alizadeh 90; Amirabadi 50
 
-
 Date: 11/7/2003
 
 ; Foolad      ; 2-0; Shamoushak
-  Hamidi 30, Mobali 65
+  Hamidi 30, Mobali 65;
 
 ; Pegah       ; 3-1; Sepahan
-  Nori 37, 73, Ashorirad; Talebinasab
+  Nori 37, Nori 73, Ashorirad; Talebinasab
 
 ; Peykan      ; 1-2; Esteghlal A
   Ebrahimian 65; Kalifehasl 13, Rezaei 74
@@ -271,25 +247,24 @@ Date: 11/7/2003
   Fazli; Azizi
 
 ; Pirouzi     ; 4-0; Bargh
-  Daei 61, 67, Entezari 17, 75
-
+  Daei 61, Daei 67, Entezari 17, Entezari 75
 
 Round: 10 
 Date: 11/23/2003
 
 ; Esteghlal T ; 2-2; Peykan
-  Samereh (2); Ebrahimian 24, Tahmasebi
+  Samereh, Samereh; Ebrahimian 24, Tahmasebi
 
 ;; Zob-Ahan;     2-0 Pegah
-  Vaziri (2)
+  Vaziri, Vaziri;
 
 ; Saipa       ; 0-0; Foolad
 
 ; Esteghlal A ; 2-0; Sepahan
-  Kemaei 30, Rezaei 90
+  Kemaei 30, Rezaei 90;
 
 ; Shamoushak  ; 0-1; Pirouzi
-  Daei 67
+;  Daei 67
 
 ; Paas        ; 3-2; Fajr-Sepasi
   Rezaeikamal, Nekonam, Borhani; Akbarpour, Madanchi
@@ -301,19 +276,20 @@ Round: 11
 Date: 11/30/2003
 
 ; Pegah       ; 3-0; Esteghlal A
-  Nori 16, Salamibakhsh 34, Hosseini 68
+  Nori 16, Salamibakhsh 34, Hosseini 68;
 
 ; Sepahan     ; 0-0; Esteghlal T
 
 ; Foolad      ; 0-0; Zob-Ahan
 
 ; Pirouzi     ; 2-0; Saipa
-  Entezari 15, Daei 39
+  Entezari 15, Daei 39;
 
 ; Peykan      ; 3-1; Paas
-  Tahmasebi 60, 70, 75; Aghaei 8
+  Tahmasebi 60, Tahmasebi 70, Tahmasebi 75; Aghaei 8
 
 ; Aboo Moslem ; 3-0; Shamoushak
+
 ;; Fajr-Sepasi;  0-0 Bargh
 
 Round: 12 
@@ -326,16 +302,16 @@ Date: 12/7/2003
   Mansourian 28, Enayati 67; Alvez 49
 
 ;; Zob-Ahan;     1-0 Pirouzi
-  Taghipour 29
+  Taghipour 29;
 
 ; Paas        ; 2-1; Sepahan
-  Northani 22, 80; Navidkia 44
+  Northani 22, Northani 80; Navidkia 44
 
 ; Saipa       ; 1-1; AbooMoslem
   Amirabadi 17; Mikaeili 50
 
 ; Bargh       ; 2-1; Peykan
-  Abedi 15, 46; Tahmasebi 77
+  Abedi 15, Abedi 46; Tahmasebi 77
 
 ; Shamoushak  ; 0-0; Fajr-Sepasi
 
@@ -346,21 +322,21 @@ Date: 12/11/2003
   Kahlifehasl 69, Haghi 76; Aghaei 1, Borhani 46, Azizi 49
 
 ; Peykan      ; 2-0; Shamoushak
-  Tajik 2, Helali 18
+  Tajik 2, Helali 18;
 
 Date: 12/12/2003
 
 ; Pegah       ; 0-1; Esteghlal T
-  Enayati 24
+;  Enayati 24
 
 ; Pirouzi     ; 1-0; Foolad
-  Daei 67
+  Daei 67;
 
 ; AbooMoslem  ; 1-0; Zob-Ahan
-  Razaghirad 49
+  Razaghirad 49;
 
 ; Sepahan     ; 2-0; Bargh
-  Navidkia 2, 48
+  Navidkia 2, Navidkia 48;
 
 ;; Fajr-Sepasi;  1-1 Saipa
   Akbarpour 25; Amirabadi 56
@@ -376,19 +352,19 @@ Date: 12/19/2003
   Mohtashami 60; Bostani 75
 
 ; Esteghlal A ; 2-0; Bargh
-  Farzaneh 33, Khalifehasl 78
+  Farzaneh 33, Khalifehasl 78;
 
 ; AbooMoslem  ; 2-2; Foolad
-  Razaghurad 25, Fazli 60; Bakhtiarizadeh 37, 71
+  Razaghurad 25, Fazli 60; Bakhtiarizadeh 37, Bakhtiarizadeh 71
 
 ; Sepahan     ; 3-0; Shamoushak
-  Khatibi, Navidkia, Karimi
+  Khatibi, Navidkia, Karimi;
 
 ;; Fajr-Sepasi;  2-0 Zob-Ahan
-  Madanchi 38, Shirmardi 90
+  Madanchi 38, Shirmardi 90;
 
 ; Esteghlal T ; 0-1; Paas
-  Azizi 49
+;  Azizi 49
 
 Round: 15
 Date: 12/25/2003
@@ -397,22 +373,21 @@ Date: 12/25/2003
   Yousefi 38; Khatibi 29, Estepanian 91
 
 ; Bargh       ; 0-2; Esteghlal T
-  Sadeghi 51, Enayati 81
-
+ ; Sadeghi 51, Enayati 81
 
 Date: 12/26/2003
 
 ; Foolad      ; 3-0; Fajr-Sepasi
-  Kolahkaj 25, Mobali 61, Momenzadeh 87
+  Kolahkaj 25, Mobali 61, Momenzadeh 87;
 
 ; Shamoushak  ; 3-0; Esteghlal A
-  Mehdizadeh 20, 33, Normohamadi 70
+  Mehdizadeh 20, Mehdizadeh 33, Normohamadi 70;
 
 ;; Zob-Ahan;     1-0 Peykan
-  Taghipour 68
+  Taghipour 68;
 
 ; Paas        ; 2-0; Pegah
-  Azizi 39, Bayatinia 58
+  Azizi 39, Bayatinia 58;
 
 ; Pirouzi     ; 0-0; AbooMoslem
 
@@ -426,7 +401,7 @@ Date: 1/6/2004
   Khodayari 46; Salmani 18
 
 ; Pegah       ; 1-0; AbooMoslem
-  Faraji 89
+  Faraji 89;
 
 ; Peykan      ; 0-0; Foolad
 
@@ -443,23 +418,23 @@ Round: 17
 Date: 1/11/2004
 
 ; Saipa       ; 0-3; Esteghlal T
-  Enayati 32, 55, Nawazi 87
+;  Enayati 32, Enayati 55, Nawazi 87
 
 ;; Zob-Ahan;     1-1 Esteghlal A
   Azizzadeh 84; Rezaei 52
 
 ; Foolad      ; 1-0; Sepahan
-  Mehipour 54
+  Mehipour 54;
 
 Date: 1/12/2004
 
 ; Bargh       ; 3-2; Pegah
-  Abedi 9, 29, Amiri 78; Nori 17, Baniahmad 65
+  Abedi 9, Abedi 29, Amiri 78; Nori 17, Baniahmad 65
 
 ; Shamoushak  ; 0-0; Paas
 
 ; AbooMoslem  ; 1-0; Fajr-Sepasi
-  Badamaki 85
+  Badamaki 85;
 
 ; Pirouzi     ; 0-0; Peykan
 
@@ -467,8 +442,7 @@ Round: 18
 Date: 1/15/2004
 
 ; Esteghlal T ; 1-0; Zob-Ahan
-  Akbari 40
-
+  Akbari 40;
 
 Date: 1/16/2004
 
@@ -484,10 +458,10 @@ Date: 1/16/2004
 ; Shamoushak  ; 0-0; Bargh
 
 ; Paas        ; 1-0; Saipa
-  Nekonam 35
+  Nekonam 35;
 
 ; Peykan      ; 1-0; AbooMoslem
-  Sharifi 30
+  Sharifi 30;
 
 Round: 19 
 Date: 1/22/2004
@@ -504,14 +478,16 @@ Date: 1/22/2004
   Rajabzadeh 58; Nekonam 68
 
 ; AbooMoslem  ; 0-0; Sepahan
+
 ; Saipa       ; 0-0; Bargh
+
 ;; Fajr-Sepasi;  0-0 Peykan
 
 Round: 20
 Date: 1/27/2004
 
 ; Peykan      ; 1-0; Pegah
-  Nori 52
+  Nori 52;
 
 ; Paas        ; 2-1; Foolad
   Azizi 14, Aghaei 23; Hamidi 87
@@ -526,7 +502,7 @@ Date: 1/27/2004
   Seyedsalehi 37, Karimi 77, Navidkia 85; Farshbaf 35
 
 ; Shamoushak  ; 2-3; Saipa
-  Geraeili 71, Mohseni 74; Shojaei 37, 79, Yousefi 51
+  Geraeili 71, Mohseni 74; Shojaei 37, Shojaei 79, Yousefi 51
 
 Date: 2/2/2004
 
@@ -539,17 +515,16 @@ Date: 2/26/2004
 ; Pegah       ; 0-0; Saipa
 
 ; AbooMoslem  ; 0-1; Esteghlal T
-  Majidi 49
+;  Majidi 49
 
 ; Foolad      ; 3-0; Bargh
-  Kolahkaj 23, Hajinajaf 46, Mobali 60
+  Kolahkaj 23, Hajinajaf 46, Mobali 60;
 
 ;; Fajr-Sepasi;  1-1 Esteghlal A
   Madanchi 47; Zare 58
 
 ; Pirouzi     ; 3-4; Paas
-  Shakori 45, Traoré 82, Daei 84; Nekonam 3, 67,
-   Borhani 59, Azizi 87
+  Shakori 45, Traoré 82, Daei 84; Nekonam 3, Nekonam 67, Borhani 59, Azizi 87
 
 Date: 3/5/2004
 
@@ -571,7 +546,7 @@ Date: 3/8/2004
 Date: 3/9/2004
 
 ; Sepahan     ; 3-0; Pegah
-  Talebinasab 13, Seyedsalehi 52, Estepanian 83
+  Talebinasab 13, Seyedsalehi 52, Estepanian 83;
 
 ; Bargh       ; 0-0; Pirouzi
 
@@ -587,18 +562,17 @@ Round: 23
 Date: 4/2/2004
 
 ; Sepahan     ; 4-2; Esteghlal A
-  Khatibi 17, Estapanian 63, Ramezani 74, Talebnasab 82; Alvez 55, 
-   Mirdavoudi 89
+  Khatibi 17, Estapanian 63, Ramezani 74, Talebnasab 82; Alvez 55, Mirdavoudi 89
 
 Date: 4/4/2004
 
 ; AbooMoslem  ; 0-0; Bargh
 
 ; Pirouzi     ; 2-1; Shamoushak
-  Daei 27, 87; Shokati 29
+  Daei 27, Daei 87; Shokati 29
 
 ; Foolad      ; 1-0; Saipa
-  Momenzadeh 58
+  Momenzadeh 58;
 
 ;; Fajr-Sepasi;  1-1 Paas
   Rezaei 88; Shakori 79
@@ -616,7 +590,7 @@ Round: 24
 Date: 4/9/2004
 
 ; Saipa       ; 3-2; Pirouzi     
-  Sadeghi 21, 34, Karimi 83; Daei 36, Bagheri 87
+  Sadeghi 21, Sadeghi 34, Karimi 83; Daei 36, Bagheri 87
 
 ; Esteghlal A ; 1-1; Pegah 
   Alvez 3; Salamibakhsh 41
@@ -624,25 +598,23 @@ Date: 4/9/2004
 ; Shamoushak  ; 0-0; AbooMoslem
 
 ; Bargh       ; 0-2; Fajr-Sepasi
-  Madanchi 67, Mousavi 87
+;  Madanchi 67, Mousavi 87
 
 
 Date: 4/10/2004
 
 ;; Zob-Ahan;     0-1 Foolad      
-  Mirzapour 48
+; Mirzapour 48
  
 Date: 4/12/2004
 
 ; Paas        ; 2-0; Peykan
-  Azizi 74, Borhani 79
+  Azizi 74, Borhani 79;
   
 ; Esteghlal T ; 2-1; Sepahan    
   Enayati 3, Samereh 82; Ramezani 2
 
- 
 Round: 25
-
 Date: 4/23/2004
 
 ; Pegah       ; 1-1; Foolad  
@@ -652,7 +624,7 @@ Date: 4/23/2004
   Fazli 38; Karimi 69, Kazemi 80
 
 ; Peykan      ; 3-1; Bargh 
-  Kashi 22, Sharifi 56, Kordan 74; mansouri 22
+  Kashi 22, Sharifi 56, Kordan 74; Mansouri 22
 
 ;; Fajr-Sepasi;  0-0 Shamoushak
 
@@ -664,20 +636,16 @@ Date: 4/25/2004
 Date: 4/26/2004
 
 ; Sepahan     ; 3-4; Paas      
-  Hasanzadeh 41, 42, Talebnasab 84; Azizi 2, Nekonam 15, Bayatinia 56,
-   Borhani 63
+  Hasanzadeh 41, Hasanzadeh 42, Talebnasab 84; Azizi 2, Nekonam 15, Bayatinia 56, Borhani 63
    
 ; Esteghlal A ; 2-1; Esteghlal T
-  Khalifehasl 37, 40; Hamedani 90
-
+  Khalifehasl 37, Khalifehasl 40; Hamedani 90
 
 Round: 26
-
 Date: 5/2/2004
 
 ; Saipa       ; 1-1; Fajr-Sepasi
   Karimi 59; Akbarpour 60
-
 
 Date: 5/3/2004
 
@@ -685,14 +653,13 @@ Date: 5/3/2004
   Enayati 15, Mansorain 57, Navazi 90; Ashorizad 9, Salamibakhsh 30
 
 ; Paas        ; 5-0; Esteghlal A
-  Borhani 8, 22, 86, Moniei 51, Bayatinia 56
+  Borhani 8, Borhani 22, Borhani 86, Moniei 51, Bayatinia 56
 
 ; Foolad      ; 1-0; Pirouzi
-  Mousavi 65
+  Mousavi 65;
 
 ; Shamoushak  ; 1-0; Peykan
-  Ramezani 57
-
+  Ramezani 57;
 
 Date: 5/11/2004
 
@@ -700,7 +667,7 @@ Date: 5/11/2004
   Rajabzadeh 25; Razaghirad 62
 
 ; Bargh       ; 1-5; Sepahan
-  Abedi 6; Estepanian 14, Talebnasab 38, Khatibi 60, 85, Karimi 63
+  Abedi 6; Estepanian 14, Talebnasab 38, Khatibi 60, Khatibi 85, Karimi 63
 
 
 

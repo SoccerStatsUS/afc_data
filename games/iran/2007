@@ -34,7 +34,7 @@ Round: 1
 Date: 8/16/2007
 
 ; Peykan       ; 4-2; Bargh  
-  Maysam Rezapour 45, 88, Mehdi Mohamadi 59, Iman Haydari 66; Ehtesham Sasani 48, Mehdi Karimian 51
+  Maysam Rezapour 45, Maysam Rezapour 88, Mehdi Mohamadi 59, Iman Haydari 66; Ehtesham Sasani 48, Mehdi Karimian 51
 
 ;; Sanat-Naft;    2-3 Pirouzi
   Rohollah Arab 16, Marcelo De Soza 63; Farzad Ashobi 10, Mohsen Khalili 45, Alireza N.Vahedi 81
@@ -56,7 +56,7 @@ Date: 8/17/2007
   Mohammad Gholami 67;
 
 ; Moghavemat   ; 2-2; Shirin-Faraz
-  Reza Khaleghifar 37, Mojtaba Zare 75; M.Bagher Zaferani 5, 43
+  Reza Khaleghifar 37, Mojtaba Zare 75; M.Bagher Zaferani 5, M.Bagher Zaferani 43
 
 ; Esteghlal T  ; 3-2; Esteghlal A
   A.Hosein Sadegi 18, Arash Borhani 49, Maysam Manyei 75; Rohollah Bigdeli 21, Reza Taheri 45
@@ -96,10 +96,10 @@ Round: 3
 Date: 8/29/2007
 
 ; AbooMoslem   ; 0-3; Pirouzi
-;  Alireza N.Vahedi 3, Mohsen Khalili 53, 90
+;  Alireza N.Vahedi 3, Mohsen Khalili 53, Mohsen Khalili 90
 
 ; Peykan       ; 1-2; Sepahan
-  Maysam Rezapour 90; Mahmoud Karimi 10, 43
+  Maysam Rezapour 90; Mahmoud Karimi 10, Mahmoud Karimi 43
 
 ; Moghavemat   ; 0-1; Bargh
 ;  Mehdi Karimian 44
@@ -107,7 +107,7 @@ Date: 8/29/2007
 Date: 8/31/2007
 
 ;; Hamadan-Paas;  1-3 Saipa
-  Lefteh Hamidi 28; Adriano Alvez 45, 90, Majid Gholamnejad 63
+  Lefteh Hamidi 28; Adriano Alvez 45, Adriano Alvez 90, Majid Gholamnejad 63
 
 ;; Zob-Ahan;      0-1 Shirin-Faraz
 ;  Rohollah Ataei 49
@@ -130,7 +130,7 @@ Date: 9/6/2007
   Mohamad Ahmadpouri 90; Arash Borhani 35, Omid Ravankhah 55, Sanjan Orsovic 85
 
 ; Sepahan      ; 2-2; Rah-Ahan
-  Mahmoud Karimi 18, 33; Alireza Mohamd 40, Hamlet Mkhtarian 51
+  Mahmoud Karimi 18, Mahmoud Karimi 33; Alireza Mohamd 40, Hamlet Mkhtarian 51
 
 ; Saba         ; 0-0; Moghavemat
 
@@ -151,7 +151,7 @@ Date: 9/7/2007
   Mohsen Khalili 41, Sepehr Heidari 52; Mehdi Mohamadi 70
 
 ;; Sanat-Naft;    1-2 Malavan
-  Saber Mirghrbani 21; Amir Khodamoradi 27, 61
+  Saber Mirghrbani 21; Amir Khodamoradi 27, Amir Khodamoradi 61
 
 Round: 5
 Date: 9/11/2007
@@ -162,7 +162,7 @@ Date: 9/11/2007
 Date: 9/14/2007
 
 ; AbooMoslem   ; 2-1; Sanat-Naft
-  Mohammad Hoseini 23, 90+8; Saber Mirghorbani 49
+  Mohammad Hoseini 23, Mohammad Hoseini 90+8; Saber Mirghorbani 49
 
 ;; Zob-Ahan;      2-1 Bargh
   Mohsen Mosalman 5, Mohamd Reza Khalatbari 17; Farid Abedi 21
@@ -198,7 +198,7 @@ Date: 9/20/2007
 Date: 9/21/2007
 
 ;; Sanat-Naft;    1-2 Mes
-  Hakim Hazbavipour 37; Paolo Zaltron 20, 57
+  Hakim Hazbavipour 37; Paolo Zaltron 20, Paolo Zaltron 57
 
 ; Saipa        ; 1-1; Esteghlal A
   Kazem Borjlo 60; Mojtaba Shiri 3
@@ -211,7 +211,7 @@ Date: 9/21/2007
 ; AbooMoslem   ; 0-0; Peykan
 
 ; Pirouzi      ; 3-3; Moghavemat
-  Mohsen Khalili 14, 23, Abbas Aghaei 43; Mahmoud Mohammadi 7, Bahman Tahmasbi 45, 55
+  Mohsen Khalili 14, Mohsen Khalili 23, Abbas Aghaei 43; Mahmoud Mohammadi 7, Bahman Tahmasbi 45, Bahman Tahmasbi 55
 
 Date: 11/23/2007
 
@@ -231,7 +231,7 @@ Date: 9/28/2007
   Pejman Montazeri 58; Ferydon Fazli 48
 
 ; Esteghlal A  ; 2-0; Bargh
-  Rohollah Bigdeli 26, 51;
+  Rohollah Bigdeli 26, Rohollah Bigdeli 51;
 
 ; Moghavemat   ; 2-0; Pegah
   Ali Mohamad Dehghan 1, Reza Khaleghifar 76;
@@ -248,7 +248,7 @@ Date: 9/28/2007
 Date: 12/16/2007
 
 ;; Zob-Ahan;      1-0 Sepahan
-  Mohsen Bengar 16og;
+  Mohsen Bengar (og) 16;
 
 Round: 8
 Date: 10/5/2007
@@ -276,7 +276,7 @@ Date: 10/5/2007
 Date: 10/7/2007
 
 ; Sepahan      ; 2-1; Esteghlal T
-  Abdulwahab Aboalhil 7, 90+4; Pirouz Ghorbani 74
+  Abdulwahab Aboalhil 7, Abdulwahab Aboalhil 90+4; Pirouz Ghorbani 74
 
 Date: 10/23/2007
 
@@ -289,13 +289,13 @@ Date: 10/13/2007
   Milad Maydavoudi 8, Davoud Haghi 48, Saeid Ramezani 73; Mahmoud Karimi 37, Prence Kabirblu 65
 
 ;; Zob-Ahan;      2-2 Pegah
-  Saeid Pirsarandib 32, 51; Vahid Amraei 68, 90 
+  Saeid Pirsarandib 32, Saeid Pirsarandib 51; Vahid Amraei 68, Vahid Amraei 90 
 
 ; Malavan      ; 1-1; Saba
   Reza Niknazar 76; Ferydon Fazli 65
 
 ;; Hamadan-Paas;  3-0 AbooMoslem
-  Mohammad Alavi 43, own goal 80, Mohammad Gholami 90+3
+  Mohammad Alavi 43, own goal 80, Mohammad Gholami 90+3;
 
 ; Mes          ; 1-3; Bargh
   Mohsen Rasouli 78; Mohammad Naser 27, Mehrzad Karimian 42, Mehdi Shiri 83
@@ -341,10 +341,10 @@ Date: 10/19/2007
   Ahmad Jamshidian 67; Hashem Baykzadeh 29 
 
 ;; Sanat-Naft;    2-0 Saipa
-  Leonardo Pimenta 12, 39;
+  Leonardo Pimenta 12, Leonardo Pimenta 39;
 
 ; Pirouzi      ; 3-2; Esteghlal A 
-  Hosein Badamaki 41, 90+3, Karim Bagheri 14; Milad Maydavoudi 22, Mostafa Haghipour 72
+  Hosein Badamaki 41, Hosein Badamaki 90+3, Karim Bagheri 14; Milad Maydavoudi 22, Mostafa Haghipour 72
 
 Round: 11
 Date: 10/25/2007
@@ -353,7 +353,7 @@ Date: 10/25/2007
   Jalal Rafkhaei 37; Alireza V.Nikbakht 27 
 
 ; Esteghlal A  ; 3-2; Pegah
-  Mojtaba Shiri 15, Rohollah Bigdeli 45, 49; Ali Naysi 62, Mohammadreza Mahdavi 70
+  Mojtaba Shiri 15, Rohollah Bigdeli 45, Rohollah Bigdeli 49; Ali Naysi 62, Mohammadreza Mahdavi 70
 
 Date: 10/26/2007
 
@@ -386,7 +386,7 @@ Round: 12
 Date: 10/31/2007
 
 ; Peykan       ; 3-2; Esteghlal T
-  Maysam Khosravi 31, 45, Ebrahim Touré 79; Mohammad Navazi 13, Arash Borhani 21
+  Maysam Khosravi 31, Maysam Khosravi 45, Ebrahim Touré 79; Mohammad Navazi 13, Arash Borhani 21
 
 Date: 11/1/2007
 
@@ -396,7 +396,7 @@ Date: 11/1/2007
 Date: 11/2/2007
 
 ; Saba         ; 2-1; Saipa
-  Feridon Fazli 25, 26; Jalal Hoseini 48
+  Feridon Fazli 25, Feridon Fazli 26; Jalal Hoseini 48
 
 ;; Rah-Ahan;      2-1 Zob-Ahan
   Amin Torkashvand 35, Alireza Nourmohammadi 45; own goal 34
@@ -410,7 +410,7 @@ Date: 11/2/2007
 ; Pegah        ; 0-0; Malavan
 
 ;; Sanat-Naft;    1-3 Bargh
-  Saber Mirghrbani 10; Mehdi Shiri 57, 79, Mohammad Naser 90+4
+  Saber Mirghrbani 10; Mehdi Shiri 57, Mehdi Shiri 79, Mohammad Naser 90+4
 
 ; Pirouzi      ; 1-0; Mes
   Faraz Fatemi 72;
@@ -429,7 +429,7 @@ Date: 11/8/2007
 Date: 11/9/2007
 
 ; Mes          ; 2-0; Pegah
-  Gerardo Morales 60, 69;
+  Gerardo Morales 60, Gerardo Morales 69;
 
 ;; Hamadan-Paas;  1-0 Sanat-Naft
   Mostafa Chatrabgon 21;
@@ -440,7 +440,7 @@ Date: 11/9/2007
   Jalal Rafkhaei 16, Hadi Tamini 84; Ivan Petrovic 47
 
 ; Esteghlal T  ; 2-1; Rah-Ahan
-  Farhad Majidi 10, 20; Hadi Asghari 48
+  Farhad Majidi 10, Farhad Majidi 20; Hadi Asghari 48
 
 Date: 12/27/2007
 
@@ -470,7 +470,7 @@ Date: 11/16/2007
 ; Pegah        ; 0-0; Shirin-Faraz
 
 ;; Sanat-Naft;    2-3 Saba
-  Leonardo Pimenta 27, 82; Babak Hatami 26, Amjad Shokohmagham 33, Feridon Fazli 90+3
+  Leonardo Pimenta 27, Leonardo Pimenta 82; Babak Hatami 26, Amjad Shokohmagham 33, Feridon Fazli 90+3
 
 ; Pirouzi      ; 1-0; Saipa
   Mohsen Khalili 90+5;
@@ -478,7 +478,7 @@ Date: 11/16/2007
 Date: 11/19/2007
 
 ; Sepahan      ; 4-0; Bargh
-  own goal 19, Mehdi Sayedsalehi 38, 41, Abdulwahab Aboualhail 90
+  own goal 19, Mehdi Sayedsalehi 38, Mehdi Sayedsalehi 41, Abdulwahab Aboualhail 90
 
 Round: 15
 Date: 11/27/2007
@@ -497,33 +497,33 @@ Bargh         0-1 Pirouzi
 Date: 11/30/2007
 
 ;; Shirin-Faraz;  0-2 AbooMoslem
-  Ivan Petrovic 32, 56
+  Ivan Petrovic 32, Ivan Petrovic 56
 
 ; Malavan      ; 2-1; Rah-Ahan
-  Alireza Ramezani 33, 52; Majid Normohammadi 86
+  Alireza Ramezani 33, Alireza Ramezani 52; Majid Normohammadi 86
 
 ; Saipa        ; 1-2; Pegah
   Kianosh Rahmati 80; Hosein Ebrahimi 44, Saeid Pirsarandib 45
 
 ; Esteghlal A  ; 4-1; Moghavemat
-  Ali Hamoudi 45, Davoud Haghi 49, Milad Maydavodi 83, 89; own goal 21
+  Ali Hamoudi 45, Davoud Haghi 49, Milad Maydavodi 83, Milad Maydavodi 89; own goal 21
 
 ; Esteghlal T  ; 0-1; Hamadan-Paas
 ;  Emir Obuca 12
 
 ; Mes          ; 2-3; Peykan
-  Mehdi Kiani 1, Gerardo Morales 70; Darioush Yazadni 3, Ebrahim Touré 36, 40
+  Mehdi Kiani 1, Gerardo Morales 70; Darioush Yazadni 3, Ebrahim Touré 36, Ebrahim Touré 40
 
 Round: 16
 Date: 12/1/2007
 
 ;; Sanat-Naft;    2-2 Sepahan
-  Leonardo Pimenta 45, 90+2; Mohsen Hamidi 43, Hadi Aghili 60
+  Leonardo Pimenta 45, Leonardo Pimenta 90+2; Mohsen Hamidi 43, Hadi Aghili 60
 
 Date: 12/7/2007
 
 ; Peykan       ; 2-0; Shirin-Faraz
-  Ebrahim Touré 2, 39;
+  Ebrahim Touré 2, Ebrahim Touré 39;
 
 ;; Rah-Ahan;      3-1 Mes
   Sohrab Entezari 28, Ahmad Jamshidian 40, Hadi Asghari 90+2; Mehdi Kiani 52
@@ -566,7 +566,7 @@ Date: 12/14/2007
   Maysam Armian 25, Hamid Zohani 85;
 
 ; Esteghlal T  ; 2-3; Sanat-Naft
-  Farhad Majidi 10, Omid Ravankhah 85; Leonardo Pimenta 38, Saeid Halafi 54, 64
+  Farhad Majidi 10, Omid Ravankhah 85; Leonardo Pimenta 38, Saeid Halafi 54, Saeid Halafi 64
 
 Date: 12/17/2007
 
@@ -586,7 +586,7 @@ Round: 18
 Date: 1/22/2008
 
 ; Sepahan      ; 3-1; Pegah  
-  Hojat Zadmahmoud 34, 39, Emad Ridha 64; Hosein Maleki 21  
+  Hojat Zadmahmoud 34, Hojat Zadmahmoud 39, Emad Ridha 64; Hosein Maleki 21  
 
 ; Bargh        ; 1-1; Peykan
   Mehdi Karimian 59; Ebrahim Touré 19
@@ -595,7 +595,7 @@ Date: 1/22/2008
 ;  Rodrigo Teixeira 45
 
 ; Mes          ; 2-0; Hamadan-Paas
-  Paolo Zaltron 43, 48;
+  Paolo Zaltron 43, Paolo Zaltron 48;
 
 ;; Shirin-Faraz;  0-1 Moghavemat 
 ;  Hashem Beikzadeh 85 
@@ -628,13 +628,13 @@ Date: 1/27/2008
 ;; Hamadan-Paas;  0-0 Shirin-Faraz 
 
 ;; Rah-Ahan;      2-2 Bargh 
-  Hadi Asghari 69, 77; Mehdi Shiri 31, Farid Abedi 47 
+  Hadi Asghari 69, Hadi Asghari 77; Mehdi Shiri 31, Farid Abedi 47 
 
 ; AbooMoslem   ; 2-1; Sepahan 
   Mohamd Hoseini 15, Mohamad Mansouri 86; Hosein Papi 79
 
 ;; Sanat-Naft;    2-3 Esteghlal A
-  Said Halafi 49, Leonardo Pimenta 89; Milad Maydavoudi 16, 78, Reza Taheri 42
+  Said Halafi 49, Leonardo Pimenta 89; Milad Maydavoudi 16, Milad Maydavoudi 78, Reza Taheri 42
 
 ; Pegah        ; 1-0; Pirouzi 
   Hosein Ebrahimi 10 ;
@@ -764,7 +764,7 @@ Date: 2/29/2008
 Date: 3/2/2008
 
 ;; Hamadan-Paas;  3-1 Sepahan
-  Mohamad Alavi 4, Emir Obuca 12, 19; Mohsen Bengar 41
+  Mohamad Alavi 4, Emir Obuca 12, Emir Obuca 19; Mohsen Bengar 41
 
 ; Moghavemat   ; 0-2; Pirouzi
 ;  Alireza N.Vahedi 39, Hosein Badamaki 50
@@ -806,7 +806,7 @@ Round: 25
 Date: 3/11/2008
 
 ;; Rah-Ahan;      5-0 Peykan
-  Ahmad Tghavi 38, Mehdi Tartar 43, Hadi Ashghari 73, 75, Majid Normohamadi 90;
+  Ahmad Tghavi 38, Mehdi Tartar 43, Hadi Ashghari 73, Hadi Ashghari 75, Majid Normohamadi 90;
 
 Date: 3/17/2008
 
@@ -816,7 +816,7 @@ Date: 3/17/2008
   Reza Taheri 19, Hosein Mahini 36, Rohollah Bigdeli 76, Ali Hamodi 90+2; Mohamad Nori 25
 
 ;; Hamadan-Paas;  3-1 Pegah
-  Mohamad Gholami 21, 44, Mehdi Kheiri 59; Mohamad Mokhtari 63
+  Mohamad Gholami 21, Mohamad Gholami 44, Mehdi Kheiri 59; Mohamad Mokhtari 63
 
 ; Malavan      ; 1-1; Bargh     
   Reza Niknazar 47, Mohammad Nasser 35     
@@ -845,7 +845,7 @@ Date: 4/3/2008
   Mohamdreza Mahdavi 55;
 
 ; Saba         ; 3-0; Malavan
-  Gholamreza Rezaei 11, 55, Feridon Fazli 70;
+  Gholamreza Rezaei 11, Gholamreza Rezaei 55, Feridon Fazli 70;
 
 ; Peykan       ; 0-3; Moghavemat
 ;  Bahman Tahmasbi 1, Hadi Ramezani 90+2, Ali Mohamad Dehghan 90+3
@@ -857,7 +857,7 @@ Date: 4/3/2008
   Mahmaoud Karimi 16, Mehdi Seyedsalehi 28; Davoud Haghi 70
 
 ;; Sanat-Naft;    0-2 Rah-Ahan 
-;  Hadi Asghari 71, 86
+;  Hadi Asghari 71, Hadi Asghari 86
 
 Date: 4/4/2008
 
@@ -879,10 +879,10 @@ Date: 4/11/2008
   Emir Abuca 24, 90+4, Mohamad Alavi 88; Morteza Azizmohamadi 28, Ebrahim Touré 49             
 
 ;; Shirin-Faraz;  2-2 Bargh          
-  Mohamad Bagher Zafarani 12, Mohamd Ahmadpouri 29; Mohammad Nasser 78, 87          
+  Mohamad Bagher Zafarani 12, Mohamd Ahmadpouri 29; Mohammad Nasser 78, Mohammad Nasser 87          
 
 ; Esteghlal T  ; 1-4; Pegah          
-  Arash Borhani 51; Reza Chavuoshi 40, 47, 60, Mohamadreza Mahdavi 87         
+  Arash Borhani 51; Reza Chavuoshi 40, Reza Chavuoshi 47, Reza Chavuoshi 60, Mohamadreza Mahdavi 87         
 
 ; Moghavemat   ; 0-1; Rah-Ahan       
 ;  Hadi Asghari 86       
@@ -908,7 +908,7 @@ Date: 4/18/2008
   Ebrahim Touré 33, Kendo Nchengang 63      ;
 
 ; Saba         ; 2-2; Shirin-Faraz   
-  Gholamreza Rezaei 1, Hamed Hajati 41; Babak Razi 47, 85  
+  Gholamreza Rezaei 1, Hamed Hajati 41; Babak Razi 47, Babak Razi 85  
 
 ;; Rah-Ahan;      0-0 Hamadan-Paas   
 
@@ -946,7 +946,7 @@ Date: 4/24/2008
 Date: 4/27/2008
 
 ;; Zob-Ahan;      2-0 Rah-Ahan    
-  Esmaeil Farhadi 10, 23       ;
+  Esmaeil Farhadi 10, Esmaeil Farhadi 23       ;
 
 ; Esteghlal T  ; 1-2; Peykan
   Alireza Mansourian 35; Mohamadreza Tahmasbi 76, own goal 85                  
@@ -955,7 +955,7 @@ Date: 4/27/2008
   Kianoush Rahmati 40; Hamed Hajati 10                 
 
 ;; Shirin-Faraz;  2-3 Sepahan        
-  Mohamad Mohamdian 52, Bagher Zaferani 85; Hojat Zadmahmoud 4, Emad Ridha 66, 68  
+  Mohamad Mohamdian 52, Bagher Zaferani 85; Hojat Zadmahmoud 4, Emad Ridha 66, Emad Ridha 68  
 
 Round: 30
 Date: 4/30/2008
@@ -964,7 +964,7 @@ Date: 4/30/2008
   Feridon Fazli 46, Amirhosein Feshangchi 55; Mehdi Karimian 4, Mohammad Nasser 14 
 
 ; Pirouzi      ; 5-0; Shirin-Faraz  
-  Mohsen Khalili 20, 46, Mohamad Nosrati 25, Mate Dragicevic 60, Farhad Khayrkhah 70        ;
+  Mohsen Khalili 20, Mohsen Khalili 46, Mohamad Nosrati 25, Mate Dragicevic 60, Farhad Khayrkhah 70        ;
 
 ; Sepahan      ; 0-1; Saipa 
 ;  Issa Traore 20                        
@@ -980,7 +980,7 @@ Date: 5/1/2008
   Rodrigo Teixeira 26, Mohamad Mansouri 34; Hadi Tamini 36
 
 ; Moghavemat   ; 1-4; Zob-Ahan     
-  Hashem Beikzadeh 50; Mohamadreza Khalatbari 6, 34, Esmaeil Farhadi 63, Omid Aboalhasani 89   
+  Hashem Beikzadeh 50; Mohamadreza Khalatbari 6, Mohamadreza Khalatbari 34, Esmaeil Farhadi 63, Omid Aboalhasani 89   
 
 Date: 5/2/2008
 
@@ -994,7 +994,7 @@ Round: 31
 Date: 5/3/2008
 
 ; Bargh        ; 3-3; Sepahan       
-  Farid Abedi 22, Sattar Zare 51, 72; Ehsan Hajsafi 20, Emad Ridha 24, 38         
+  Farid Abedi 22, Sattar Zare 51, Sattar Zare 72; Ehsan Hajsafi 20, Emad Ridha 24, Emad Ridha 38         
 
 ; Saipa        ; 0-1; Pirouzi       
 ;  Abas Aghaei 85         
@@ -1007,7 +1007,7 @@ Date: 5/5/2008
 ;; Zob-Ahan;      0-0 Hamadan-Paas   
 
 ;; Shirin-Faraz;  0-2 Pegah          
-;  Amin Motavaselzadeh 60, 75         
+;  Amin Motavaselzadeh 60, Amin Motavaselzadeh 75         
 
 ; Malavan      ; 0-1; Peykan     
 ; Ali Salmani 89             
@@ -1016,7 +1016,7 @@ Date: 5/5/2008
   Morteza Ebrahimi 53; Mehdi Hasheminasab 83  
 
 ; Esteghlal A  ; 2-3; Rah-Ahan   
-  Mohamad Faal 85, Rohollah Bigdeli 90; Hadi Asghari 68, 87, Alireza Mohamad 89           
+  Mohamad Faal 85, Rohollah Bigdeli 90; Hadi Asghari 68, Hadi Asghari 87, Alireza Mohamad 89           
 
 ; Esteghlal T  ; 1-1; Moghavemat     
   Farhad Majidi 45; Mahmoud Mohamadi 90+3    
@@ -1061,7 +1061,7 @@ Date: 5/14/2008
   Adriano Alvez 90;
 
 ; Malavan      ; 2-1; Moghavemat
-  Jalal Rafkhei 55, 87; Reza Khaleghifar 47
+  Jalal Rafkhei 55, Jalal Rafkhei 87; Reza Khaleghifar 47
 
 ; Esteghlal A  ; 2-2; Hamadan-Paas
   Carlos Ceara 29, Davoud Haghi 83; Mohamd Gholami 70, Mehdi Khayri 80
@@ -1079,14 +1079,13 @@ Date: 5/14/2008
   Arash Borhani 90+4; Esmaeil Farhadi 51, Mohamd Mansouri 57
 
 ; Saba         ; 1-4; Pirouzi
-  Gholamreza Rezaei 42; Karim Bagheri 19, Mohsen Khalili 63, 66,
-  Pejman Nouri 72
+  Gholamreza Rezaei 42; Karim Bagheri 19, Mohsen Khalili 63, Mohsen Khalili 66, Pejman Nouri 72
 
 Round: 34 
 Date: 5/17/2008
 
 ; Moghavemat   ; 1-3; Mes
-  Mahmoud Mohamdi 12; Edinho Losianou 5, Uche Iheruome 20, 38
+  Mahmoud Mohamdi 12; Edinho Losianou 5, Uche Iheruome 20, Uche Iheruome 38
 
 ; Pegah        ; 1-0; Saba
   Amin Motavaselzadeh 5;
@@ -1095,7 +1094,7 @@ Date: 5/17/2008
   Saeid Khani 60, Mostafa Shahraki 69; Sharhram Goudarzi 84
 
 ;; Rah-Ahan;      3-0 Shirin-Faraz
-  Hadi Asghari 33, 56, Ahmad Taghavi 84;
+  Hadi Asghari 33, Hadi Asghari 56, Ahmad Taghavi 84;
 
 ; Peykan       ; 0-1; Saipa
 ;  Adriano Alvez 62

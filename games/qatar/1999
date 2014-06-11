@@ -17,22 +17,22 @@ Round: 1
 Date: 11/18/1999
 
 ; Qatar  ; 1-0; Wakra
-  Abdulaziz Hassan (89' pen.)
+  Abdulaziz Hassan (pk) 89;
 
 Date: 11/19/1999
 
 ; Taawun ; 2-1; Shamal
-  Uli Parreira (26'), Salah Foudal (34') - Haytham Al-Amin (13')
+  Uli Parreira 26, Salah Foudal 34; Haytham Al-Amin 13
 
 *[later]
 
 ; Rayyan ; 1-1; Ittihad
-  Gilson Sousa (31') - Fabrice Akwa (87')
+  Gilson Sousa 31; Fabrice Akwa 87
 
 Date: 12/20/1999
 
 ; Sadd   ; 1-0; Arabi
-  Jassem Mahmoud (48')
+  Jassem Mahmoud 48;
 
 *Ahli    bye
 
@@ -41,16 +41,16 @@ Date: 11/25/1999
 *Date: 11/25,26/1999
 
 ; Arabi  ; 1-2; Rayyan
-  Mubarak Mustapha (50') - Gilson Souza (9'), Mohamed Salem Al-Enazi (52')
+  Mubarak Mustapha 50; Gilson Souza 9, Mohamed Salem Al-Enazi 52
 
 ; Ahli   ; 2-2; Taawun 
-  Paulo Sergio (78'), Abdullah Al-Mansouri (81') - Uli Parreira (26'; 84')
+  Paulo Sergio 78, Abdullah Al-Mansouri 81; Uli Parreira 26, Uli Parreira 84
 
 ; Wakra  ; 0-2; Ittihad
-  Fabrice Akwa (25'), Osvaldo Martinez (42')
+;  Fabrice Akwa 25, Osvaldo Martinez 42
 
 ; Qatar  ; 4-0; Shamal
-  Khaled Gharib (20'), Sido Traoré (32'), Abdulaziz Hassan (43'), Othman Al-Khatib (68')
+  Khaled Gharib 20, Sido Traoré 32, Abdulaziz Hassan 43, Othman Al-Khatib 68;
 
 *Sadd    bye
 
@@ -59,20 +59,18 @@ Round: 3
 Date: 12/2/1999
 
 ; Wakra  ; 2-3; Arabi
-  Hussein Ali Al-Meri (53'), Nayef Al-Khater (56') - Hisham Zahed (18'), 
-   Ahmed Fares (50'), Mahmoud Soufi (79')
+  Hussein Ali Al-Meri 53, Nayef Al-Khater 56; Hisham Zahed 18, Ahmed Fares 50, Mahmoud Soufi 79
 
 ; Ittihad; 3-0; Shamal
-  Fabrice Akwa (12'; 54'), Franck Sitora (38')
+  Fabrice Akwa 12, Fabrice Akwa 54, Franck Sitora 38;
 
 ; Qatar  ; 2-2; Ahli  
-  Abdullah Al-Hamad (37'), Salem Al-Adasani (67' og) - Paulo Sergio (37'),
-   Khalifa Salem (62')
+  Abdullah Al-Hamad 37, Salem Al-Adasani (og) 67; Paulo Sergio 37, Khalifa Salem 62
 
 Date: 1/4/2000
 
 ; Sadd   ; 1-2; Rayyan
-  Abdullah Obaid (2') - Mohamed Salem Al-Enazi (14'; 70')
+  Abdullah Obaid 2; Mohamed Salem Al-Enazi 14, Mohamed Salem Al-Enazi 70
 
 *Taawun  bye
 
@@ -81,16 +79,16 @@ Round: 4
 Date: 12/9/1999
 
 ; Shamal ; 1-4; Arabi
-  Sobhi Adel (55') - Mubarak Mustapha (20' pen.; 37'; 65'), Mahmoud Soufi (27')
+  Sobhi Adel 55; Mubarak Mustapha (pk) 20, Mubarak Mustapha 37, Mubarak Mustapha 65,  Mahmoud Soufi 27
 
 ; Ittihad; 1-1; Ahli
-  Mustapha Adam (25') - Suleyman Sissi (45')
+  Mustapha Adam 25; Suleyman Sissi 45
 
 ; Sadd   ; 3-1; Wakra
-  Adel Jaddouh (7'), Fahad Al-Kowari (71' pen.; 76') - Hussein Al-Meri (74')
+  Adel Jaddouh 7, Fahad Al-Kowari (pk) 71, Fahad Al-Kowari 76; Hussein Al-Meri 74
 
 ; Qatar  ; 0-2; Taawun
-  Salah Foudal (10'; 37')
+;  Salah Foudal 10, Salah Foudal 37
 
 *Rayyan  bye
 
@@ -99,17 +97,16 @@ Round: 5
 Date: 12/16/1999
 
 ; Arabi  ; 1-0; Ahli
-  Marcelo Kuervas (58')
+  Marcelo Kuervas 58;
 
 ; Shamal ; 0-5; Sadd
-  Mohamed Gholam (15'; 25'), Abdulnasser Al-Obaidly (47'), 
-   Fahad Al-Kowari (67' pen.; 90')
+; Mohamed Gholam 15, Mohamed Gholam 25, Abdulnasser Al-Obaidly 47, Fahad Al-Kowari (pk) 67, Fahad Al-Kowari 90
 
 ; Ittihad; 3-0; Taawun
-  Mustapha Adam (37'; 84'), Abdullah Al-Mazrouyi (41')
+  Mustapha Adam 37, Mustapha Adam 84, Abdullah Al-Mazrouyi 41;
 
 ; Wakra  ; 0-1; Rayyan
-  Mohamed Salem Al-Enazi (66')
+;  Mohamed Salem Al-Enazi 66
 
 *Qatar   bye
 
@@ -118,18 +115,16 @@ Round: 6
 Date: 12/23/1999
 
 ; Ahli   ; 1-6; Sadd
-  Paulo Sergio (15') - Fahad Al-Kowari (1'; 48' pen.; 74' pen.), 
-   Joseph Ogu (64'; 76'), Dahi Al-Noubi (71')
+  Paulo Sergio 15; Fahad Al-Kowari 1, Fahad Al-Kowari (pk) 48, Fahad Al-Kowari (pk) 74, Joseph Ogu 64, Joseph Ogu 76, Dahi Al-Noubi 71
 
 ; Arabi  ; 1-1; Taawun
-  Jeremy Okudu (59') - Salah Foudal (44')
+  Jeremy Okudu 59; Salah Foudal 44
 
 ; Shamal ; 1-7; Rayyan
-  Wajdi Badreddine (22' pen.) - Mamadou So (14'), Mohamed Salem Al-Enazi (31'; 84'), 
-   Gilson Souza (36'), Faysal Adam (58'; 65'), Salman Musabbah (73')
+  Wajdi Badreddine (pk) 22; Mamadou So 14, Mohamed Salem Al-Enazi 31, Mohamed Salem Al-Enazi 84, Gilson Souza 36, Faysal Adam 58, Faysal Adam 65, Salman Musabbah 73
 
 ; Ittihad; 1-1; Qatar
-  Franck Sitora (23') - Moammar Abdurrabb (12')
+  Franck Sitora 23; Moammar Abdurrabb 12
 
 *Wakra   bye
 
@@ -140,13 +135,13 @@ Date: 12/30/1999
 ; Sadd   ; 0-0; Taawun
 
 ; Ahli   ; 2-1; Rayyan
-  Youssouf Mounif (4'), Hassan Abdulrazzaq (5') - Gilson Souza (52')
+  Youssouf Mounif 4, Hassan Abdulrazzaq 5; Gilson Souza 52
 
 ; Arabi  ; 5-0; Qatar
-  Mahmoud Soufi (2'; 56'; 87'), Marcelo Kuervas (58'), Abdulaziz Karim (68')
+  Mahmoud Soufi 2, Mahmoud Soufi 56, Mahmoud Soufi 87, Marcelo Kuervas 58, Abdulaziz Karim 68
 
 ; Shamal ; 0-1; Wakra
-  Hussein Al-Meri (82' pen.)
+;  Hussein Al-Meri (pk) 82
 
 *Ittihad bye
 
@@ -155,18 +150,18 @@ Round: 8
 Date: 1/6/2000
 
 ; Taawun ; 1-2; Rayyan
-  Marcio Domingos (25') - Mohamed Salem Al-Enazi (31'), Gilson Sousa (55')
+  Marcio Domingos 25; Mohamed Salem Al-Enazi 31, Gilson Sousa 55
 
 ; Sadd   ; 2-0; Qatar
-  Dane Fayne (49'), Jassem Mahmoud (51')
+  Dane Fayne 49, Jassem Mahmoud 51;
 
-Arabi   awd Ittihad         [awarded 3-0, originally 1-3]
-  [Mahmoud Soufi (50') - Youssouf Adam (25'), Mustapha Adam (65'; 89')]
-  [match awarded 3-0 as Ittihad substituted their (sent off) 'keeper by a
-   foreign player; according to local rules foreigners may not play as keeper]
+*Arabi   awd Ittihad         [awarded 3-0, originally 1-3]
+*  [Mahmoud Soufi (50') - Youssouf Adam (25'), Mustapha Adam (65'; 89')]
+*  [match awarded 3-0 as Ittihad substituted their (sent off) 'keeper by a
+*   foreign player; according to local rules foreigners may not play as keeper]
 
 ; Ahli   ; 1-0; Wakra
-  Abdullah Jassem (54')
+  Abdullah Jassem 54;
 
 *Shamal  bye
 
@@ -177,13 +172,13 @@ Date: 1/13/2000
 ; Rayyan ; 0-0; Qatar
 
 ; Taawun ; 1-2; Wakra
-  Salah Foudal (49') - Nii Bala (15'; 67')
+  Salah Foudal 49; Nii Bala 15, Nii Bala 67
 
 ; Ahli   ; 3-2; Shamal 
-  Abdullah Jassem (15'), Paulo Sergio (76'; 88') - Adam Shivro (19'; 49')
+  Abdullah Jassem 15, Paulo Sergio,  76, Paulo Sergio 88; Adam Shivro 19, Adam Shivro 49
 
 ; Sadd   ; 2-1; Ittihad
-  Fahad Al-Kowari (16'), Joseph Ogu (22') - Abdullah Al-Mazrouyi (90')
+  Fahad Al-Kowari 16, Joseph Ogu 22; Abdullah Al-Mazrouyi 90
 
 *Arabi   bye
 
@@ -192,15 +187,13 @@ Round: 10
 Date: 1/28/2000
 
 ; Arabi  ; 0-1; Sadd
-  Fahad Al-Kowari (26')
+;  Fahad Al-Kowari 26
 
 ; Shamal ; 2-2; Taawun
-  Saeed Shahine (1'), Wajdi Badreddine (11' pen.) - Salah Foudal (7' pen.),
-   Hussein Yasser (32')
+  Saeed Shahine 1, Wajdi Badreddine (pk) 11; Salah Foudal (pk) 7, Hussein Yasser 32
 
 ; Wakra  ; 0-0; Qatar
 
-*[Feb 15]
 Date: 2/15/2000
 
 ; Rayyan ; 0-0; Ittihad
@@ -208,7 +201,6 @@ Date: 2/15/2000
 *Ahli    bye
 
 Round: 11 
-*[Feb 4]
 Date: 2/4/2000
 
 ; Ittihad; 1-2; Wakra
@@ -216,48 +208,41 @@ Date: 2/4/2000
 ; Taawun ; 1-0; Ahli
 
 ; Rayyan ; 3-4; Arabi
-  Mohamed Salem Al-Enazi (13'; 44'; 74') - Mahmoud Soufi (21'),
-   Hisham Zahed (55'), Abdulaziz Karim (81'), Ahmed Rashed (89')
+  Mohamed Salem Al-Enazi 13, Mohamed Salem Al-Enazi 44, Mohamed Salem Al-Enazi 74; Mahmoud Soufi 21, Hisham Zahed 55, Abdulaziz Karim 81, Ahmed Rashed 89
 
 *Sadd    bye
 
 Round: 12 
-*[Feb 7]
 Date: 2/7/2000
 
 ; Rayyan ; 1-0; Sadd
-  Nasser Kamil (65')
+  Nasser Kamil 65;
 
 ; Ahli   ; 2-2; Qatar
-  Paulo Sergio (18'; 86' pen.) - Waliddine Mohamed (34'),
-   Abdulaziz Hassan (56' pen.)
+  Paulo Sergio 18, Paulo Sergio (pk) 86; Waliddine Mohamed 34, Abdulaziz Hassan (pk) 56
 
 ; Shamal ; 2-5; Ittihad
-  Saleh Al-Rashidi (63'; 65') - Fabrice Akwa (5'; 52'; 71'), 
-   Franck Sitora (8'), Ozvaldo Martinez (85' pen.)
+  Saleh Al-Rashidi 63, Saleh Al-Rashidi 65; Fabrice Akwa 5, Fabrice Akwa 52, Fabrice Akwa 71, Franck Sitora 8, Ozvaldo Martinez (pk) 85
 
 ; Arabi  ; 2-2; Wakra
-  Mahmoud Soufi (11'), Mubarak Mustapha (54') - Nayef Al-Khater (45'),
-   Hussein Al-Meri (51')
+  Mahmoud Soufi 11, Mubarak Mustapha 54; Nayef Al-Khater 45, Hussein Al-Meri 51
 
 *Taawun  bye
 
 Round: 13 
-*[Feb 11]
 Date: 2/11/2000
 
 ; Ahli   ; 1-1; Ittihad
-  Paulo Sergio (55') - Fabrice Akwa (22')
+  Paulo Sergio 55; Fabrice Akwa 22
 
 ; Arabi  ; 9-0; Shamal
-  Marcelo Kuervas (5'; 25'), Rashed Moussa (39'; 88'), Ahmed Fares (41'), 
-   Silvinho Dalma (44'), Jeremy Okudu (54'; 64'), Mubarak Al-Kowari (90')
+  Marcelo Kuervas 5, Marcelo Kuervas 25, Rashed Moussa 39, Rashed Moussa 88, Ahmed Fares 41, Silvinho Dalma 44, Jeremy Okudu (54, Jeremy Okudu 64, Mubarak Al-Kowari 90;
 
 ; Taawun ; 1-2; Qatar
-  Abdullah Ahmed (68') - Abdulaziz Hassan (82'), Khamis Ahmed (90')
+  Abdullah Ahmed 68; Abdulaziz Hassan 82, Khamis Ahmed 90
 
 ; Wakra  ; 1-2; Sadd
-  Nii Bala (57') - Abdullah Obaid (55'), Abdulnasser Al-Obaidly (68')
+  Nii Bala 57; Abdullah Obaid 55, Abdulnasser Al-Obaidly 68
 
 *Rayyan  bye
 
@@ -266,81 +251,72 @@ Round: 14
 Date: 2/18/2000
 
 ; Ahli   ; 1-0; Arabi
-  Rashed Obaid (27')
+  Rashed Obaid 27;
 
 ; Sadd   ; 5-0; Shamal
-  Dane Fayne (10'; 44'), Joseph Ogu (17'), Hussein Amouta (42'), 
-   Eissa Gholam (82')
+  Dane Fayne 10, Dane Fayne 44, Joseph Ogu 17, Hussein Amouta 42, Eissa Gholam 82
 
 ; Taawun ; 0-0; Ittihad
 
 ; Rayyan ; 1-1; Wakra
-  Gilson Souza (44') - Nayef Al-Khater (84')
+  Gilson Souza 44; Nayef Al-Khater 84
 
 *Qatar   bye
 
 Round: 15 
-*[Feb 26]
 Date: 2/26/2000
 
 ; Sadd   ; 2-0; Ahli
-  Joseph Ogu (66'), Fahad Al-Kowari (75')
+  Joseph Ogu 66, Fahad Al-Kowari 75;
 
 ; Taawun ; 3-3; Arabi
-  Fabrizio Santos (26'), Husein Yasser Al-Mohammadi (79'), 
-   Abdullah Hassan (81') - Jeremy Okudu (46'), Marcelo Kuervas (52' pen.),
-   Mubarak Mustapha (60')
+  Fabrizio Santos 26, Husein Yasser Al-Mohammadi 79, Abdullah Hassan 81; Jeremy Okudu 46, Marcelo Kuervas (pk) 52, Mubarak Mustapha 60
 
 ; Rayyan ; 2-1; Shamal
-  Gilson Sousa (86'), Mohamed Salem Al-Enazi (88') - Abdulaziz Bilal (8')
+  Gilson Sousa 86, Mohamed Salem Al-Enazi 88; Abdulaziz Bilal 8
 
 ; Qatar  ; 1-4; Ittihad
-  Meshel Mubarak (25') - Mustapha Adam (39'), Saghir Al-Shemmari (49'), 
-   Abdullah Al-Mazrouyi (70'), Ozvaldo Martinez (73')
+  Meshel Mubarak 25; Mustapha Adam 39, Saghir Al-Shemmari 49, Abdullah Al-Mazrouyi 70, Ozvaldo Martinez 73
 
 *Wakra   bye
 
 Round: 16 
-*[Mar 2]
 Date: 3/2/2000
 
 ; Rayyan ; 3-0; Ahli
-  Mohamed Salem Al-Enazi (43'; 85'), Nasser Kamil (87')
+  Mohamed Salem Al-Enazi 43, Mohamed Salem Al-Enazi 85, Nasser Kamil 87;
 
 ; Taawun ; 0-1; Sadd
-  Adel Darwish (25'
+;  Adel Darwish 25
 
 ; Qatar  ; 0-0; Arabi
 
 ; Wakra  ; 6-2; Shamal
-  Boubacar Ali (11'; 39'), Nii Bala (69'; 83'), Jassem Al-Tamimi (51'),
-   Jassem Saleh (86') - Wajdi Badreddine (56'; 80')
+  Boubacar Ali 11, Boubacar Ali 39, Nii Bala 69, Nii Bala 83, Jassem Al-Tamimi 51, Jassem Saleh 86; Wajdi Badreddine 56, Wajdi Badreddine 80
 
 *Ittihad bye
 
 Round: 17 
-*[Mar 5]
 Date: 3/5/2000
 
 ; Qatar  ; 0-4; Sadd
-  Dane Fayne (48'; 58'), Joseph Ogu (65'), Hussein Amouta (77')
+; Dane Fayne 48, Dane Fayne 58, Joseph Ogu 65, Hussein Amouta 77
 
 ; Rayyan ; 2-1; Taawun
-  Mohamed Salem Al-Enazi (49'), Gilson Souza (78') - Fabrizio Santos (46')
+  Mohamed Salem Al-Enazi 49, Gilson Souza 78; Fabrizio Santos 46
 
 ; Ittihad; 0-0; Arabi
 
 ; Wakra  ; 2-0; Ahli
-  Boubacar Ali (13'), Hussein Al-Meri (77')
+  Boubacar Ali 13, Hussein Al-Meri 77;
 
 *Shamal  bye
 
 Round: 18 
-*[Mar 9]
 Date: 3/9/2000
 
 ; Ittihad; 1-1; Sadd
-  Ali Al-Ka'abi (30') - Mohamed Gholam (87')
+  Ali Al-Kaabi 30; Mohamed Gholam 87
 
 ; Shamal ; 0-1; Ahli
 ; Wakra  ; 2-2; Taawun
@@ -359,12 +335,12 @@ Date: 3/9/2000
 *- - - - - - - - - - - - - - - - - - - -
 * 9.Al Shamal     16  0  1 15  12-60   1  [Shamal]         Relegation Playoff
 
-Relegation Playoff
+Stage: Relegation Playoff
 
-*First Leg [Apr 18]
+Leg: 1
 4/18/2000; Shamal ; 0-0; Shabab
 
-*Second Leg [Apr 26]
+Leg: 2
 4/26/2000; Shabab ; 1-2; Shamal
 
 *Shamal remain in 1st division

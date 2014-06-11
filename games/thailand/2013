@@ -29,7 +29,7 @@ Season: 2013
 *[*1] Wuachon United were renamed Songkhla United
 *[*2] Royal Thai Army were renamed Army United
 
-Round 1
+Round: 1
 [Mar 2]
 BEC Tero Sasana     2-2 Chonburi            
 Muang Thong United  2-1 Army United             
@@ -42,7 +42,7 @@ Chiangrai United    1-3 TOT
 Esan United         0-0 Chainat             [annulled]
 Songkhla United     1-0 Bangkok Glass       
 
-Round 2
+Round: 2
 [Mar 8]
 Esan United         1-2 Muang Thong United  [annulled]
 [Mar 9]
@@ -56,7 +56,7 @@ Pattaya United      1-2 Osotspa
 Ratchaburi          0-1 BEC Tero Sasana     
 TOT                 1-1 Police United       
 
-Round 3 [Mar 27]
+Round: 3 [Mar 27]
 Army United      1-0 Ratchaburi          
 BEC Tero Sasana     3-1 Pattaya United      
 Buriram United      1-0 Chainat             
@@ -70,7 +70,7 @@ Songkhla United     3-0 Esan United         [annulled]
 NB: Esan United suspended following proof that the move of Sisaket to Ubon
     Ratchatani province was based on counterfeited documentation
 
-Round 4
+Round: 4
 [Mar 30]
 Bangkok United      2-3 BEC Tero Sasana     
 Muang Thong United  3-0 Songkhla United     
@@ -83,7 +83,7 @@ Ratchaburi          1-1 Chonburi
 Suphanburi          1-0 Samut Songkhram     
 Buriram United      bye
 
-Round 5
+Round: 5
 [Apr 6]
 Army United         6-0 Bangkok United      
 Buriram United      6-1 Songkhla United     
@@ -96,7 +96,7 @@ Police United       0-0 Chainat
 Samut Songkhram     1-1 Bangkok Glass       
 Chiangrai United    bye
 
-Round 6 [Apr 17]
+Round: 6 [Apr 17]
 Bangkok Glass       3-0 Osotspa             
 Bangkok United      0-2 Chonburi            
 Chainat             1-0 Samut Songkhram     
@@ -107,7 +107,7 @@ Suphanburi          1-1 BEC Tero Sasana
 TOT                 0-4 Army United             
 Police United       bye
 
-Round 7
+Round: 7
 [Apr 20]
 Chiangrai United    2-2 Buriram United      
 Osotspa             1-1 Chainat             
@@ -120,7 +120,7 @@ Chonburi            1-0 TOT
 Police United       1-1 Songkhla United     
 Samut Songkhram     bye
 
-Round 8
+Round: 8
 [Apr 27]
 Bangkok United      4-0 Pattaya United      
 Buriram United      3-1 Police United       
@@ -133,7 +133,7 @@ Suphanburi          0-1 Chonburi
 TOT                 1-1 Ratchaburi          
 Osotspa             bye
 
-Round 9
+Round: 9
 [May 4]
 Army United         0-0 Chainat             
 Pattaya United      0-1 TOT                 
@@ -146,7 +146,7 @@ Police United       0-0 Chiangrai United
 Samut Songkhram     1-2 Buriram United      
 BEC Tero Sasana     bye
 
-Round 10
+Round: 10
 [May 11]
 Buriram United      4-1 Osotspa             
 Chainat             1-2 Chonburi            
@@ -159,7 +159,7 @@ Suphanburi          1-2 Pattaya United
 TOT                 3-1 Bangkok United      
 Army United             bye
 
-Round 11
+Round: 11
 [May 16]
 BEC Tero Sasana     1-1 Buriram United      
 [May 18]
@@ -173,7 +173,7 @@ Osotspa             0-1 Chiangrai United
 Samut Songkhram     2-1 Police United       
 Chonburi            bye
 
-Round 12
+Round: 12
 [May 25]
 Chiangrai United    0-3 BEC Tero Sasana     
 Police United       1-1 Osotspa             
@@ -186,7 +186,7 @@ Muang Thong United  2-1 Samut Songkhram
 Suphanburi          3-1 TOT                 
 Ratchaburi          bye
 
-Round 13 [May 29]
+Round: 13 [May 29]
 Army United       3-2 Chiangrai United    
 Bangkok United      3-2 Chainat             
 BEC Tero Sasana     3-2 Police United       
@@ -197,7 +197,7 @@ Suphanburi          3-1 Muang Thong United
 TOT                 1-1 Bangkok Glass       
 Pattaya United      bye
 
-Round 14
+Round: 14
 [Jun 1]
 Bangkok Glass       0-0 Suphanburi          
 Chainat             0-0 TOT                 
@@ -210,7 +210,7 @@ Muang Thong United  1-1 Osotspa
 Songkhla United     3-1 Pattaya United      
 Bangkok United      bye
 
-Round 15
+Round: 15
 [Jun 8]
 Army United         2-0 Samut Songkhram     
 BEC Tero Sasana     1-1 Osotspa             
@@ -223,7 +223,7 @@ Pattaya United      0-3 Buriram United
 Ratchaburi          0-0 Chiangrai United    
 TOT                 bye
 
-Round 16
+Round: 16
 [Jun 22]
 Chainat             3-1 Bangkok Glass       
 Osotspa             2-1 Army United             
@@ -236,7 +236,7 @@ Muang Thong United  3-1 BEC Tero Sasana
 Songkhla United     4-0 TOT                 
 Suphanburi          bye
 
-Round 17
+Round: 17
 [Jun 29]
 Bangkok United      2-1 Chiangrai United    
 Suphanburi          2-1 Songkhla United     
@@ -249,7 +249,7 @@ Pattaya United      1-3 Police United
 Ratchaburi          0-0 Samut Songkhram     
 Bangkok Glass       bye
 
-Round 18
+Round: 18
 [Jul 6]
 Army United         0-2 Muang Thong United  
 Pattaya United      1-0 Samut Songkhram     
@@ -262,7 +262,7 @@ Suphanburi          1-2 Buriram United
 TOT                 1-0 Chiangrai United    
 Chainat             bye
 
-Round 19
+Round: 19
 [Jul 20]
 Army United         1-1 Chonburi            
 Bangkok Glass       0-0 Buriram United      
@@ -275,7 +275,7 @@ Samut Songkhram     0-0 Bangkok United
 Songkhla United     2-0 Chainat             
 Muang Thong United  bye
 
-Round 20
+Round: 20
 [Aug 3]
 BEC Tero Sasana     1-1 Bangkok United      
 Chiangrai United    2-1 Chainat             
@@ -288,7 +288,7 @@ Osotspa             4-0 TOT
 Samut Songkhram     1-3 Suphanburi          
 Buriram United      bye
 
-Round 21
+Round: 21
 [Aug 10]
 Army United         3-2 TOT                 
 Chonburi            1-0 Bangkok United      
@@ -301,7 +301,7 @@ Osotspa             0-0 Bangkok Glass
 Ratchaburi          3-0 Pattaya United      
 Police United       bye
 
-Round 22
+Round: 22
 [Aug 14]
 Bangkok Glass       2-0 Samut Songkhram     
 Bangkok United      0-4 Army United             
@@ -313,7 +313,7 @@ Suphanburi          2-1 Osotspa
 TOT                 0-5 BEC Tero Sasana     
 Chiangrai United    bye
 
-Round 23
+Round: 23
 [Aug 17]
 Bangkok United      4-2 Ratchaburi          
 Buriram United      2-0 Chiangrai United    
@@ -326,7 +326,7 @@ Suphanburi          0-1 Army United
 TOT                 1-2 Chonburi            
 Samut Songkhram     bye
 
-Round 24 
+Round: 24 
 [Jul 24]
 Police United       0-1 Buriram United      
 [Aug 21]
@@ -339,7 +339,7 @@ Ratchaburi          1-0 TOT
 Samut Songkhram     2-0 Songkhla United     
 Osotspa             bye
 
-Round 25 
+Round: 25 
 [Aug 24]
 Bangkok Glass       0-0 Chonburi            
 Suphanburi          0-0 Ratchaburi          
@@ -352,7 +352,7 @@ Muang Thong United  3-2 Bangkok United
 Songkhla United     2-2 Osotspa             
 BEC Tero Sasana     bye
 
-Round 26
+Round: 26
 [Aug 31]
 BEC Tero Sasana     2-0 Songkhla United     
 Chonburi            2-1 Chainat             
@@ -367,7 +367,7 @@ Ratchaburi          0-1 Bangkok Glass
 Samut Songkhram     0-2 Chiangrai United    [replay]
 Army United             bye
 
-Round 27
+Round: 27
 [Sep 7]
 Bangkok United      0-0 Osotspa             
 Muang Thong United  1-1 Chonburi            
@@ -380,7 +380,7 @@ Suphanburi          2-5 Police United
 TOT                 0-0 Samut Songkhram     
 Songkhla United     bye
 
-Round 28
+Round: 28
 [Sep 14]
 Bangkok Glass       4-1 Pattaya United      
 Buriram United      2-0 BEC Tero Sasana     
@@ -393,7 +393,7 @@ Songkhla United     1-2 Army United
 Suphanburi          3-0 Bangkok United      
 Chonburi            bye
 
-Round 29
+Round: 29
 [Sep 21]
 BEC Tero Sasana     2-4 Chiangrai United    
 Chonburi            5-1 Songkhla United     
@@ -407,7 +407,7 @@ Pattaya United      3-0 Chainat
 TOT                 0-2 Suphanburi          
 Ratchaburi          bye
 
-Round 30
+Round: 30
 [Sep 28]
 Bangkok Glass       5-1 TOT                 
 Chainat             2-1 Bangkok United      
@@ -420,7 +420,7 @@ Police United       1-2 BEC Tero Sasana
 Songkhla United     2-2 Ratchaburi          
 Pattaya United      bye
 
-Round 31
+Round: 31
 [Oct 5]
 Osotspa             1-3 Muang Thong United  
 Suphanburi          1-0 Bangkok Glass       
@@ -433,7 +433,7 @@ Pattaya United      2-2 Songkhla United
 Ratchaburi          2-2 Buriram United      
 Bangkok United      bye
 
-Round 32
+Round: 32
 [Oct 19]
 Chainat             3-0 Suphanburi          
 Osotspa             2-4 BEC Tero Sasana     
@@ -446,7 +446,7 @@ Muang Thong United  1-0 Bangkok Glass
 Samut Songkhram     1-1 Army United             
 TOT                 bye
 
-Round 33 [Oct 27]   
+Round: 33 [Oct 27]   
 Army United       1-0 Osotspa             
 Bangkok Glass       2-1 Chainat             
 Bangkok United      0-2 Buriram United      
@@ -457,7 +457,7 @@ Ratchaburi          1-0 Police United
 TOT                 1-0 Songkhla United     
 Suphanburi          bye
 
-Round 34 [Nov 3]
+Round: 34 [Nov 3]
 BEC Tero Sasana     4-1 Army United         
 Buriram United      2-1 TOT                 
 Chiangrai United    4-2 Bangkok United      
@@ -468,39 +468,37 @@ Samut Songkhram     2-2 Ratchaburi
 Songkhla United     2-1 Suphanburi          
 Bangkok Glass       bye
 
-Final Table:
 
- 1.Buriram United                       32  23  9  0  73-23  78  Champions
- 2.Muang Thong United (Nonthaburi)      32  21  8  3  61-33  71  [2-1]
- 3.Chonburi FC                          32  18  8  6  61-35  62
- 4.Suphanburi FC                        32  14  9  9  40-31  51
- 5.Bangkok Glass (Pathum Thani)         32  14  8 10  40-31  50
- 6.Army United                          32  13  9 10  48-40  48  [*2]
- 7.BEC Tero Sasana (Bangkok)            32  13  9 10  56-49  48
- 8.Osotspa M-150 (Saraburi)             32   9 12 11  38-43  39
- 9.Chainat FC                           32  10  8 14  42-43  38  [0-0]
-10.Police United (Pathum Thani)         32   9 11 12  40-37  38
-11.Chiangrai United                     32   8 10 14  32-45  34
-12.Songkhla United                      32   7 11 14  30-47  32  [3-0]  [*1]
-13.Bangkok United                       32   8  7 17  38-61  31
-14.TOT (Bangkok)                        32   8  7 17  27-54  31
-15.Ratchaburi                           32   6 12 14  31-39  30
----------------------------------------------------------------
-16.Samut Songkhram                      32   6 12 14  22-41  30
-17.Pattaya United                       32   9  2 21  39-66  29  Relegated
- -.Esan United                          excluded; all results annulled;
-   record before exclusion:              3   0  1  2   1- 5   1
+* 1.Buriram United                       32  23  9  0  73-23  78  Champions
+* 2.Muang Thong United (Nonthaburi)      32  21  8  3  61-33  71  [2-1]
+* 3.Chonburi FC                          32  18  8  6  61-35  62
+* 4.Suphanburi FC                        32  14  9  9  40-31  51
+* 5.Bangkok Glass (Pathum Thani)         32  14  8 10  40-31  50
+* 6.Army United                          32  13  9 10  48-40  48  [*2]
+* 7.BEC Tero Sasana (Bangkok)            32  13  9 10  56-49  48
+* 8.Osotspa M-150 (Saraburi)             32   9 12 11  38-43  39
+* 9.Chainat FC                           32  10  8 14  42-43  38  [0-0]
+*10.Police United (Pathum Thani)         32   9 11 12  40-37  38
+*11.Chiangrai United                     32   8 10 14  32-45  34
+*12.Songkhla United                      32   7 11 14  30-47  32  [3-0]  [*1]
+*13.Bangkok United                       32   8  7 17  38-61  31
+*14.TOT (Bangkok)                        32   8  7 17  27-54  31
+*15.Ratchaburi                           32   6 12 14  31-39  30
+*---------------------------------------------------------------
+*16.Samut Songkhram                      32   6 12 14  22-41  30
+*17.Pattaya United                       32   9  2 21  39-66  29  Relegated
+* -.Esan United                          excluded; all results annulled;
+*   record before exclusion:              3   0  1  2   1- 5   1
 
-NB: annulled results against Esan between square brackets;
-    Esan United readmitted for 2014 under their former name Si Sa Ket;
-    Samut Songkhram escaped relegation due to extension top level to 20 clubs
+*NB: annulled results against Esan between square brackets;
+*    Esan United readmitted for 2014 under their former name Si Sa Ket;
+*    Samut Songkhram escaped relegation due to extension top level to 20 clubs
+*[*1] Wuachon United were renamed Songkhla United
+*[*2] Royal Thai Army were renamed Army United
 
-[*1] Wuachon United were renamed Songkhla United
-[*2] Royal Thai Army were renamed Army United
-
-Promoted: Air Force Central (formerly Air Force United)
-          Singhtarua (formerly Thai Port FC) 
-          PTT (Rayong)
+*Promoted: Air Force Central (formerly Air Force United)
+*          Singhtarua (formerly Thai Port FC) 
+*          PTT (Rayong)
 
 
 *Prepared and maintained by Karel Stokkermans for the Rec.Sport.Soccer Statistics Foundation

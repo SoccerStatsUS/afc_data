@@ -17,7 +17,7 @@ Round: 1
 Date: 11/3/2000
 
 ; Arabi  ; 1-2; Wakra
-  Mohamed Al-Qobaissi 23pen; Nayef Al-Khater 88pen, Meerghani Al-Zein 90
+  Mohamed Al-Qobaissi (pk) 23; Nayef Al-Khater (pk) 88, Meerghani Al-Zein 90
 
 ; Taawun ; 1-1; Rayyan
   Hussein Al-Meri 74; Nasser Kamil 14
@@ -25,10 +25,10 @@ Date: 11/3/2000
 Date: 11/4/2000
 
 ; Shamal ; 1-4; Qatar
-  Mohamed Al-Hashemi 14;  Khaled Gharib 4, Ahmed Felix Aboagye 8pen, 17, Sergio Sousa 81
+  Mohamed Al-Hashemi 14;  Khaled Gharib 4, Ahmed Felix Aboagye (pk) 8, Ahmed Felix Aboagye 17, Sergio Sousa 81
 
 ; Ahli   ; 2-2; Ittihad
-  Meshel Abdullah 68, Abdullah Jassem 87; Fabrice Akwa 10, 77
+  Meshel Abdullah 68, Abdullah Jassem 87; Fabrice Akwa 10, Fabrice Akwa 77
 
 *Sadd    bye
 
@@ -36,8 +36,7 @@ Round: 2
 Date: 11/17/2000
 
 ; Ahli   ; 3-6; Arabi
-  Salman Shaker 11, Abdullah Al-Mansouri 34, Marcelo Santos 63; Walid Hamza 30, 
-   Abdulaziz Karim 41, Sidna Al-Bashir 43, 68, 77, Ahmed Fares 91
+  Salman Shaker 11, Abdullah Al-Mansouri 34, Marcelo Santos 63; Walid Hamza 30, Abdulaziz Karim 41, Sidna Al-Bashir 43, Sidna Al-Bashir 68, Sidna Al-Bashir 77, Ahmed Fares 91
 
 ; Shamal ; 1-2; Taawun
   Omar Abou-Baker 88; Abdullah Hassan 36, Hussein Al-Meri 85
@@ -45,12 +44,12 @@ Date: 11/17/2000
 Date: 12/29/2000
 
 ; Ittihad; 1-0; Rayyan
-  Musatafa Adam 57
+  Musatafa Adam 57;
 
 Date: 1/1/2001
 
 ; Sadd   ; 0-2; Wakra
-  Mirghani Al-Zein 32, Mamoun Diop 63
+;  Mirghani Al-Zein 32, Mamoun Diop 63
 
 *Qatar   bye
 
@@ -58,19 +57,19 @@ Round: 3
 Date: 11/21/2000
 
 ; Shamal ; 2-3; Wakra
-  Ahmed Raja 63, 75; Ma'amoun Diop 16, 26, Ali Moqbel 62
+  Ahmed Raja 63, Ahmed Raja 75; Ma'amoun Diop 16, Ma'amoun Diop 26, Ali Moqbel 62
 
 ; Taawun ; 0-0; Arabi
 
 Date: 12/29/2000
 
 ; Sadd   ; 1-0; Qatar 
-  Mohamed Gholam 46
+  Mohamed Gholam 46;
 
 Date: 1/2?/2001
 
 ; Ahli   ; 4-2; Rayyan
-  Meshal Abdulla 5, 43, Abdulla Jasem 25, 74; Sahan Al-Shummari 54, Naser Kameel 59
+  Meshal Abdulla 5, Meshal Abdulla 43, Abdulla Jasem 25, Abdulla Jasem 74; Sahan Al-Shummari 54, Naser Kameel 59
 
 *Ittihad bye
 
@@ -78,15 +77,15 @@ Round: 4
 Date: 11/25/2000
 
 ; Taawun ; 2-0; Sadd
-  Hussein Al-Meri 2, 23
+  Hussein Al-Meri 2, Hussein Al-Meri 23
 
 ; Ahli   ; 2-0; Shamal
-  Hussein Al-Qouti 68, 89
+  Hussein Al-Qouti 68, Hussein Al-Qouti 89
 
 Date: 11/26/2000
 
 ; Wakra  ; 1-0; Qatar 
-  Ma'amoun Diop 72
+  Ma'amoun Diop 72;
 
 ; Ittihad; 0-0; Arabi
 
@@ -99,12 +98,12 @@ Date: 12/1/2000
   Mohamed Gholam 34, Joseph Oku 88; Marcelo Santos 66
 
 ; Ittihad; 4-1; Shamal
-  Fabrice Akwa 17, 82, Adel Khamis 60, Mustapha Adam 91; Sobhi Adel 61
+  Fabrice Akwa 17, Fabrice Akwa 82, Adel Khamis 60, Mustapha Adam 91; Sobhi Adel 61
 
 Date: 12/2/2000
 
 ; Qatar  ; 0-2; Taawun
-  Paul Christiano 60pen, Jamal Jaber 90
+;  Paul Christiano (pk) 60, Jamal Jaber 90
 
 Date: 12/3/2000
 
@@ -117,22 +116,20 @@ Round: 6
 Date: 12/8/2000
 
 ; Ittihad; 3-2; Sadd
-  Mustapha Adam 7, Fabrice Akwa 11, Osvaldo Martinez 66; Mustapha Amouta 52,
-   Adel Jaddouh 84
+  Mustapha Adam 7, Fabrice Akwa 11, Osvaldo Martinez 66; Mustapha Amouta 52, Adel Jaddouh 84
 
 ; Qatar  ; 3-1; Ahli
-  Yasser Nazmi 34, 57, Ahmed Felix Aboagye 53; Meshel Abdullah 67
+  Yasser Nazmi 34, Yasser Nazmi 57, Ahmed Felix Aboagye 53; Meshel Abdullah 67
 
 Date: 12/9/2000
 
 ; Rayyan ; 4-3; Shamal
-  Adel Al-Mulla 6, Fahad Al-Shemmari 57, 66, 75; Christophe Begri 17,
-   Anwar Mohamed 21pen, Sobhi Adel 77
+  Adel Al-Mulla 6, Fahad Al-Shemmari 57, Fahad Al-Shemmari 66, Fahad Al-Shemmari 75; Christophe Begri 17, Anwar Mohamed (pk) 21, Sobhi Adel 77
 
 Date: 12/10/2000
 
 ; Wakra  ; 0-2; Taawun
-  Hussein Yasser 38, Ismail Ali 59pen
+;  Hussein Yasser 38, Ismail Ali (pk) 59
 
 *Arabi   bye
 
@@ -140,15 +137,15 @@ Round: 7
 Date: 12/15/2000
 
 ; Qatar  ; 0-1; Ittihad
-  Osvaldo Martinez 28pen
+; Osvaldo Martinez (pk) 28
 
 ; Rayyan ; 1-3; Sadd
-  Franck Sitora 57; Ahmed Khalifa 31, Radhi Shneishel 81pen, Hussein Amouta 90
+  Franck Sitora 57; Ahmed Khalifa 31, Radhi Shneishel (pk) 81, Hussein Amouta 90
 
 Date: 12/16/2000
 
 ; Wakra  ; 3-2; Ahli
-  Ma'amoun Diop 12, 30, 91; Marcelo Santos 62, Suleyman Sissi 84
+  Ma'amoun Diop 12, Ma'amoun Diop 30, Ma'amoun Diop 91; Marcelo Santos 62, Suleyman Sissi 84
 
 Date: 12/17/2000
 
@@ -161,15 +158,15 @@ Round: 8
 Date: 12/19/2000
 
 ; Rayyan ; 2-0; Qatar
-  Franck Sitora 7, 63
+  Franck Sitora 7, Franck Sitora 63;
  
 ; Wakra  ; 3-2; Ittihad
-  Meer Ghani 35pen, 54, Ma'amoun Diop 76; Rashed Al-Ka'abi 7, Bona Mango 27
+  Meer Ghani (pk) 35, Meer Ghani 54, Ma'amoun Diop 76; Rashed Al-Ka'abi 7, Bona Mango 27
 
 Date: 12/20/2000
 
 ; Arabi  ; 0-2; Sadd
-  Hussein Amouta 52, 63
+; Hussein Amouta 52, Hussein Amouta 63
 
 ; Taawun ; 0-0; Ahli
 
@@ -179,18 +176,18 @@ Round: 9
 Date: 12/23/2000
 
 ; Wakra  ; 0-3; Rayyan
-  Nasser Kamil 17, 55, Franck Sitora 84
+; Nasser Kamil 17, Nasser Kamil 55, Franck Sitora 84
 
 ; Arabi  ; 1-0; Qatar 
-  Mubarak Mustapha 50
+  Mubarak Mustapha 50;
 
 Date: 12/24/2000
 
 ; Taawun ; 0-1; Ittihad
-  Osvaldo Martinez 44
+;  Osvaldo Martinez 44
 
 ; Shamal ; 0-4; Sadd
-  Ahmed Khalifa 14, 91, Hussein Amouta 23, Adel Jaddouh 40
+; Ahmed Khalifa 14, Ahmed Khalifa 91, Hussein Amouta 23, Adel Jaddouh 40
 
 *Ahli    bye
 
@@ -201,17 +198,17 @@ Date: 1/8/2001
   Mamoun Diop 90; Mohammed El Nasiri 33, Pablo Hector 88
 
 ; Qatar  ; 3-1; Shamal
-  De Souza 39, Ahmed Felix 40, Jasem Abu Al-Ainain 64; Beigri 66pen
+  De Souza 39, Ahmed Felix 40, Jasem Abu Al-Ainain 64; Beigri (pk) 66
 
 Date: 1/9/2001
 
 ; Rayyan ; 3-2; Taawun
-  Franck Sitora 22, 61, 85; Carlos 64, Hussain Al-Murri 73
+  Franck Sitora 22, Franck Sitora 61, Franck Sitora 85; Carlos 64, Hussain Al-Murri 73
 
 Date: 1/23/2001
 
 ; Ittihad; 1-2; Ahli
-  Osvaldo Martinez 78pen; Meshel Abdullah 73, Marcelo Santos 80
+  Osvaldo Martinez (pk) 78; Meshel Abdullah 73, Marcelo Santos 80
 
 *Sadd    bye
 
@@ -219,15 +216,15 @@ Round: 11
 Date: 1/15/2001
 
 ; Arabi  ; 1-0; Taawun
-  Walid Hamza 17
+  Walid Hamza 17;
 
 ; Wakra  ; 3-1; Shamal
-  Meerghani Al-Zein 77, Ma'amoun Diop 84, 89; Ahmed Raja 24
+  Meerghani Al-Zein 77, Ma'amoun Diop 84, Ma'amoun Diop 89; Ahmed Raja 24
 
 Date: 1/16/2001
 
 ; Rayyan ; 2-0; Ahli
-  Sammy Al-Traboulsi 67, Nasser Kamil 76
+  Sammy Al-Traboulsi 67, Nasser Kamil 76;
 
 ; Qatar  ; 2-1; Sadd
   Sergio Sousa 30, Ahmed Felix Aboagye 76; Radhi Shneishel 45
@@ -238,8 +235,7 @@ Round: 12
 Date: 1/26/2001
 
 ; Arabi  ; 3-2; Ahli
-  Mubarak Mustapha 13, Mohamed Eissa Al-Kabissi 43, Hisham Zayed 83;
-   Meshel Abdullah 79, 90
+  Mubarak Mustapha 13, Mohamed Eissa Al-Kabissi 43, Hisham Zayed 83; Meshel Abdullah 79, Meshel Abdullah 90
 
 ; Taawun ; 3-1; Shamal
   Rachid Roki 38, Mohamed Yasser 55, Hassan Abdullah 90; Sobhi Adel 18
@@ -247,10 +243,10 @@ Date: 1/26/2001
 Date: 1/27/2001
 
 ; Wakra  ; 1-0; Sadd
-  Abdullah Abou-Zama’a 20
+  Abdullah Abou-Zama’a 20;
 
 ; Rayyan ; 1-0; Ittihad
-  Adel Al-Mulla 74
+  Adel Al-Mulla 74;
 
 *Qatar   bye
 
@@ -258,18 +254,18 @@ Round: 13
 Date: 2/2/2002
 
 ; Sadd   ; 2-2; Taawun
-  Jassem Al-Tamimi 6, Sultan Al-Sufyani 7og; Hussein Al-Meri 15, 59
+  Jassem Al-Tamimi 6, Sultan Al-Sufyani (og) 7; Hussein Al-Meri 15, Hussein Al-Meri 59
 
 ; Shamal ; 0-3; Ahli
-  Meshel Abdullah 20, Youssouf Mounif 73, Abdullah Jassem 87
+;  Meshel Abdullah 20, Youssouf Mounif 73, Abdullah Jassem 87
 
 Date: 2/3/2002
 
 ; Arabi  ; 2-3; Ittihad
-  Mubarak Mustapha 42, 88pen; Hamed Shami 33, Osvaldo Martinez 75pen, 77
+  Mubarak Mustapha 42, Mubarak Mustapha (pk) 88; Hamed Shami 33, Osvaldo Martinez (pk) 75, Osvaldo Martinez 77
 
 ; Qatar  ; 0-4; Wakra
-  Meerghani Al-Zein 12, 22, Ma'amoun Diop 35, Khaled Saleh 58
+; Meerghani Al-Zein 12, Meerghani Al-Zein 22, Ma'amoun Diop 35, Khaled Saleh 58
 
 *Rayyan  bye
 
@@ -277,18 +273,18 @@ Round: 14
 Date: 3/30/2002
 
 ; Ahli   ; 2-3; Sadd
-  Marcelo Santos 59pen, 92; Bouri Adamo 35, 73, Abdulnasser Al-Obaydli 25
+  Marcelo Santos (pk) 59, Marcelo Santos 92; Bouri Adamo 35, 73, Abdulnasser Al-Obaydli 25
 
 ; Shamal ; 0-3; Ittihad
-  Adel Khamis 13, Saoud Fatah 17, Fahad Al-Shemmari 60
+; Adel Khamis 13, Saoud Fatah 17, Fahad Al-Shemmari 60
 
 Date: 3/31/2002
 
 ; Arabi  ; 1-1; Rayyan
-  Pablo Gonzalez 59; Franck Sitora 9pen
+  Pablo Gonzalez 59; Franck Sitora (pk) 9
 
 ; Taawun ; 3-1; Qatar  
-  Rachid Roki 47, 90, Hussein Al-Meri 78; Meshel Mubarak 70
+  Rachid Roki 47, Rachid Roki 90, Hussein Al-Meri 78; Meshel Mubarak 70
 
 *Wakra   bye
 
@@ -299,15 +295,15 @@ Date: 4/5/2002
   Bouri Adamo 17; Abdullah Al-Mazrouyi 69
 
 ; Ahli   ; 2-2; Qatar 
-  Abdullah Jassem 62, Marcelo Santos 76; Leon 6, Yasser Nazmi 70pen
+  Abdullah Jassem 62, Marcelo Santos 76; Leon 6, Yasser Nazmi (pk) 70
 
 Date: 4/6/2002
 
 ; Shamal ; 1-4; Rayyan
-  Sobhi Adel 1; Nasser Kamil 6, Mustapha Yahsous 62og, Franck Sitora 64, 88
+  Sobhi Adel 1; Nasser Kamil 6, Mustapha Yahsous (og) 62, Franck Sitora 64, Franck Sitora 88
 
 ; Taawun ; 0-1; Wakra
-  Ma'amoun Diop 92
+; Ma'amoun Diop 92
 
 *Arabi   bye
 
@@ -315,17 +311,15 @@ Round: 16
 Date: 4/10/2002
 
 ; Sadd   ; 3-2; Rayyan
-  Abdulrahman Mahmoud 7, Fahad Al-Kowari 21, Abdulnasser Al-Obaidly 74;
-   Adel Al-Mulla 1, Franck Sitora 50
+  Abdulrahman Mahmoud 7, Fahad Al-Kowari 21, Abdulnasser Al-Obaidly 74; Adel Al-Mulla 1, Franck Sitora 50
 
 ; Ahli   ; 4-2; Wakra
-  Youssouf Mounif 21, Marcelo Santos 33, Abdullah Jassem 60, Meshel Abdullah 74;
-   Ahmed Moussa 82, Meerghani Al-Zein 84pen
+  Youssouf Mounif 21, Marcelo Santos 33, Abdullah Jassem 60, Meshel Abdullah 74; Ahmed Moussa 82, Meerghani Al-Zein (pk) 84
 
 Date: 4/11/2002
 
 ; Shamal ; 0-4; Arabi
-  Mohamed Al-Nassiri 40, 66, Mangot 73, Walid Hamza 77
+; Mohamed Al-Nassiri 40, Mohamed Al-Nassiri 66, Mangot 73, Walid Hamza 77
 
 ; Ittihad; 3-1; Qatar 
   Osvaldo Martinez 3, Hamed Shami 48, Jassem Askar 68; Abdulaziz Hassan 28
