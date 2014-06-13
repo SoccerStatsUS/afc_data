@@ -18,16 +18,16 @@ Competition: Qatar Stars League
 Round: 1 
 Date: 11/1/2002
 
-;; Al-Arabi;    1-3 Al-Ahli
+; Al-Arabi;    1-3; Al-Ahli
   Zoubeir Beya 16; Carlos Pedro 44, Yousef Munif 50, Walid Jasem
 
 ; Rayyan     ; 3-0; Shamal
   Ali Al-Merri 15, Abdulrahman Al-Kawari 65, Alou Mabika 68;
 
-;; Al-Ittifaq;  0-2 Qatar        
+; Al-Ittifaq;  0-2; Qatar        
 ; Juma Moosa 68, Juma Moosa 83
 
-;; Al-Ittihad;  2-0 Wakra
+; Al-Ittihad;  2-0; Wakra
   Osvaldo Fernández (pk) 15, Adel Khamis 90;
 
 ; Sadd       ; 1-1; Khor
@@ -36,7 +36,7 @@ Date: 11/1/2002
 Round: 2 
 Date: 11/7/2002
 
-;; Al-Arabi;    0-1 Rayyan   
+; Al-Arabi;    0-1; Rayyan   
 ;  Adel Lami 57
 
 ; Wakra      ; 0-1; Qatar    
@@ -48,9 +48,9 @@ Date: 11/8/2002
   Zeyad Al-Abd 53, Ahmed Abduljabbar 55, Hisham Redha 72; Mustafa Adem 39, Fehaid Al-Shemmari 47, Emad Mohammed 71
 
 ; Sadd       ; 5-0; Al-Ittifaq
-  Masoud Ghanem 7, Boushaib Lembarki 27, Abdulkader Keita 45, Abdulkader Keita 79, Ahmed Khalifa 56
+  Masoud Ghanem 7, Boushaib Lembarki 27, Abdulkader Keita 45, Abdulkader Keita 79, Ahmed Khalifa 56;
 
-;; Al-Ahli;     1-0 Khor
+; Al-Ahli;     1-0; Khor
   Abdulla Jasem 33;
 
 Round: 3 
@@ -60,13 +60,13 @@ Date: 11/14/2002
 
 Date: 11/15/2002
 
-;; Al-Arabi;    1-0 Al-Ittifaq
+; Al-Arabi;    1-0; Al-Ittifaq
   Mostafa Mubarak 39;
 
 ; Khor       ; 2-0; Shamal   
   Ismail Ali 15, Hassan Abdulrazzaq 92;
 
-;; Al-Ittihad;  1-1 Rayyan
+; Al-Ittihad;  1-1; Rayyan
   Algato 65; Ali Al-Merri (pk) 52
  
 Date: 11/24/2002
@@ -80,7 +80,7 @@ Date: 11/28/2002
 ; Khor       ; 1-0; Al-Arabi
   Rachid Roki 65;
 
-;; Al-Ittihad;  1-1 Al-Ittifaq
+; Al-Ittihad;  1-1; Al-Ittifaq
   Mostafa Adem 73; Johnson 52
  
 Date: 11/29/2002
@@ -88,7 +88,7 @@ Date: 11/29/2002
 ; Rayyan     ; 0-1; Qatar
 ;  Abdulaziz Hassan 84
 
-;; Al-Ahli;     0-1 Wakra
+; Al-Ahli;     0-1; Wakra
 ; Ali Qassem 79
 
 Date: 12/16/2002
@@ -102,7 +102,7 @@ Date: 12/7/2002
 ; Khor       ; 3-2; Qatar
   El-Mahdi Azzami 34, El-Mahdi Azzami 78, Rachid Roki 45; Wisam Rizq 32, Fabrice Akwa 50
 
-;; Al-Arabi;    1-0 Wakra
+; Al-Arabi;    1-0; Wakra
   Ronaldo Rosa 40;
 
 ; Shamal     ; 3-2; Al-Ittifaq
@@ -110,7 +110,7 @@ Date: 12/7/2002
 
 Date: 12/8/2002
 
-;; Al-Ahli;     2-1 Rayyan
+; Al-Ahli;     2-1; Rayyan
   Waheed Mohammed 5, Kalou 54; Alouma Bika 62
 
 ; Sadd       ; 3-1; Al-Ittihad
@@ -121,24 +121,24 @@ Date: 12/19/2002
 
 ; Shamal     ; 0-0; Wakra    
 
-;; Al-Ittihad;  2-0 Khor
+; Al-Ittihad;  2-0; Khor
   Elato 77, Makai Kouni 91;
 
 Date: 12/20/2002
 
-;; Al-Arabi;    1-1 Qatar
+; Al-Arabi;    1-1; Qatar
   Walid Hamza 70; Fabrice Akwa 55
 
 ; Sadd       ; 1-2; Rayyan
   Ahmed Khalifa (pk) 28; Anderson (pk) 8, Abdelhafiz Tisfaout 54
 
-;; Al-Ahli;     1-0 Al-Ittifaq
+; Al-Ahli;     1-0; Al-Ittifaq
   Carlos Pedro 77;
 
 Round: 7
 Date: 12/26/2002
 
-;; Al-Ittihad;  0-1 Al-Ahli      
+; Al-Ittihad;  0-1; Al-Ahli      
 ;  Carlos Pedro 45
 
 ; Shamal     ; 1-2; Al-Arabi
@@ -158,7 +158,7 @@ Date: 12/27/2002
 Round: 8 
 Date: 1/2/2003
 
-;; Al-Ahli;     2-0 Shamal
+; Al-Ahli;     2-0; Shamal
   Abdullah Jasem 6, Carlos Pedro 30;
 
 ; Rayyan     ; 4-2; Wakra
@@ -178,15 +178,15 @@ Date: 1/3/2003
 Round: 9 
 Date: 1/9/2003
 
-;; Al-Ahli;     0-0 Sadd       
+; Al-Ahli;     0-0; Sadd       
 
-;; Al-Ittifaq;  0-4 Wakra       
+; Al-Ittifaq;  0-4; Wakra       
 ; Ali Qassem 31, Soumah Osman 40, Romeo Kambou 45, Hussain Fardhullah 65
 
 ; Rayyan     ; 0-3; Khor       
 ; Arrafi 69, Rachid Rouki 88, Rachid Rouki 92
 
-;; Al-Arabi;    2-2 Al-Ittihad
+; Al-Arabi;    2-2; Al-Ittihad
   Adel Al-Mulla 58, Sayed Al-Basheer 68; Mujeeb Hamed 39, Naser Kameel 80
 
 ; Shamal     ; 0-2; Qatar
@@ -195,7 +195,7 @@ Date: 1/9/2003
 Round: 10
 Date: 1/30/2003
 
-;; Al-Ahli;     2-2 Al-Arabi
+; Al-Ahli;     2-2; Al-Arabi
   Kalou 5, Youses Ali 32; Mohammed Armoumin 9, Mohammed Armoumin 40
 
 ; Shamal     ; 1-1; Rayyan
@@ -220,7 +220,7 @@ Date: 2/6/2003
 ; Khor       ; 2-1; Al-Ahli
   Rachid Rouky 24, El-Mahdy Arrafy 45; Meshal Abdullah (pk) 77
 
-;; Al-Arabi;    4-1 Rayyan
+; Al-Arabi;    4-1; Rayyan
   Salah Al-Mulla 3, Abdulaziz Karim 17, Armoumen 24, Armoumen 49; Anderson 59
 
 Date: 2/7/2003
@@ -228,7 +228,7 @@ Date: 2/7/2003
 ; Sadd       ; 1-0; Al-Ittifaq
   Zamel Al-Kawari 77;
 
-;; Al-Ittihad;  1-1 Shamal
+; Al-Ittihad;  1-1; Shamal
   Saad Al-Shammari 72; Haroon Jamea 91
 
 Date: 3/10/2003
@@ -245,13 +245,13 @@ Date: 2/13/2003
 ; Khor       ; 2-2; Shamal
   Hadi Al-Merri 3, Rachid Rouki 70; Qadr Moosa (pk) 51, Hashem Redha (pk) 80
 
-;; Al-Ittifaq;  0-2 Al-Arabi
+; Al-Ittifaq;  0-2; Al-Arabi
 ;  Salah Ismail 7, Armoumen 72
 
 ; Rayyan     ; 0-1; Al-Ittihad  
 ;  Baki 13
 
-;; Al-Ahli;     1-1 Qatar
+; Al-Ahli;     1-1; Qatar
   Carlos Pedro 38; Fabrice Akwa 24
 
 Round: 13
@@ -265,10 +265,10 @@ Date: 2/27/2003
 
 Date: 2/28/2003
 
-;; Al-Arabi;    0-2 Khor        
+; Al-Arabi;    0-2; Khor        
 ;  Rachid Roki 12, Abdulla Hassan 63
 
-;; Al-Ittifaq;  1-2 Al-Ittihad
+; Al-Ittifaq;  1-2; Al-Ittihad
   Walid Mohammed 45; Naser Kameel 49, Osvaldo Fernández (pk) 82
 
 ; Wakra      ; 1-0; Al-Ahli
@@ -294,7 +294,7 @@ Date: 3/7/2003
 
 Date: 3/23/2003
 
-;; Al-Ittifaq;  1-1 Shamal    
+; Al-Ittifaq;  1-1; Shamal    
   Johnson 39; Heidar Mahmood 90
 
 Round: 15 
@@ -305,7 +305,7 @@ Date: 3/4/2003
 
 Date: 3/13/2003
 
-;; Al-Ittifaq;  1-2 Al-Ahli
+; Al-Ittifaq;  1-2; Al-Ahli
   Louis Zika 67; Carlos Pedro (pk) 57, Ali Al-Malki (og) 74
 
 Date: 3/14/2003
@@ -330,28 +330,28 @@ Date: 3/27/2003
 ; Wakra      ; 2-1; Khor
   Romeo Kambou 85, Ali Mejbel 93; Rachid Rouki 91
 
-;; Al-Ahli;     1-3 Al-Ittihad
+; Al-Ahli;     1-3; Al-Ittihad
   Johnson Kabore 89; Cristián Montecinos 7, Cristián Montecinos 63, Cristián Montecinos 70
   
-;; Al-Ittifaq;  1-1 Rayyan      
+; Al-Ittifaq;  1-1; Rayyan      
   Walid Mohyeddin 73; Abdelhafiz Tisfaout 62
 
-;; Al-Arabi;    1-2 Shamal
+; Al-Arabi;    1-2; Shamal
   Mohammed Armoumen 55; Hashem Redha 2, Qadr Moosa 75
 
 Round: 17 
 Date: 3/31/2003
 
-;; Al-Ittihad;  1-0 Qatar
+; Al-Ittihad;  1-0; Qatar
   Cristián Montecinos (pk) 81;
 
 ; Khor       ; 2-1; Al-Ittifaq
   Rachid Rouki 43, Rachid Rouki 68; Saleh Awadh 80
 
-;; Al-Arabi;    2-1 Sadd
+; Al-Arabi;    2-1; Sadd
   Abdulaziz Karim 5, Mohammed S. Al-Mal 60; Mohammed Ghulam 75
 
-;; Al-Ahli;     3-1 Shamal
+; Al-Ahli;     3-1; Shamal
   Abdullah Jasem 39, Johnson Kabore 69, Walid Jasem 90; Hashem Redha 6
 
 ; Rayyan     ; 2-2; Wakra
@@ -363,7 +363,7 @@ Date: 4/4/2003
 ; Qatar      ; 2-0; Shamal
   Abdulaziz Hassan 50, Abdulaziz Hassan 72;
 
-;; Al-Arabi;    3-4 Al-Ittihad
+; Al-Arabi;    3-4; Al-Ittihad
   Sayed Al-Baseeir 11, Sayed Al-Baseeir 19, Sayed Al-Baseeir 63; Naser Kameel 29, Cristián Montecinos 64, Osvaldo Fernández (pk) 75, Osvaldo Fernández (pk) 84
 
 ; Khor       ; 2-3; Rayyan 

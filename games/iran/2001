@@ -42,7 +42,7 @@ Date: 11/2/2001
 Date: 11/4/2001
 
 ; Pirouzi     ; 1-1; Foolad 
-  Reza Jabbari 21  Behnam Seraj 80
+  Reza Jabbari 21;  Behnam Seraj 80
 
 ; Bargh       ; 1-1; Esteghlal T
   Mohmmad Mansoori (pk) 62; Ali Mousavi 78
@@ -50,7 +50,7 @@ Date: 11/4/2001
 Round: 2 
 Date: 11/16/2001
 
-;; Fajr-Sepasi;  2-0 AbooMoslem 
+; Fajr-Sepasi;  2-0; AbooMoslem 
   Amir Khalifeh-Asl 47, Bahman Tahmasebi 90;
  
 ; Peykan      ; 1-0; Saipa  
@@ -59,7 +59,7 @@ Date: 11/16/2001
 ; Esteghlal R ; 1-2; Malavan 
   Atila Hejazi (pk) 45; Bijan Hosseyni (pk) 35, Seyyed-Mehdi Hosseyni 72
  
-;; Zob-Ahan;     0-0 Bargh 
+; Zob-Ahan;     0-0; Bargh 
 
 Date: 11/18/2001
 
@@ -110,7 +110,7 @@ Date: 11/27/2001
 ; Saipa       ; 2-3; Bargh 
   Mehdi Amirabadi 48, Hosseyn Kazemi 86; Mohammad Mansouri 8, Alireza Abbasfard 20, Alireza Abbasfard 55
  
-;; Fajr-Sepasi;  0-1 Malavan 
+; Fajr-Sepasi;  0-1; Malavan 
 ; Pejman Nouri 20
  
 ; Esteghlal R ; 1-1; Paas 
@@ -119,7 +119,7 @@ Date: 11/27/2001
 ; Pirouzi     ; 3-2; AbooMoslem  
   Sohrab Entezari 35, Sohrab Entezari 65, Leys Nobari-Naseri 79; Davud Rostami 54, Hosseyn Razaghirad 90+3
  
-;; Zob-Ahan;     2-1 Esteghlal T 
+; Zob-Ahan;     2-1; Esteghlal T 
    Aref Mohammadvand 10, Mahmood Fekri (og) 68; Sirous Dinmohammadi 63
  
 Round: 5 
@@ -162,7 +162,7 @@ Date: 12/17/2001
 ; Foolad      ; 3-2; Bargh
   Omid Sharifi-Nasab 10, Behnam Seraj 39, Yahya Golmohammadi 44; Mohammad Mansoori 54, Mohammad Mansoori 79
 
-;; Fajr-Sepasi;  1-0 Paas
+; Fajr-Sepasi;  1-0; Paas
   Mehdi Rajabzadeh 60;
 
 ; Pirouzi     ; 2-1; Malavan
@@ -185,7 +185,7 @@ Date: 12/27/2001
 ; TeraktorSazi; 0-0; Esteghlal R
 ; Bargh       ; 0-0; Pirouzi  
 ; Malavan     ; 0-0; Sepahan 
-;; Zob-Ahan;     0-0 Saipa 
+; Zob-Ahan;     0-0; Saipa 
 
 Date: 12/28/2001
 
@@ -206,7 +206,7 @@ Date: 1/3/2002
 ; Sepahan     ; 3-0; Bargh
   Leon Stepanian 49, Edmond Bezik 51, Ardalan Sartipi 85;
 
-;; Fajr-Sepasi;  0-2 Zob-Ahan
+; Fajr-Sepasi;  0-2; Zob-Ahan
 ;  Amir Vaziri 54, Reza Sahebi (pk) 90
 
 ; AbooMoslem  ; 1-0; Malavan
@@ -222,7 +222,7 @@ Date: 1/17/2002
 
 ; Paas        ; 0-0; Sepahan 
 
-;; Zob-Ahan;     1-1 Foolad
+; Zob-Ahan;     1-1; Foolad
   Samson Petrossian (pk) 6; Aliakbar Mehdipour 77
  
 ; Bargh       ; 2-2; AbooMoslem    
@@ -253,7 +253,7 @@ Date: 1/25/2002
 ; Malavan     ; 3-0; TeraktorSazi
   Bijan Hosseyni 1, Reza Safarkhah 73, Mohammad Gholami 86;
 
-;; Fajr-Sepasi;  1-1 Saipa
+; Fajr-Sepasi;  1-1; Saipa
   Reza Rezaei-Kamal (pk) 25; Hosseyn Kazemi 67
 
 Date: 1/27/2002
@@ -280,7 +280,7 @@ Date: 2/1/2002
 
 ; TeraktorSazi; 0-0; Fajr-Sepasi
 
-;; Zob-Ahan;     0-2 Sepahan
+; Zob-Ahan;     0-2; Sepahan
 ;  Edmond Bezik 38, Leon Stepanian 45
   
 ; Bargh       ; 2-0; Malavan
@@ -319,7 +319,7 @@ Date: 2/18/2002
 Round: 13
 Date: 2/21/2002
 
-;; Fajr-Sepasi;  1-0 Pirouzi
+; Fajr-Sepasi;  1-0; Pirouzi
   Bahman Tahmasebi 2;
     
 Date: 2/22/2002
@@ -336,14 +336,14 @@ Date: 2/23/2002
 ; Esteghlal R ; 2-0; AbooMoslem
   Seyeyd-Reza Chavoshi 25, Shahin Bani-Ahmad 65;
     
-;; Zob-Ahan;     0-1 Peykan
+; Zob-Ahan;     0-1; Peykan
 ;  Aliasghar Modirroosta 50
   
 ; Esteghlal T ; 4-0; Malavan
   Alireza Nikbakht-Vahedi 40, Ahmad Momenzadeh 72, Ahmad Momenzadeh 80, Faraz Fatemi 88;
    
 ; TeraktorSazi; 0-3; Foolad
-  Davud Dehghani 28, Omid Sharifi-Nasab 52, Yahya Golmohammadi (pk) 82
+;  Davud Dehghani 28, Omid Sharifi-Nasab 52, Yahya Golmohammadi (pk) 82
    
 Round: 14
 Date: 3/7/2002
@@ -365,10 +365,10 @@ Date: 3/8/2002
 ; Foolad      ; 1-2; Pirouzi
   Ehsan Shirmardi 75; Sohrab Entezari 47, Sohrab Entezari 90
   
-;; Zob-Ahan;     4-1 Malavan
+; Zob-Ahan;     4-1; Malavan
   Mojtaba Nazeri 2, Hamid Azizzadeh 54, Amir Vaziri 70, Ebrahim Taghipour 82; Bijan Hosseyni 8
  
-;; Fajr-Sepasi;  0-1 Sepahan
+; Fajr-Sepasi;  0-1; Sepahan
 ;  Afshin Hajipour 25
   
 Round: 15
@@ -400,9 +400,9 @@ Date: 3/12/2002
 Round: 16 
 Date: 3/17/2002
 
-;; Zob-Ahan;     0-0 Paas
+; Zob-Ahan;     0-0; Paas
 
-;; Fajr-Sepasi;  0-2 Peykan
+; Fajr-Sepasi;  0-2; Peykan
 ;  Aliasghar Modirroosta 1, Mohammad-Hassan Ostovari 81
  
 ; Esteghlal R ; 1-2; Bargh
@@ -450,14 +450,14 @@ Round: 18
 Date: 4/21/2002
 
 ; AbooMoslem  ; 4-3; Sepahan
-  Mahmood Mosallaa (pk) 36, Hamidreza Enayati 55, Davud Rostami (pk) 58, Hamid Rajabi 30; Majid Basirat 16, Edmond Bezik 49, 90+2
+  Mahmood Mosallaa (pk) 36, Hamidreza Enayati 55, Davud Rostami (pk) 58, Hamid Rajabi 30; Majid Basirat 16, Edmond Bezik 49, Edmond Bezik 90+2
  
-;; Fajr-Sepasi;  0-0 Bargh    
+; Fajr-Sepasi;  0-0; Bargh    
 
 ; Foolad      ; 1-0; Malavan
   Yahya Golmohammadi (pk) 20;
 
-;; Zob-Ahan;     1-0 TeraktorSazi
+; Zob-Ahan;     1-0; TeraktorSazi
   Reza Sahebi 45;
   
 ; Esteghlal R ; 0-1; Esteghlal T
@@ -483,7 +483,7 @@ Date: 4/26/2002
 ; TeraktorSazi; 4-1; AbooMoslem
   Ali Azari 30, Reza Haddadi 66, Abolfazl Hajizadeh 84, Fereydoon Fazli 90+3; Hamid Rajabi 5
     
-;; Zob-Ahan;     1-0 Esteghlal R
+; Zob-Ahan;     1-0; Esteghlal R
   Saeed Ramezani 32;
  
 ; Malavan     ; 1-1; Pirouzi    
@@ -509,7 +509,7 @@ Date: 4/30/2002
 ; Esteghlal R ; 2-0; TeraktorSazi
   Reza Hassanzadeh 28, Rahmat Feyzimoghaddam 90+2;
   
-;; Fajr-Sepasi;  0-0 Esteghlal T
+; Fajr-Sepasi;  0-0; Esteghlal T
 
 ; Pirouzi     ; 0-1; Bargh
 ;  Ehtesham Sasani 46
@@ -529,7 +529,7 @@ Date: 5/5/2002
 ; Malavan     ; 1-1; AbooMoslem
   Seyyed-Mehdi Hosseyni 84; Reza Hassanzadeh 80
   
-;; Zob-Ahan;     2-0 Fajr-Sepasi
+; Zob-Ahan;     2-0; Fajr-Sepasi
   Mostafa Salehinejad 12, Reza Sahebi 57;
 
 ; Bargh       ; 0-0; Sepahan
@@ -553,7 +553,7 @@ Date: 5/10/2002
 ; Sepahan     ; 1-3; Paas
   Mahmood Karimi 8; Rasul Khatibi 15, Khodadad Azizi 20, Abbas Aghaei 73
 
-;; Fajr-Sepasi;  3-0 Esteghlal R
+; Fajr-Sepasi;  3-0; Esteghlal R
   Babak Zolrahmi 68, Vahid Rezaei 71, Mahmood Khorramzi 76;
 
 ; Pirouzi     ; 0-0; Esteghlal T
@@ -575,7 +575,7 @@ Date: 5/14/2002
 ; Saipa       ; 1-0; Fajr-Sepasi
   Hadi Aghili 88;
 
-;; Zob-Ahan;     1-1 Pirouzi
+; Zob-Ahan;     1-1; Pirouzi
   Hamid Azizzadeh 30; Sohrab Entezari 12
     
 ; TeraktorSazi; 2-2; Malavan
@@ -598,7 +598,7 @@ Date: 5/19/2002
 ; Malavan     ; 1-1; Bargh
   Bijan Hosseyni 12; Mohammad Motavvari 6
    
-;; Fajr-Sepasi;  1-1 TeraktorSazi
+; Fajr-Sepasi;  1-1; TeraktorSazi
   Reza Rezaei-Kamal (pk) 40; Fereydoon Fazli 74
    
 ; AbooMoslem  ; 1-1; Esteghlal T
@@ -617,13 +617,13 @@ Date: 5/23/2002
  
 Date: 5/24/2002
 
-;; Zob-Ahan;     1-2 AbooMoslem
+; Zob-Ahan;     1-2; AbooMoslem
   Reza Sahebi 4; Ali Nouri 9, Hamidreza Enayati 55
     
 ; Esteghlal R ; 1-1; Sepahan
   Ali Aghabozorgnejad 29; Masood Khademi 78
   
-;; Fajr-Sepasi;  1-1 Foolad
+; Fajr-Sepasi;  1-1; Foolad
   Siavash Akbarpour 46; Ali Badavi 67
    
 ; TeraktorSazi; 0-3; Bargh
@@ -633,7 +633,7 @@ Date: 5/24/2002
   Faraz Fatemi 17;
 
 ; Paas        ; 5-0; Malavan
-  Hamid Hedayati 5, Khodadad Azizi (pk) 28, Khodadad Azizi 67, Javad Nekoonam 63, Ali Janmaleki 78
+  Hamid Hedayati 5, Khodadad Azizi (pk) 28, Khodadad Azizi 67, Javad Nekoonam 63, Ali Janmaleki 78;
     
 Round: 26 
 Date: 5/28/2002

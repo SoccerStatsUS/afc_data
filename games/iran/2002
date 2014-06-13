@@ -58,18 +58,18 @@ Date: 10/25/2002
 ; Esteghlal A ; 1-2; Bargh
   Amir Khalifeh-Asl 37; Mohammad Mansouri 35, Mohammad Mansouri 55
 
-;; Fajr-Sepasi;  1-0 Foolad
+; Fajr-Sepasi;  1-0; Foolad
   Mahmood Khorramzi 20;
 
 ; AbooMoslem  ; 1-1; Sepahan
   Hamidreza Enayati 42; Saeed Bayat 75
 
-;; Zob-Ahan;     0-1 Saipa
+; Zob-Ahan;     0-1; Saipa
 ;  Farhad Khangoli 80
 
 Date: 10/30/2002
 
-;; Sanat-Naft;   1-0 Esteghlal T
+; Sanat-Naft;   1-0; Esteghlal T
   Hamidreza Khedmatkari 44;
 
 Round: 3
@@ -80,7 +80,7 @@ Date: 10/31/2002
 
 Date: 11/1/2002
 
-;; Zob-Ahan;     1-1 AbooMoslem
+; Zob-Ahan;     1-1; AbooMoslem
   Jalal Omidian 38; Hamidreza Enayati (pk) 90+3
 
 ; Foolad      ; 1-0; Paas
@@ -103,7 +103,7 @@ Date: 11/3/2002
 Round: 4 
 Date: 11/5/2002
 
-;; Fajr-Sepasi;  0-0 Peykan 
+; Fajr-Sepasi;  0-0; Peykan 
 ; Pirouzi     ; 0-1; Zob-Ahan 
 ; Paas        ; 1-1; Bargh 
 ; Esteghlal A ; 2-5; Saipa 
@@ -111,7 +111,7 @@ Date: 11/5/2002
 Date: 11/8/2002
 
 ; Sepahan     ; 2-0; Malavan 
-;; Sanat-Naft;   2-2 Foolad 
+; Sanat-Naft;   2-2; Foolad 
 ; AbooMoslem  ; 2-2; Esteghlal T  
    
 Round: 5 
@@ -123,7 +123,7 @@ Date: 11/21/2002
 Date: 11/22/2002
 
 ; Bargh       ; 2-1; Sanat-Naft 
-;; Zob-Ahan;     0-1 Esteghlal A 
+; Zob-Ahan;     0-1; Esteghlal A 
 ; Foolad      ; 1-3; Sepahan 
 ; Peykan      ; 0-0; Paas 
 
@@ -134,9 +134,9 @@ Date: 12/3/2002
 Round: 6
 Date: 12/6/2002
 
-;; Sanat-Naft;   0-0 Peykan 
+; Sanat-Naft;   0-0; Peykan 
 ; Sepahan     ; 1-0; Bargh
-;; Fajr-Sepasi;  1-2 Zob-Ahan
+; Fajr-Sepasi;  1-2; Zob-Ahan
 ; Esteghlal A ; 0-0; Pirouzi
 ; Paas        ; 2-0; Saipa 
 
@@ -154,7 +154,7 @@ Date: 12/12/2002
 Date: 12/13/2002
 
 ; AbooMoslem  ; 1-0; Esteghlal A
-;; Zob-Ahan;     0-1 Paas
+; Zob-Ahan;     0-1; Paas
 ; Pirouzi     ; 2-0; Fajr-Sepasi
 ; Foolad      ; 2-0; Malavan
 
@@ -170,8 +170,8 @@ Date: 12/19/2002
 Date: 12/20/2002
 
 ; Foolad      ; 2-1; AbooMoslem
-;; Sanat-Naft;   1-0 Zob-Ahan
-;; Fajr-Sepasi;  2-1 Esteghlal A
+; Sanat-Naft;   1-0; Zob-Ahan
+; Fajr-Sepasi;  2-1; Esteghlal A
 ; Esteghlal T ; 2-1; Peykan
 ; Malavan     ; 2-1; Bargh
 ; Sepahan     ; 3-0; Saipa
@@ -184,7 +184,7 @@ Date: 12/26/2002
 Date: 12/27/2002
 
 ; Peykan      ; 4-0; Malavan
-;; Zob-Ahan;     0-1 Sepahan
+; Zob-Ahan;     0-1; Sepahan
 ; Esteghlal A ; 0-2; Paas
 ; AbooMoslem  ; 0-1; Fajr-Sepasi
 ; Pirouzi     ; 1-0; Sanat-Naft
@@ -199,7 +199,7 @@ Date: 1/2/2003
 Date: 1/3/2003
 
 ; Bargh       ; 2-1; AbooMoslem 
-;; Sanat-Naft;   1-1 Esteghlal A
+; Sanat-Naft;   1-1; Esteghlal A
 ; Foolad      ; 0-0; Peykan 
 ; Esteghlal T ; 0-0; Zob-Ahan
 ; Malavan     ; 0-1; Saipa 
@@ -208,10 +208,10 @@ Round: 11
 Date: 1/9/2003
 
 ; AbooMoslem  ; 1-2; Paas
-;; Fajr-Sepasi;  0-0 Sanat-Naft
+; Fajr-Sepasi;  0-0; Sanat-Naft
 ; Peykan      ; 1-0; Bargh
 ; Saipa       ; 1-1; Foolad
-;; Zob-Ahan;     1-0 Malavan
+; Zob-Ahan;     1-0; Malavan
 ; Esteghlal A ; 1-0; Sepahan
 
 Date: 1/10/2003
@@ -226,7 +226,7 @@ Date: 1/16/2003
 Date: 1/17/2003
 
 ; Peykan      ; 4-1; AbooMoslem
-;; Sanat-Naft;   1-1 Paas
+; Sanat-Naft;   1-1; Paas
 ; Bargh       ; 2-2; Saipa
 ; Sepahan     ; 1-2; Fahr-Sepasi
 ; Foolad      ; 0-1; Zob-Ahan
@@ -245,19 +245,19 @@ Date: 1/23/2003
 Date: 1/24/2003
 
 ; AbooMoslem  ; 0-0; Sanat-Naft
-;; Zob-Ahan;     4-0 Bargh
-;; Fajr-Sepasi;  2-3 Esteghlal T
+; Zob-Ahan;     4-0; Bargh
+; Fajr-Sepasi;  2-3; Esteghlal T
 ; Esteghlal A ; 0-0; Malavan
 
 Round: 14
 Date: 2/12/2003
 
 ; Paas        ; 1-1; Esteghlal T
-;; Zob-Ahan;     0-1 Peykan
+; Zob-Ahan;     0-1; Peykan
 ; AbooMoslem  ; 0-0; Saipa
-;; Sanat-Naft;   0-1 Sepahan
+; Sanat-Naft;   0-1; Sepahan
 ; Esteghlal A ; 0-2; Foolad
-;; Fajr-Sepasi;  3-2 Malavan
+; Fajr-Sepasi;  3-2; Malavan
 
 Date: 2/14/2003
 
@@ -284,9 +284,9 @@ Round: 16
 Date: 3/7/2003
 
 ; AbooMoslem  ; 0-0; Zob-Ahan
-;; Sanat-Naft;   1-0 Malavan
+; Sanat-Naft;   1-0; Malavan
 ; Esteghlal A ; 0-1; Peykan
-;; Fajr-Sepasi;  0-0 Bargh
+; Fajr-Sepasi;  0-0; Bargh
 
 Date: 3/9/2003
 
@@ -315,17 +315,17 @@ Date: 4/29/2003
 
 Date: 5/16/2003
 
-;; Zob-Ahan;     3-2 Pirouzi
+; Zob-Ahan;     3-2; Pirouzi
 
 Round: 18
 Date: 4/6/2003
 
 ; Pirouzi     ; 1-0; AbooMoslem
 ; Paas        ; 2-0; Peykan
-;; Sanat-Naft;   1-2 Bargh
+; Sanat-Naft;   1-2; Bargh
 ; Esteghlal A ; 2-1; Zob-Ahan
 ; Sepahan     ; 2-3; Foolad
-;; Fajr-Sepasi;  1-1 Saipa
+; Fajr-Sepasi;  1-1; Saipa
 
 Date: 4/7/2003
 
@@ -337,7 +337,7 @@ Date: 4/14/2003
 ; AbooMoslem  ; 0-0; Malavan
 ; Peykan      ; 1-2; Sanat-Naft
 ; Bargh       ; 1-2; Sepahan
-;; Zob-Ahan;     0-1 Fajr-Sepasi
+; Zob-Ahan;     0-1; Fajr-Sepasi
 ; Foolad      ; 1-2; Esteghlal T
 
 Date: 4/15/2003
@@ -353,12 +353,12 @@ Date: 4/20/2003
 Date: 4/24/2003
 
 ; Esteghlal A ; 1-1; AbooMoslem
-;; Fajr-Sepasi;  0-0 Pirouzi
+; Fajr-Sepasi;  0-0; Pirouzi
 ; Malavan     ; 1-1; Foolad
 
 Date: 4/25/2003
 
-;; Sanat-Naft;   1-2 Saipa
+; Sanat-Naft;   1-2; Saipa
 
 Date: 4/28/2003
 
@@ -375,7 +375,7 @@ Date: 5/6/2003
 
 Date: 5/7/2003
 
-;; Zob-Ahan;     2-3 Sanat-Naft
+; Zob-Ahan;     2-3; Sanat-Naft
 ; Pirouzi     ; 0-0; Paas
 ; Bargh       ; 0-0; Malavan
 ; Esteghlal A ; 1-1; Fajr-Sepasi
@@ -387,14 +387,14 @@ Date: 5/11/2003
 
 ; Malavan     ; 1-0; Peykan
 ; Foolad      ; 2-5; Bargh
-;; Fajr-Sepasi;  1-0 AbooMoslem
+; Fajr-Sepasi;  1-0; AbooMoslem
 ; Esteghlal T ; 1-3; Saipa
 ; Paas        ; 2-2; Esteghlal A
 ; Sepahan     ; 4-0; Zob-Ahan
 
 Date: 5/12/2003
 
-;; Sanat-Naft;   0-0 Piroozi
+; Sanat-Naft;   0-0; Piroozi
 
 Round: 23
 Date: 5/19/2003
@@ -405,11 +405,11 @@ Date: 5/19/2003
 
 Date: 5/20/2003
 
-;; Zob-Ahan;     0-3 Esteghlal T
+; Zob-Ahan;     0-3; Esteghlal T
 
 Date: 5/21/2003
 
-;; Fajr-Sepasi;  0-2 Paas
+; Fajr-Sepasi;  0-2; Paas
 ; Saipa       ; 3-2; Malavan
 ; Pirouzi     ; 1-1; Sepahan
 
@@ -417,7 +417,7 @@ Round: 24
 Date: 5/25/2003
 
 ; Paas        ; 1-0; AbooMoslem
-;; Sanat-Naft;   1-1 Fajr-Sepasi
+; Sanat-Naft;   1-1; Fajr-Sepasi
 ; Bargh       ; 1-0; Peykan
 ; Foolad      ; 2-0; Saipa
 ; Malavan     ; 0-1; Zob-Ahan
@@ -430,8 +430,8 @@ Date: 6/13/2003
 Round: 25
 Date: 6/16/2003
 
-;; Zob-Ahan;     2-1 Foolad
-;; Fajr-Sepasi;  2-0 Sepahan
+; Zob-Ahan;     2-1; Foolad
+; Fajr-Sepasi;  2-0; Sepahan
 
 Date: 6/17/2003
 
@@ -444,7 +444,7 @@ Date: 6/17/2003
 Round: 26 
 Date: 6/22/2003
 
-;; Sanat-Naft;   3-1 AbooMoslem
+; Sanat-Naft;   3-1; AbooMoslem
 ; Peykan      ; 3-1; Saipa
 ; Sepahan     ; 2-3; Paas
 ; Bargh       ; 4-0; Zob-Ahan
@@ -469,8 +469,8 @@ Date: 6/22/2003
 *14.Malavan Anzali           26  6  8 12  17-34  26  Relegated
 
 
-Cup Final
-Zob-Ahan  2-2 2-2 Fajr-Sepasi   [6-5 pen]
+*Cup Final
+*Zob-Ahan  2-2 2-2 Fajr-Sepasi   [6-5 pen]
 
 
 

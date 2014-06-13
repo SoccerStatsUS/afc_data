@@ -25,7 +25,7 @@ Date: 10/9/2003
 Date: 10/10/2003
 
 ; Siliya     ; 0-2; Arabi            ; Ittihad
-;  Walid Hamza 76; Stefan Effenberg 85
+;  Walid Hamza 76, Stefan Effenberg 85
  
 ; Sadd       ; 3-2; Ahli             ; Ittihad
   Carlos Tenorio 16, Carlos Tenorio 53, Carlos Tenorio 60; Meshal Abdullah 46, Meshal Abdullah 63
@@ -90,10 +90,10 @@ Date: 10/30/2003
 
 Date: 10/31/2003
 
-;; Al-Ittihad;  2-1 Qatar
+; Al-Ittihad;  2-1; Qatar
   Abdullah Al-Mazroo'ee 61, Pius N'Diefi 82; Yaser Nazmi 69
 
-;; Al-Ahli;     2-1 Rayyan
+; Al-Ahli;     2-1; Rayyan
   Thiago Oliveira Santos 10, Josep Guardiola 53; Abdulrahman Al-Kawari 28
 
 Date: 11/1/2003
@@ -107,7 +107,7 @@ Date: 11/1/2003
 Round: 5
 Date: 11/6/2003
 
-;; Al-Arabi;    1-2 Wakra
+; Al-Arabi;    1-2; Wakra
   Gabriel Batistuta 70; Rock Buskapa 21, Rock Buskapa 91
 
 Date: 11/7/2003
@@ -119,7 +119,7 @@ Date: 11/7/2003
 
 Date: 11/8/2003
 
-;; Al-Ahli;     0-0 Khor
+; Al-Ahli;     0-0; Khor
 
 ; Qatar      ; 5-2; Shamal
    Fabrice Akwa 16, Fabrice Akwa 86, Yaser Nazmi 79, Khaled Khamis 88,  Muammar Abdulrab 90; Hassan Abdulrazzaq 34, Razzaq Farhan 72
@@ -128,11 +128,11 @@ Round: 6
 Date: 11/13/2003
 
 ; Qatar      ; 3-0; Al-Ahli
-  Said Chiba 32, Fabrice Akwa 36, Fabrice Akwa 53
+  Said Chiba 32, Fabrice Akwa 36, Fabrice Akwa 53;
 
 Date: 11/14/2003
 
-;; Al-Ittihad;  5-1 Siliya   
+; Al-Ittihad;  5-1; Siliya   
   Kaba Diawara (pk) 6, Kaba Diawara 61, Fahad Al-Shummeri 28, Pius N'Diefi 30, Sghayer Al-Shummeri 87; Aboubacer 'Titi' Camara 66
 
 ; Sadd       ; 1-0; Shamal
@@ -152,7 +152,7 @@ Date: 11/22/2003
 ; Sadd       ; 4-0; Siliya
   Frank Leboeuf 16, Frank Leboeuf 43, Mohamed Gholam 63, Youssef Chippo 79;
 
-;; Al-Ahli;     2-1 Al-Ittihad  
+; Al-Ahli;     2-1; Al-Ittihad  
   Carlos Pedro 3, Meshal Abdullah 59; Kaba Diawara 58
 
 ; Shamal     ; 1-2; Al-Arabi
@@ -196,10 +196,10 @@ Date: 12/11/2003
 
 Date: 12/12/2003
 
-;; Al-Ittihad;  2-3 Al-Arabi
+; Al-Ittihad;  2-3; Al-Arabi
   Emad Mohamed 40, Djamel Belmadi 78; Musad Farhan 23, Gabriel Batistuta (pk) 27, Gabriel Batistuta 51
 
-;; Al-Ahli;     2-2 Siliya
+; Al-Ahli;     2-2; Siliya
   Meshal Abdullah 20, Abdullah Jasem 62; Khaled Norreddin 25, Khaled Norreddin 53
 
 ; Shamal     ; 0-3; Khor     
@@ -216,7 +216,7 @@ Date: 1/29/2004
 ; Siliya     ; 0-6; Al-Arabi
 ; Sayyed Al-Bashir 7, Gabriel Batistuta 27, Gabriel Batistuta 36, Gabriel Batistuta 64, Gabriel Batistuta 68, Stefan Effenberg 76
 
-;; Al-Ahli;     2-3 Sadd
+; Al-Ahli;     2-3; Sadd
   José George 7, Thiago Oliveira Santos (pk) 15; Abdelkader Keita 3, Frank Leboeuf (pk) 45, Carlos Tenorio 63
 
 Date: 1/30/2004
@@ -224,32 +224,32 @@ Date: 1/30/2004
 ; Shamal     ; 3-5; Rayyan
   Razzaq Farhan 24, Razzaq Farhan 80, Razzaq Farhan 89; Fernando Hierro 2, Fernando Hierro 34, Nasser Kamil 38, Nasser Kamil 79, Bouchaib El-Moubarki 71
 
-;; Al-Ittihad;  0-2 Wakra
+; Al-Ittihad;  0-2; Wakra
 ;  Omar Moussa 52, Soumah Osman 67
 
 Round: 11
 Date: 2/5/2004
 
-; Sadd        awd Khor             [awarded; 3-0;; abandoned at 2-2 in 93' when
-  Frank Leboeuf 10, (pk) 84;       Khor had 5 players sent off (Sadd also 3!)
-*   Eissa Al-Kowari 14og, Rachid Rouki (pk) 37]
+*; Sadd        awd Khor             [awarded; 3-0; abandoned at 2-2 in 93' when Khor had 5 players sent off (Sadd also 3!)
+*  Frank Leboeuf 10, Frank Leboeuf (pk) 84;       
+*   Eissa Al-K;owari 14og, Rachid Rouki (pk) 37]
 
 Date: 2/6/2004
 
-;; Al-Arabi;    2-2 Al-Ahli
+; Al-Arabi;    2-2; Al-Ahli
   Stefan Effenberg (pk) 13, Gabriel Batistuta (pk) 51; ‘Calo’ Carlos Pedro Silva Morais 38, ‘Calo’ Carlos Pedro Silva Morais 63
 
-Qatar      ; 2-0; Siliya
+; Qatar      ; 2-0; Siliya
  Saeed Al-Sheeba 38, Claudio Caniggia 44;
 * check.
 
 Date: 2/7/2004
 
-;; Al-Ittihad;  7-2 Shamal
+; Al-Ittihad;  7-2; Shamal
   Youssouf Adam (pk) 41, Imad Mohamed 44, Imad Mohamed 80, Imad Mohamed 90, Kaba Diawara 56, Kaba Diawara 63, Fahad Al-Shemmari 73; Hassan Abdulrazzaq 43, Razzaq Farhan (pk) 87
 
 ; Wakra      ; 0-1; Rayyan
-;   Sahan; Al-Shemmari 54
+;   Sahan Al-Shemmari 54
 
 Round: 12
 Date: 2/21/2004
@@ -265,7 +265,7 @@ Date: 2/22/2004
 ; Rayyan     ; 1-3; Al-Ittihad
   Boushaib Lembarki 7; Kaba Diawara 55, Imad Mohamed 72, Moujib Hamed 84
 
-;; Al-Arabi;    1-1 Khor
+; Al-Arabi;    1-1; Khor
   Gabriel Batistuta 2; Pascal Nouma 56
 
 Date: 3/16/2004
@@ -288,10 +288,10 @@ Date: 2/28/2004
 
 Date: 2/29/2004
 
-;; Al-Arabi;    2-1 Sadd
+; Al-Arabi;    2-1; Sadd
   Musad Farhan 68, Gabriel Batistuta 82; Bilal Abdulrahman 60
 
-;; Al-Ittihad;  1-2 Qatar
+; Al-Ittihad;  1-2; Qatar
   Djamal Belmadi (pk) 91; Fabrice Akwa 48, Said Chiba 87
 
 Round: 14
@@ -304,12 +304,12 @@ Date: 3/5/2004
 ; Rayyan     ; 5-1; Siliya
   Ali Benarbia 3, Ali Benarbia 83, Boushaib Lembarki 13, Walid Jassem 60, Nasser Kamil 62; Titi Camara 86
 
-;; Al-Ittihad;  1-2 Sadd
+; Al-Ittihad;  1-2; Sadd
   Djamel Belmadi (pk) 29; Carlos Tenorio 70, Abdullah Kouni 72
 
 Date: 3/6/2004
 
-;; Al-Arabi;    4-0 Wakra
+; Al-Arabi;    4-0; Wakra
   Gabriel Batistuta (pk) 2, Gabriel Batistuta 64, Gabriel Batistuta (pk) 80, Musad Farhan 6;
 
 ; Shamal     ; 1-1; Qatar
@@ -318,7 +318,7 @@ Date: 3/6/2004
 Round: 15
 Date: 3/11/2004
 
-;; Al-Ahli;     0-4 Qatar
+; Al-Ahli;     0-4; Qatar
 ;  Said Chiba 19, Medhat Mustapha 51, Yasser Nazmi 73, Claudio Caniggia 85
 
 Date: 3/12/2004
@@ -326,7 +326,7 @@ Date: 3/12/2004
 ; Shamal     ; 1-4; Sadd
   Razzaq Farhan 24; Carlos Tenorio 21, Carlos Tenorio 45, Carlos Tenorio 62, Abbdulqader Keita 45
 
-;; Al-Arabi;    3-5 Rayyan
+; Al-Arabi;    3-5; Rayyan
   Gabriel Batistuta 2, Gabriel Batistuta 48, Gabriel Batistuta 84; Mario Basler 12, Ali Benarbia 39, Boushaib Lembarki 51, Boushaib Lembarki 66, Boushaib Lembarki 73
 
 Date: 3/13/2004
@@ -345,10 +345,10 @@ Date: 3/18/2004
 
 Date: 3/19/2004
 
-;; Al-Ittihad;  2-2 Al-Ahli
+; Al-Ittihad;  2-2; Al-Ahli
   Bilal Mohamed 10, Djamel Belmadi (pk) 91; Meshal Abdullah 5, Josep Guardiola (pk) 35
 
-;; Al-Arabi;    4-2 Shamal
+; Al-Arabi;    4-2; Shamal
   Fabien Sipot 11, Sayyed Al-Bashir 14, Sayyed Al-Bashir 31, Gabriel Batistuta 76; Razzaq Farhan 53, Fabien Sipot (og) 58
  
 Date: 3/20/2004
@@ -367,15 +367,15 @@ Date: 4/8/2004
 
 Date: 4/9/2004
 
-;; Al-Ahli;     3-3 Wakra    
+; Al-Ahli;     3-3; Wakra    
   Meshal Abdullah 49, Meshal Abdullah 70, Meshal Abdullah 84; Ali Mejbel 32, Mirghani Al-Zein 56, Ahmed Moosa 59
 
-;; Al-Ittihad;  1-1 Khor
+; Al-Ittihad;  1-1; Khor
   Bilal Mohammed 30; Mostafa Jalal 91
 
 Date: 4/10/2004
 
-;; Al-Arabi;    0-0 Qatar
+; Al-Arabi;    0-0; Qatar
 
 Date: 4/11/2004
 
@@ -399,7 +399,7 @@ Date: 4/15/2004
 ; Rayyan     ; 0-2; Qatar
 ;  Fabrice Akwa 16, Fabrice Akwa 92
 
-;; Al-Arabi;    2-1 Al-Ittihad
+; Al-Arabi;    2-1; Al-Ittihad
   Gabriel Batistuta 26, Gabriel Batistuta 30; Djamal Belmadi 62
 
 

@@ -22,13 +22,13 @@ Round: 1
 Date: 10/8/2000
 
 ; Emirates ; 0-1; Sha'ab   
-  Samir Ibrahim 45
+;  Samir Ibrahim 45
 
 ; Ahly     ; 2-3; Nasr    
-  Youssouf Atiq 37, 60; Mohamed Ibrahim 25, Maman Sharif 39, Mosallam Ahmed 89
+  Youssouf Atiq 37, Youssouf Atiq 60; Mohamed Ibrahim 25, Maman Sharif 39, Mosallam Ahmed 89
 
 ; Ittihad  ; 0-4; Wahda 
-  Abdulsalam Juma'a 8, Haydar Alo-Ali 70, Ali Matar 76, Yasser Salem 87
+; Abdulsalam Juma'a 8, Haydar Alo-Ali 70, Ali Matar 76, Yasser Salem 87
 
 ; Ain      ; 0-0; Shabab    
 
@@ -38,63 +38,55 @@ Date: 10/19/2000
   Nasser Eissa 6, Ismail Rashed 78; Abdullah Soheil 26, Ahmed Ibrahim 88
 
 ; Ahly F   ; 4-8; Jazira  
-  Mohamed Hossani 2, 74, Saeed Mohamed 85, Hassan Abdullah 86; Emmanuel Abidi 5,
-   Joel Tiehi 12, 34, 51, 59, Mohamed Abdullah 71pen, 94, Tareq Iqab 82
+  Mohamed Hossani 2, Mohamed Hossani 74, Saeed Mohamed 85, Hassan Abdullah 86; Emmanuel Abidi 5, Joel Tiehi 12, Joel Tiehi 34, Joel Tiehi 51, Joel Tiehi 59, Mohamed Abdullah 71pen, 94, Tareq Iqab 82
 
 Round: 2
 Date: 10/25/2000
 
 ; Sharjah  ; 0-1; Emirates  
-  Mustapha Mustawda'a 51
+;  Mustapha Mustawda'a 51
 
 ; Nasr     ; 4-2; Ittihad 
-  Youssouf Moussa 59, Kazem Ali 62, Eissa Juma'a 81pen, 85; Hassan Saeed 31, 
-   Ibrahim Mohamed 66
+  Youssouf Moussa 59, Kazem Ali 62, Eissa Juma'a (pk) 81, Eissa Juma'a 85; Hassan Saeed 31, Ibrahim Mohamed 66
 
 ; Jazira   ; 1-2; Wasl    
   Joel Tiehi 40; Bakhit Obaid 7, Homaid Youssouf 81
 
-
 Date: 10/26/2000
 
 ; Shabab   ; 2-0; Ahly F
-  Roberto Nilson 14, 35
+  Roberto Nilson 14, Roberto Nilson 35;
 
 ; Sha'ab   ; 2-2; Ahly   
-  Saeed Youssouf 14, Jassem Al-Doukhi 88; Youssouf Atiq 68, 86
+  Saeed Youssouf 14, Jassem Al-Doukhi 88; Youssouf Atiq 68, Youssouf Atiq 86
 
 ; Wahda    ; 1-0; Ain     
-  Stephen Dairy 60
-
+  Stephen Dairy 60;
 
 Round: 3
-
 Date: 10/22/2000
 
 ; Ain      ; 3-1; Nasr    
   Salem Jawhar 10, Hilal Saeed 78, Gharib Hareb 86; Youssouf Moussa 2
 
-
 Date: 10/29/2000
 
 ; Emirates ; 3-3; Wasl
-  Mustapha Khalef 8pen, Mustapha Mustawda'a 25, Badr Alwan 44; 
-   Farhad Majidi 6, 21pen, Majed Saeed 53
+  Mustapha Khalef (pk) 8, Mustapha Mustawda'a 25, Badr Alwan 44; Farhad Majidi 6, Farhad Majidi (pk) 21, Majed Saeed 53
 
 ; Ittihad  ; 2-1; Sha'ab 
-  Hassan Saeed 56, 71pen; Jassem Al-Doukhi 54
+  Hassan Saeed 56, Hassan Saeed (pk) 71; Jassem Al-Doukhi 54
 
 ; Ahly     ; 3-0; Sharjah  
-  Youssouf Atiq 33, 73, Eissa Morad 43
-
+  Youssouf Atiq 33, Youssouf Atiq 73, Eissa Morad 43;
 
 Date: 10/30/2000
 
 ; Ahly F   ; 1-2; Wahda
-  Mouloud Mouzakkar 24pen; Fahad Massoud 70, Yasser Salem 81
+  Mouloud Mouzakkar (pk) 24; Fahad Massoud 70, Yasser Salem 81
 
 ; Shabab   ; 2-1; Jazira 
-  Baba Adamo 33, Roberto Nilson 79; Joel Tiehi 73pen
+  Baba Adamo 33, Roberto Nilson 79; Joel Tiehi (pk) 73
 
 Round: 4
 Date: 11/1/2000
@@ -103,23 +95,20 @@ Date: 11/1/2000
   Farhad Majidi 54; Eissa Morad 60
                                                               
 ; Sharjah  ; 0-2; Ittihad 
-  Mustapha Za'anani 32og, Abdulkarim Hassan 57
+;  Mustapha Za'anani (og) 32, Abdulkarim Hassan 57
 
 Date: 11/2/2000
 
 ; Nasr     ; 5-1; Ahly F
-  Kazem Ali 13, Maman Sharif 45, Sergio 69pen, 72, Ali Al-Saffar;  Hassan Abdullah 51
+  Kazem Ali 13, Maman Sharif 45, Sergio (pk) 69, Sergio 72, Ali Al-Saffar;  Hassan Abdullah 51
 
 ; Wahda    ; 2-0; Shabab  
-  Stephen Dairy 7, Adel Matar 52
+  Stephen Dairy 7, Adel Matar 52;
    
-
 Date: 11/3/2000
 
 ; Jazira   ; 4-2; Emirates 
-  Joel Tiehi 29pen, 39, Emmanuel Abedi 41, Hassan Soheil 52; Mustapha Mostawdeh 48,
-   Mustapha Khalef 61'
-
+  Joel Tiehi (pk) 29, Joel Tiehi 39, Emmanuel Abedi 41, Hassan Soheil 52; Mustapha Mostawdeh 48, Mustapha Khalef 61
 
 Date: 11/25/2000
 
@@ -130,11 +119,10 @@ Round: 5
 Date: 11/8/2000
 
 ; Wahda    ; 4-2; Jazira    
-  Lamine Conte 3, Mohamed Salem Al-Enazi 38, 49, 87; Joel Tiehi 27,
-   Saleh Abdullah 69
+  Lamine Conte 3, Mohamed Salem Al-Enazi 38, Mohamed Salem Al-Enazi 49, Mohamed Salem Al-Enazi 87; Joel Tiehi 27, Saleh Abdullah 69
 
 ; Ittihad  ; 0-1; Wasl      
-  Farhad Majidi 92
+;  Farhad Majidi 92
     
 ; Shabab   ; 1-2; Nasr      
   Walid Obaid 86; Mohamed Khamis 33, Kazem Ali 48
@@ -142,11 +130,10 @@ Date: 11/8/2000
 Date: 11/9/2000
 
 ; Ahly     ; 3-2; Emirates
-  Hassan Abbas 18, Rashid Bin-Mahmoud 55, Youssouf Atiq 61; Mustapha Mostawdeh 8,
-   Salem Muftah 53
+  Hassan Abbas 18, Rashid Bin-Mahmoud 55, Youssouf Atiq 61; Mustapha Mostawdeh 8, Salem Muftah 53
                                                    
 ; Ahly F   ; 1-0; Sha'ab
-  Hassan Abdullah 50
+  Hassan Abdullah 50;
 
 ; Ain      ; 1-2; Sharjah   
   Majed Al-Owayyes 79; Abdulaziz Al-Anbari 45, Mohamed Al-Fadhli 85
@@ -155,27 +142,26 @@ Round: 6
 Date: 11/16/2000
 
 ; Sharjah  ; 4-1; Ahly F
-  Mohamed Al-Fadhli 1, Khaled Al-Doukhi 69, Saeed Al-Kas 80, 86; Ahmed Ali 79
+  Mohamed Al-Fadhli 1, Khaled Al-Doukhi 69, Saeed Al-Kas 80, Saeed Al-Kas 86; Ahmed Ali 79
 
 ; Emirates ; 2-1; Ittihad
-  Mustapha Khalif 31pen, Salem Al-Khabouri 75; Abdulkarim Hassan 34
+  Mustapha Khalif (pk) 31, Salem Al-Khabouri 75; Abdulkarim Hassan 34
 
 Date: 11/17/2000
 
 ; Nasr     ; 3-4; Wahda     
-  Ricardo Sergio 9, 77pen, Ali Kazem 31; Lamine Conte 75pen,
-   Mohamed Salem Al-Enazi 86, Khamis Saeed 90, Adel Matar 91
+  Ricardo Sergio 9, Ricardo Sergio (pk) 77, Ali Kazem 31; Lamine Conte (pk) 75, Mohamed Salem Al-Enazi 86, Khamis Saeed 90, Adel Matar 91
 
 ; Sha'ab   ; 5-0; Shabab
-  Johnny Jiert 8, Saeed Youssouf 23, Mamadou Diop 61, 90, Khaled Al-Doukhi 85
+  Johnny Jiert 8, Saeed Youssouf 23, Mamadou Diop 61, Mamadou Diop 90, Khaled Al-Doukhi 85;
 
 ; Jazira   ; 1-0; Ahly 
-  Joel Tiehi 88
+  Joel Tiehi 88;
 
 Date: 12/17/2000
 
 ; Wasl     ; 2-1; Ain
-  Mohamed Omar 12, Rashidi Dawoodi 90pen; Sbeit Khater 34
+  Mohamed Omar 12, Rashidi Dawoodi (pk) 90; Sbeit Khater 34
 
 Week 7          
 Date: 11/22/2000
@@ -187,11 +173,10 @@ Date: 11/22/2000
   Mohamed Salem Al-Enazi 48, Adel Matar 76; Johnny Giert 49, Mamadou Diop 92
 
 ; Ain      ; 1-0; Emirates    
-  Juma'a Moussa 41
+  Juma'a Moussa 41;
 
 ; Ittihad  ; 2-0; Ahly
-  Qahtan Jthair 56, Abdulkarim Hassan 82
-
+  Qahtan Jthair 56, Abdulkarim Hassan 82;
 
 Date: 11/23/2000
 
@@ -199,24 +184,19 @@ Date: 11/23/2000
   Eissa Mohamed 33, Roberto Nilson 54; Mohamed Al-Fadhli 22
 
 ; Ahly F   ; 0-3; Wasl   
-  Nasser Eissa 8, Khaled Darwish 45, Majed Saeed 46
-
+; Nasser Eissa 8, Khaled Darwish 45, Majed Saeed 46
 
 Round: 8
-
 Date: 11/30/2000
 
 ; Emirates ; 2-0; Ahly F
-  Mustapha Khalif 55, Saeed Abou-Zayoud 89
+  Mustapha Khalif 55, Saeed Abou-Zayoud 89;
 
 ; Wasl     ; 3-4; Shabab
-  Nasser Eissa 9, Farhad Majidi 14, 52; Abdulrahman Fadhel 8, Baba Adamo 43,
-   Khamis Saad 83, 84
+  Nasser Eissa 9, Farhad Majidi 14, Farhad Majidi 52; Abdulrahman Fadhel 8, Baba Adamo 43, Khamis Saad 83, Khamis Saad 84
 
 ; Sharjah  ; 2-5; Wahda     
-  Abdulaziz Al-Anbari 42, Saeed Al-Kas 85; Abdulrahim Juma'a 6, Mohamed Conte 16pen,
-   Mohamed Salem Al-Enazi 42, Yasser Salem 44, 61
-
+  Abdulaziz Al-Anbari 42, Saeed Al-Kas 85; Abdulrahim Juma'a 6, Mohamed Conte (pk) 16, Mohamed Salem Al-Enazi 42, Yasser Salem 44, Yasser Salem 61
 
 Date: 12/1/2000
 
@@ -226,79 +206,74 @@ Date: 12/1/2000
 ; Ahly     ; 1-2; Ain
   Faysal Khalil 19; Subait Khater 31, Juma'a Moussa 40
 
-
 Date: 12/11/2000
 
 ; Jazira   ; 3-0; Ittihad
-  Emmanuel Abedi 10, Hussein Soheil 14, Joel Tiehi 17
+  Emmanuel Abedi 10, Hussein Soheil 14, Joel Tiehi 17;
 
 Round: 9
 Date: 12/6/2000
 
 ; Wahda    ; 3-2; Wasl      
-  Ismail Rashed 37, Yasser Salem 44, 53; Rashidi Dawoodi 63, Farhad Majidi 70
+  Ismail Rashed 37, Yasser Salem 44, Yasser Salem 53; Rashidi Dawoodi 63, Farhad Majidi 70
 
 ; Shabab   ; 1-1; Emirates      
   Youssouf Fekri 20; Mustapha Khalif 66
 
 ; Sha'ab   ; 0-1; Jazira  
-  Emmanuel Abedi 45
+;  Emmanuel Abedi 45
 
 
 Date: 12/7/2000
 
 ; Ain      ; 6-2; Ittihad   
-  Salem Jawhar 11, 38, 64, Juma'a Moussa 48, Paulo Sandro 71, Subait Khater 80;
-   Jassem Mohamed 26, Ibrahim Mohamed 65
+  Salem Jawhar 11, Salem Jawhar 38, Salem Jawhar 64, Juma'a Moussa 48, Paulo Sandro 71, Subait Khater 80; Jassem Mohamed 26, Ibrahim Mohamed 65
 
 ; Ahly F   ; 2-4; Ahly    
-  Paul Mathieu 61, Othman Rabih 84; Faysal Khalil 31, Youssouf Atiq 51pen, 59, 90
+  Paul Mathieu 61, Othman Rabih 84; Faysal Khalil 31, Youssouf Atiq (pk) 51, Youssouf Atiq 59, Youssouf Atiq 90
 
 ; Nasr     ; 0-1; Sharjah      
-  Saeed Al-Kas 77
+;  Saeed Al-Kas 77
 
 Round: 10
 Date: 12/14/2000
 
 ; Sharjah  ; 0-2; Sha'ab    
-  Sheikh Diop 59, Johnny Giert 74
+;  Sheikh Diop 59, Johnny Giert 74
 
 ; Wasl     ; 6-1; Nasr 
-  Mohamed Obaid 13, Farhad Majidi 24, 48, Rashidi Al-Dawoodi 38, Mohamed Omar 52,
-   Tareq Darwich 81; Kazem Ali 64
+  Mohamed Obaid 13, Farhad Majidi 24, Farhad Majidi 48, Rashidi Al-Dawoodi 38, Mohamed Omar 52, Tareq Darwich 81; Kazem Ali 64
 
 ; Emirates ; 1-1; Wahda  
-  Badr Alwan 25; Saeed Bou-Zayoud 10og
+  Badr Alwan 25; Saeed Bou-Zayoud (og) 10
 
 ; Jazira   ; 2-1; Ain
-  Hussain Sohail 52, 85; Juma'a Moussa 76
-
+  Hussain Sohail 52, Hussain Sohail 85; Juma'a Moussa 76
 
 Date: 12/15/2000
 
 ; Ahly     ; 2-2; Shabab    
-  Hassan Ali 11, Faysal Khalil 50; Baba Adamo 45, 69
+  Hassan Ali 11, Faysal Khalil 50; Baba Adamo 45, Baba Adamo 69
 
 ; Ittihad  ; 1-0; Ahly F
-  Qahtan Jathir 76
+  Qahtan Jathir 76;
 
 Round: 11
 Date: 12/20/2000
 
 ; Wahda    ; 4-5; Ahly      
-  Lamine Conte 38pen, Mohamed Salem Al-Enazi 54, 60, 81; Salem Khamis 24, 79,
-   Faysal Khalil 33, Rashid Bin-Mahmoud 45, 90pen
+  Lamine Conte (pk) 38, Mohamed Salem Al-Enazi 54, Mohamed Salem Al-Enazi 60, Mohamed Salem Al-Enazi 81; Salem Khamis 24, Salem Khamis 79, Faysal Khalil 33, Rashid Bin-Mahmoud 45, Rashid Bin-Mahmoud (pk) 90
 
 ; Shabab   ; 2-2; Ittihad
   Baba Adamo 21, Roberto Nilson 55; Abdulkarim Hassan 14, Qahtan Jathir 65
 
 ; Ahly F   ; 0-1; Ain
-  Juma'a Khater 65
+;  Juma'a Khater 65
 
 Date: 12/21/2000
 
 ; Sha'ab   ; 3-0; Wasl
-  Sheikh Diop 7, 45, Samir Ibrahim 72
+  Sheikh Diop 7, Sheikh Diop 45, Samir Ibrahim 72;
 
 ; Jazira   ; 0-0; Sharjah 
 
@@ -309,7 +284,7 @@ Round: 12
 Date: 12/24/2000
 
 ; Shabab   ; 2-1; Ain       
-  Baba Adamo 24, 53; Gharib Hareb 73
+  Baba Adamo 24, Baba Adamo 53; Gharib Hareb 73
 
 Date: 12/31/2000
 
@@ -317,37 +292,36 @@ Date: 12/31/2000
   Johnny Giert 72; Mustapha Khalif 53
 
 ; Wahda    ; 3-0; Ittihad        
-  Mohamed Salem Al-Enazi 21, 66, Lamine Conte 70
+  Mohamed Salem Al-Enazi 21, Mohamed Salem Al-Enazi 66, Lamine Conte 70;
 
 Date: 1/1/2001
 
 ; Sharjah  ; 0-2; Wasl
-  Rashidi Al-Dawoodi 54, Mohamed Omar 65
+;  Rashidi Al-Dawoodi 54, Mohamed Omar 65
 
 ; Nasr     ; 3-4; Ahly    
-  Ricardo Sergio 18, 29, 61; Rashid Bin-Mahmoud 23pen, 49pen, 75, Faysal Khalil 50
+  Ricardo Sergio 18, Ricardo Sergio 29, Ricardo Sergio 61; Rashid Bin-Mahmoud (pk) 23, Rashid Bin-Mahmoud (pk) 49, Rashid Bin-Mahmoud 75, Faysal Khalil 50
 
 ; Jazira   ; 1-0; Ahly F
-  Hussein Soheil 46
+  Hussein Soheil 46;
 
 Round: 13
 Date: 1/10/2001
 
 ; Emirates ; 3-2; Sharjah
-  Badr Alwan 31pen, 71pen, Saeed Bouzioud 50; Saeed Al-Kas 49, 85
+  Badr Alwan (pk) 31, Badr Alwan (pk) 71, Saeed Bouzioud 50; Saeed Al-Kas 49, Saeed Al-Kas 85
 
 ; Wasl     ; 2-3; Jazira
-  Rashidi Al-Dawoodi 81, Farhad Majidi 92; Hussein Soheil 31, Joel Tiehi 66,
-   Emmanuel Abedi 76
+  Rashidi Al-Dawoodi 81, Farhad Majidi 92; Hussein Soheil 31, Joel Tiehi 66, Emmanuel Abedi 76
 
 ; Ittihad  ; 2-1; Nasr
   Qahtan Jathir 24, Abdulkarim Hassan 72; Ricardo Sergio 19
 
 ; Ahly     ; 2-1; Sha'ab
-  Rashid Ben-Mahmoud 27pen, Faysal Khalil 72; Ammar Al-Doukhi 64
+  Rashid Ben-Mahmoud (pk) 27, Faysal Khalil 72; Ammar Al-Doukhi 64
 
 ; Ahly F   ; 1-0; Shabab
-  Jerry Adamo 61
+  Jerry Adamo 61;
 
 Date: 3/10/2001
 
@@ -358,11 +332,10 @@ Round: 14
 Date: 1/17/2001
 
 ; Wahda    ; 8-0; Ahly F
-  Mohamed Salem Al-Enazi 28, 52, 64, 74, Abdulsalam Juma'a 38, 
-   Yasser Salem 47, 80, Lamine Conte 61
+  Mohamed Salem Al-Enazi 28, Mohamed Salem Al-Enazi 52, Mohamed Salem Al-Enazi 64, Mohamed Salem Al-Enazi 74, Abdulsalam Juma'a 38, Yasser Salem 47, Yasser Salem 80, Lamine Conte 61
   
 ; Wasl     ; 3-0; Emirates
-  Farhad Majidi 3, 90, Ali Eissa 55'
+  Farhad Majidi 3, Farhad Majidi 90, Ali Eissa 55'
 
 ; Sha'ab   ; 2-1; Ittihad   
   Johnny Jiert 36, Sheikh Diop 43; Qahtan Jathir 46
@@ -373,8 +346,7 @@ Date: 1/18/2001
   Youssouf Hassan 16, Joel Tiehi 36; Bakhit Saad 87
 
 ; Sharjah  ; 2-3; Ahly
-  Saeed Al-Kas 43, Khaled Al-Doukhi 84; Jassem Darwiche 11og, 
-   Rashid Ben-Mahmoud 51pen, 64
+  Saeed Al-Kas 43, Khaled Al-Doukhi 84; Jassem Darwiche (og) 11, Rashid Ben-Mahmoud (pk) 51, Rashid Ben-Mahmoud 64
 
 Date: 1/19/2001
 
@@ -385,22 +357,21 @@ Round: 15
 Date: 1/24/2001
 
 ; Ahly     ; 2-0; Wasl
-  Faysal Khalil 54, 72
+  Faysal Khalil 54, Faysal Khalil 72;
 
 ; Ittihad  ; 2-2; Sharjah
-  Qahtan Jathir 44, Hassan Saeed 81; Abdulaziz Al-Anbari 44,
-   Khaled Al-Doukhi 72pen
+  Qahtan Jathir 44, Hassan Saeed 81; Abdulaziz Al-Anbari 44, Khaled Al-Doukhi (pk) 72
 
 ; Emirates ; 0-3; Jazira    
-  Khaled Jaber 25, Mohamed Abdullah 40, Emmanuel Abedi 73
+; Khaled Jaber 25, Mohamed Abdullah 40, Emmanuel Abedi 73
 
 Date: 1/25/2001
 
 ; Ahly F   ; 0-1; Nasr
-  Eissa Juma'a 77
+; Eissa Juma'a 77
 
 ; Shabab   ; 2-3; Wahda     
-  Baba Adamo 66pen, Youssouf Fekri 87; Mohamed Salem Al-Enazi 49, 71, 92
+  Baba Adamo (pk) 66, Youssouf Fekri 87; Mohamed Salem Al-Enazi 49, Mohamed Salem Al-Enazi 71, Mohamed Salem Al-Enazi 92
 
 ; Ain      ; 1-2; Sha'ab
   Sbeit Khater 26; Abdulrahman Ibrahim 55, Omran Al-Jasmi 69
@@ -409,22 +380,21 @@ Round: 16
 Date: 1/28/2001
 
 ; Sharjah  ; 1-0; Ain       
-  Mohamed Al-Fadhli 26
+  Mohamed Al-Fadhli 26;
 
 ; Emirates ; 0-1; Ahly   
-  Faysal Khalil 50
+;  Faysal Khalil 50
 
 ; Wasl     ; 1-2; Ittihad   
-  Rashidi Al-Dawoodi 17; Qahtan Jathir 40, 65
+  Rashidi Al-Dawoodi 17; Qahtan Jathir 40, Qahtan Jathir 65
 
 Date: 1/29/2001
 
 ; Nasr     ; 1-0; Shabab    
-  Ali Al-Saffar 55
+  Ali Al-Saffar 55;
 
 ; Jazira   ; 6-2; Wahda
-  Emmanuel Abedi 14pen, 67, 79, 85, Saleh Abdullah 28, Dago 48;
-   Bashir Saeed 65, 69
+  Emmanuel Abedi (pk) 14, Emmanuel Abedi 67, Emmanuel Abedi 79, Emmanuel Abedi 85, Saleh Abdullah 28, Dago 48; Bashir Saeed 65, Bashir Saeed 69
 
 ; Sha'ab   ; 2-1; Ahly F
   Sheikh Diop 11, Johnny Jiert 16; Jerry Adamo 17
@@ -433,7 +403,7 @@ Round: 17
 Date: 1/31/2001
 
 ; Ain      ; 1-0; Wasl      
-  Juma'a Moussa 82
+  Juma'a Moussa 82;
 
 ; Ittihad  ; 2-1; Emirates  
   Dragan Kokoc 51, Qahtan Jathir 70; Saeed Bouzioud 69
@@ -441,14 +411,13 @@ Date: 1/31/2001
 Date: 2/1/2001
 
 ; Wahda    ; 5-2; Nasr      
-  Mohamed Salem Al-Enazi 17, 38, Fahad Massoud 28, Yasser Salem 69,
-   Abdulsalam Kuma'a 76; Abdulhakim Khamis 51, Mohamed Khamis 88
+  Mohamed Salem Al-Enazi 17, Mohamed Salem Al-Enazi 38, Fahad Massoud 28, Yasser Salem 69, Abdulsalam Kuma'a 76; Abdulhakim Khamis 51, Mohamed Khamis 88
 
 ; Ahly F   ; 0-1; Sharjah
-  Khaled Al-Doukhi 22pen
+; Khaled Al-Doukhi (pk) 22
 
 ; Shabab   ; 3-1; Sha'ab    
-  Baba Adamo 24, 92, Walid Obaid 52; Jassem Al-Doukhi 60
+  Baba Adamo 24, Baba Adamo 92, Walid Obaid 52; Jassem Al-Doukhi 60
 
 Date: 2/2/2001
 
@@ -459,10 +428,10 @@ Round: 18
 Date: 2/18/2001
 
 ; Wasl     ; 3-0; Ahly F
-  Monzer Abdullah 16, Farhad Majidi 37, Mohamed Omar 74
+  Monzer Abdullah 16, Farhad Majidi 37, Mohamed Omar 74;
 
 ; Sharjah  ; 2-2; Shabab
-  Mohamed Al-Fadhli 14, 44; Baba Adamo 87, 90
+  Mohamed Al-Fadhli 14, Mohamed Al-Fadhli 44; Baba Adamo 87, Baba Adamo 90
 
 ; Sha'ab   ; 1-1; Wahda
   Jassem Al-Doukhi 54; Yasser Salem 93
@@ -473,7 +442,7 @@ Date: 2/19/2001
   Shehab Abdullah 90, Mohamed Qassem 91; Qahtan Jathir 61
 
 ; Emirates ; 2-3; Ain
-  Mustapha Mustawdeh 84, 88; Juma'a Moussa 4, 46, 68
+  Mustapha Mustawdeh 84, Mustapha Mustawdeh 88; Juma'a Moussa 4, Juma'a Moussa 46, Juma'a Moussa 68
 
 ; Jazira   ; 1-1; Nasr
   Dago 78; Walid Morad 93
@@ -493,7 +462,7 @@ Date: 2/22/2001
   Hassan Abdullah 65; Bassem Abdullah 19, Mustapha Khalif 72
 
 ; Nasr     ; 1-1; Sha'ab          
-  Juma'a Saeed 95pen; Sheikh Diop 4
+  Juma'a Saeed (pk) 95; Sheikh Diop 4
 
 ; Ittihad  ; 1-1; Jazira          
   Jassem Hatab 18; Etienne Dago 73
@@ -501,7 +470,7 @@ Date: 2/22/2001
 Date: 2/23/2001
 
 ; Ain      ; 1-3; Ahly              
-  Gharib Hareb 52; Rashid Ben-Mahmoud 58, 77, Hassan Ali Ibrahim 84
+  Gharib Hareb 52; Rashid Ben-Mahmoud 58, Rashid Ben-Mahmoud 77, Hassan Ali Ibrahim 84
 
 Round: 20
 Date: 2/25/2001
@@ -529,7 +498,7 @@ Round: 21
 Date: 3/3/2001
 
 ; Sha'ab   ; 1-0; Sharjah
-  Samir Ibrahim 65
+  Samir Ibrahim 65;
 
 ; Wahda    ; 2-1; Emirates
   Yasser Salem 49, Abdulrahim Juma'a 54; Mustapha Mustawhdeh 63
@@ -538,38 +507,36 @@ Date: 3/3/2001
   Roberto Nilson 22, Baba Adamo 30; Mohamed Qassem 74
 
 ; Ahly F   ; 0-2; Ittihad
-  Mustapha Krimau 75, Saber Ali 92
+;  Mustapha Krimau 75, Saber Ali 92
 
 ; Ain      ; 3-1; Jazira
-  Sandro 38, Sbeit Khater 54, 86; Hussein Soheil 82
+  Sandro 38, Sbeit Khater 54, Sbeit Khater 86; Hussein Soheil 82
 
 Date: 3/4/2001
 
 ; Nasr     ; 2-0; Wasl
-  Khodadad Azizi 22, 61
+  Khodadad Azizi 22, Khodadad Azizi 61;
                
 Round: 22 
 Date: 3/14/2001
 
 ; Ahly     ; 2-3; Wahda
-  Rashid Ben-Mahmoud 18pen, Hassan Ibrahim 90; Lamine Conte 32,
-   Mohamed Salem Al-Enazi 36, 46
+  Rashid Ben-Mahmoud (pk) 18, Hassan Ibrahim 90; Lamine Conte 32, Mohamed Salem Al-Enazi 36, Mohamed Salem Al-Enazi 46
 
 ; Ittihad  ; 1-1; Shabab
   Mustapha Krimau 32; Ahmed Al-Sayegh 49
 
 ; Ain      ; 2-1; Ahly F
-  Sbeit Khater 40pen, Gharib Hareb 85; Salem Ali 58og
+  Sbeit Khater (pk) 40, Gharib Hareb 85; Salem Ali (og) 58
 
 ; Emirates ; 2-2; Nasr
   Salem Muftah 36, Bassem Abdullah 87; Eissa Juma'a 16, Abdulsamad Bouzidi 74
 
 ; Wasl     ; 4-1; Sha'ab
-  Mohamed Omar 24, 49, Nasser Eissa 27, Tareq Darwish 79; Amran Al-Habsi 45pen
+  Mohamed Omar 24, Mohamed Omar 49, Nasser Eissa 27, Tareq Darwish 79; Amran Al-Habsi (pk) 45
 
 ; Sharjah  ; 3-2; Jazira
-  Mohamed Al-Fadhli 33, Rashid Al-Za'anani 38, Saeed Al-Kas 64;
-   Tareq Iqab 32, 78
+  Mohamed Al-Fadhli 33, Rashid Al-Za'anani 38, Saeed Al-Kas 64; Tareq Iqab 32, Tareq Iqab 78
 
 * 1.Al-Wahda        22 15  5  2  62-34  50  Champions
 * 2.Al-Ahly         22 13  3  6  47-36  42

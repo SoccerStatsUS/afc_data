@@ -32,7 +32,7 @@ Date: 9/13/2004
 ; Bargh        ; 2-1; Paas
   Zare 47, Amiri 64; Nekonam 67
 
-;; Zob-Ahan;      0-1 AbooMoslem
+; Zob-Ahan;      0-1; AbooMoslem
 ; Teimorian 20
 
 ; Esteghlal T  ; 1-1; Esteghlal A
@@ -55,7 +55,7 @@ Date: 10/8/2004
 Round: 2
 Date: 9/17/2004
 
-;; Fajr-Sepasi;   2-1 Shamoushak
+; Fajr-Sepasi;   2-1; Shamoushak
   Rezaei 55, Talebi 92; Jabarpour 56
  
 ; Paas         ; 0-0; Peykan
@@ -108,7 +108,7 @@ Date: 9/24/2004
 Round: 4
 Date: 9/30/2004
 
-;; Zob-Ahan;      1-0 Bargh
+; Zob-Ahan;      1-0; Bargh
   Heidari 69;
 
 ; Foolad       ; 2-1; Saipa
@@ -127,7 +127,7 @@ Date: 10/1/2004
 ; Paas         ; 4-2; Shamoushak
   Nekonam 9, Nekonam 83, Razaghirad 66, Maniei 70; Mohseni 24, Jabarpour 31
 
-;; Fajr-Sepasi;   0-0 Sepahan
+; Fajr-Sepasi;   0-0; Sepahan
 
 ; Pirouzi      ; 1-2; Malavan
   Choji 18; Rahbarifard 51, Ghrobani 65
@@ -170,7 +170,7 @@ Date: 10/22/2004
 ; Saipa        ; 1-1; Bargh
   Karimi 52; Pakniat 58
 
-;; Zob-Ahan;      2-0 Malavan
+; Zob-Ahan;      2-0; Malavan
   Bahadorani 7, Rajabzadeh 39;
 
 ; Pegah        ; 1-0; Esteghlal A
@@ -182,7 +182,7 @@ Date: 10/22/2004
 ; Paas         ; 2-3; Sepahan
   Janmaleki 32, Aghili (og) 38; Khatibi 20, Aghaei 39, Aghaei 40
 
-;; Fajr-Sepasi;   3-2 Saba
+; Fajr-Sepasi;   3-2; Saba
   Mohamadi, Zareh, Tabatabaei (og); Daghighi 40, Daghighi 79
  
 ; Pirouzi      ; 0-0; Esteghlal T
@@ -190,7 +190,7 @@ Date: 10/22/2004
 Round: 7
 Date: 10/28/2004
 
-;; Fajr-Sepasi;   1-1 Saipa
+; Fajr-Sepasi;   1-1; Saipa
   Talebi 92; Tahmasebi 27
 
 ; Esteghlal A  ; 2-1; Paas
@@ -228,12 +228,12 @@ Date: 11/11/2004
   Safarzadeh 20;
 
 ; Pegah        ; 0-2; Fajr-Sepasi
-  Hoshyar 69, Madanchi 90
+;  Hoshyar 69, Madanchi 90
 
 ; Paas         ; 2-3; Saba
   Borhani 9, Borhani 64; Daei 14, Zohani 86, Daghighi 87
 
-;; Zob-Ahan;      3-1 Esteghlal T
+; Zob-Ahan;      3-1; Esteghlal T
   Fatemi 6, Mansouri 62, S.Heidari 83; Samereh 81
 
 ; Pirouzi      ; 2-0; Esteghlal A
@@ -248,7 +248,7 @@ Date: 11/19/2004
 ; Shamoushak   ; 2-1; Bargh
   Tavakoli 35, Geraeili 60; Mohamadi 26
 
-;; Fajr-Sepasi;   0-1 Paas
+; Fajr-Sepasi;   0-1; Paas
 ;  Maniei 64
 
 ; Malavan      ; 1-0; Peykan
@@ -277,7 +277,7 @@ Date: 11/26/2004
 
 ; Saipa        ; 0-0; Malavan 
 
-;; Zob-Ahan;      3-1 Esteghlal A
+; Zob-Ahan;      3-1; Esteghlal A
   Shafiei 30, Fatemi 58, Esteratolat 83; Khalifehasl 15
 
 ; AbooMoslem   ; 2-3; Saba
@@ -305,7 +305,7 @@ Date: 12/2/2004
 
 Date: 12/3/2004
 
-;; Fajr-Sepasi;   4-1 AbooMoslem 
+; Fajr-Sepasi;   4-1; AbooMoslem 
   Talebi 43, Rezaei 56, Mohamadi 58, Faraji 92; Salsali 80
 
 ; Shamoushak   ; 1-2; Malavan 
@@ -337,7 +337,7 @@ Date: 12/10/2004
 ; Peykan       ; 1-2; Sepahan 
   Vaziri 16; Ramezani 45, Karimi 81
 
-;; Zob-Ahan;      0-0 Fajr-Sepasi
+; Zob-Ahan;      0-0; Fajr-Sepasi
 
 ; Bargh        ; 2-0; Esteghlal A
   Matori 79, Aghamohamadi 90;
@@ -363,7 +363,7 @@ Date: 12/16/2004
   Alvez  3, Zadmahmod 11; Nikkho 52
 
 ; Saba         ; 4-4; Bargh
-  Daei 5, 32, Alvandi 34, Ghasemian 52; Abedi 8, Abedi 64, Bakhtiarizade 55, Matori 75
+  Daei 5, Daei 32, Alvandi 34, Ghasemian 52; Abedi 8, Abedi 64, Bakhtiarizade 55, Matori 75
 
 ; Esteghlal T  ; 3-0; Shamoushak 
   Mansorian 35, Akbarpour 77, Samereh 81;
@@ -377,7 +377,7 @@ Date: 12/19/2004
 
 Date: 1/4/2005
 
-;; Fajr-Sepasi;   0-1 Foolad
+; Fajr-Sepasi;   0-1; Foolad
 ;  Mobali 53
 
 Round: 14
@@ -389,7 +389,7 @@ Date: 12/24/2004
 ; Peykan       ; 1-1; Saba
   Sarabadani 90; Sarasiabi 93
 
-;; Zob-Ahan;      2-0 Paas 
+; Zob-Ahan;      2-0; Paas 
   Esteratolat 62, S.Heidari 93;
 
 ; Foolad       ; 2-1; Pegah 
@@ -411,7 +411,7 @@ Date: 12/25/2004
 Round: 15
 Date: 12/30/2004
 
-Pirouzi       1-0 Zob-Ahan
+; Pirouzi      ; 1-0; Zob-Ahan
   Entezari 90;
 
 Date: 12/31/2004
@@ -428,12 +428,12 @@ Date: 12/31/2004
   Azizi 45; Momenzadeh 20
 
 ; Saba         ; 2-0; Malavan
-  Bakhtiarizadeh 13; Daei 50;
+  Bakhtiarizadeh 13, Daei 50;
 
 ; Pegah        ; 2-1; Bargh
   Yazdani 35, Yazdani 46; Eini 58
 
-;; Fajr-Sepasi;   2-1 Peykan
+; Fajr-Sepasi;   2-1; Peykan
   Rezaei 8, Madanchi 94; Vaziri 38
 
 Round: 16
@@ -461,7 +461,7 @@ Date: 1/7/2005
 
 Date: 1/9/2005
 
-;; Fajr-Sepasi;   0-1 Malavan
+; Fajr-Sepasi;   0-1; Malavan
 ;  Gholamin 67
 
 ; Pirouzi      ; 0-2; Foolad 
@@ -484,7 +484,7 @@ Date: 1/14/2005
 ; Bargh        ; 1-2; Pirouzi
   Abedi 24; Kazemian 45, Mahdavi 47
 
-;; Zob-Ahan;      1-0 Saipa
+; Zob-Ahan;      1-0; Saipa
   Rajabzadeh 62;
 
 ; Foolad       ; 1-0; AbooMoslem
@@ -505,7 +505,7 @@ Date: 1/20/2005
 ; Paas         ; 3-2; Malavan 
   Razaghirad 28, Razaghirad 40, Nekonam 76; Jamshidian 7, Yahyanejad 29
 
-;; Zob-Ahan;      2-0 Foolad
+; Zob-Ahan;      2-0; Foolad
   Fatemi 24, Tahmasebi 92;
 
 Date: 1/21/2005
@@ -522,7 +522,7 @@ Date: 1/21/2005
 ; Saba         ; 2-1; Sepahan
   Niknazar 45, Daei 85; Talebnasab 20
 
-;; Fajr-Sepasi;   0-0 Esteghlal T
+; Fajr-Sepasi;   0-0; Esteghlal T
 
 Round: 20
 Date: 2/16/2005
@@ -532,10 +532,10 @@ Date: 2/16/2005
 
 Date: 2/17/2005
 
-;; Zob-Ahan;      1-0 Peykan 
+; Zob-Ahan;      1-0; Peykan 
   Azizi 88;
 
-;; Fajr-Sepasi;   1-2 Esteghlal A
+; Fajr-Sepasi;   1-2; Esteghlal A
   Talebi 55; Kiani 19, Jajalisabet 63
 
 ; Foolad       ; 4-0; Bargh
@@ -628,7 +628,7 @@ Date: 3/5/2005
 ; Bargh        ; 1-1; Peykan
   Abedi 45; Heidari 64
 
-;; Zob-Ahan;      2-0 Shamoushak
+; Zob-Ahan;      2-0; Shamoushak
   Mohamadpor 54, Rajabzadeh 58;
 
 ; AbooMoslem   ; 2-3; Esteghlal T
@@ -655,7 +655,7 @@ Date: 3/11/2005
 ; Malavan      ; 1-1; Bargh
   Hosseini 36; Matori 92
 
-;; Fajr-Sepasi;   0-1 Pegah
+; Fajr-Sepasi;   0-1; Pegah
 ;  Hoshyar
 
 ; Shamoushak   ; 2-1; Foolad
@@ -677,7 +677,7 @@ Date: 4/10/2005
 
 ; Saipa        ; 0-0; Pegah
 
-;; Zob-Ahan;      1-1 Sepahan
+; Zob-Ahan;      1-1; Sepahan
   Fatemi 53; Khatibi 6
 
 ; Paas         ; 1-0; Fajr-Sepasi
@@ -712,7 +712,7 @@ Date: 4/15/2005
 ; Sepahan      ; 1-1; Foolad
   Khatbi 36; Badavi 80
 
-;; Fajr-Sepasi;   0-0 Pirouzi
+; Fajr-Sepasi;   0-0; Pirouzi
 
 ; Esteghlal T  ; 3-2; Bargh 
   Enayati 80, Enayati 85, Akbarpor 92; Amiri 57, Aghamohamadi 60
@@ -732,7 +732,7 @@ Date: 5/15/2005
 Round: 26
 Date: 4/22/2005
 
-;; Zob-Ahan;      2-3 Saba
+; Zob-Ahan;      2-3; Saba
   Fatemi 18, Karimian 91; Daei 44, Daei 74, Daghighi 74
 
 ; Malavan      ; 1-1; Shamoushak 
@@ -784,7 +784,7 @@ Date: 4/29/2005
  
 ; Saba         ; 0-0; Foolad
 
-;; Fajr-Sepasi;   0-0 Zob-Ahan
+; Fajr-Sepasi;   0-0; Zob-Ahan
 
 Round: 28
 Date: 5/6/2005
@@ -797,7 +797,7 @@ Date: 5/6/2005
 
 Date: 5/8/2005
 
-;; Zob-Ahan;      1-0 Pegah
+; Zob-Ahan;      1-0; Pegah
   Tahmasebi 70;
 
 ; Shamoushak   ; 0-1; Esteghlal T
@@ -847,7 +847,7 @@ Date: 6/12/2005
 ; Sepahan      ; 1-1; Shamoushak 
   Aghaei 39; Siamtabar 79
 
-;; Fajr-Sepasi;   1-1 Bargh
+; Fajr-Sepasi;   1-1; Bargh
   Sasani 93; Gholamalitabar 39
 
 Round: 30 
@@ -864,7 +864,7 @@ Date: 6/20/2005
 ; Peykan       ; 1-2; Fajr-Sepasi
   Ghaforiasl 77; Esmaeili 32, Esmaeili 89
 
-;; Zob-Ahan;      3-2 Pirouzi
+; Zob-Ahan;      3-2; Pirouzi
   Rajabzadeh 37, Dasilva 89, Heidari 93; Entezari 78, Kazemian 91
 
 ; Malavan      ; 2-0; Saba
