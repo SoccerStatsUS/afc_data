@@ -33,9 +33,9 @@ Date: 7/24/2013
 Date: 7/25/2013
 
 ; Damash       ; 1-1; Saipa         
-;; Fajr-Sepasi;   0-1 Naft          
+; Fajr-Sepasi;   0-1; Naft          
 ; Gostaresh    ; 1-2; Esteghlal     
-;; Rah-Ahan;      0-0 Mes           
+; Rah-Ahan;      0-0; Mes           
 ; Saba         ; 1-0; Malavan       
 ; Sepahan      ; 2-0; Foolad        
 
@@ -46,24 +46,24 @@ Date: 8/1/2013
 ; Malavan      ; 0-0; Damash        
 ; Mes          ; 1-1; Esteghlal Kh  
 ; Saipa        ; 0-3; Rah-Ahan      
-;; Teraktor-Sazi; 1-1 Gostaresh     
+; Teraktor-Sazi; 1-1; Gostaresh     
 
 Date: 8/2/2013
 
 ; Foolad       ; 1-0; Fajr-Sepasi   
 ; Naft         ; 1-2; Saba          
-;; Zob-Ahan;      0-0 Pirouzi       
+; Zob-Ahan;      0-0; Pirouzi       
 
 Round: 3
 Date: 8/6/2013
 
 ; Damash       ; 1-1; Naft          
 ; Esteghlal Kh ; 0-0; Saipa         
-;; Fajr-Sepasi;   2-4 Esteghlal     
+; Fajr-Sepasi;   2-4; Esteghlal     
 ; Gostaresh    ; 1-1; Sepahan       
-;; Rah-Ahan;      0-0 Malavan       
+; Rah-Ahan;      0-0; Malavan       
 ; Saba         ; 0-1; Foolad        
-;; Zob-Ahan;      2-4 Teraktor-Sazi 
+; Zob-Ahan;      2-4; Teraktor-Sazi 
 
 Date: 8/7/2013
 
@@ -92,17 +92,17 @@ Date: 8/15/2013
 Date: 8/16/2013
 
 ; Esteghlal Kh ; 2-4; Naft          
-;; Fajr-Sepasi;   2-1 Sepahan       
+; Fajr-Sepasi;   2-1; Sepahan       
 ; Pirouzi      ; 1-0; Malavan       
-;; Rah-Ahan;      0-1 Foolad        
+; Rah-Ahan;      0-1; Foolad        
 ; Saba         ; 2-2; Gostaresh     
-;; Teraktor-Sazi; 0-0 Mes           
-;; Zob-Ahan;      0-0 Saipa         
+; Teraktor-Sazi; 0-0; Mes           
+; Zob-Ahan;      0-0; Saipa         
 
 Round: 6
 Date: 8/23/2013
 
-;; Fajr-Sepasi;   0-0 Teraktor-Sazi 
+; Fajr-Sepasi;   0-0; Teraktor-Sazi 
 ; Foolad       ; 3-2; Esteghlal Kh  
 ; Gostaresh    ; 0-2; Damash        
 ; Malavan      ; 1-2; Zob-Ahan      
@@ -120,10 +120,10 @@ Date: 8/30/2013
 ; Damash       ; 1-1; Sepahan       
 ; Mes          ; 1-3; Malavan       
 ; Pirouzi      ; 3-1; Foolad        
-;; Rah-Ahan;      1-2 Gostaresh     
+; Rah-Ahan;      1-2; Gostaresh     
 ; Saba         ; 3-0; Fajr-Sepasi   
-;; Teraktor-Sazi; 1-0 Saipa         
-;; Zob-Ahan;      3-2 Naft          
+; Teraktor-Sazi; 1-0; Saipa         
+; Zob-Ahan;      3-2; Naft          
 
 Date: 8/31/2013
 
@@ -132,7 +132,7 @@ Date: 8/31/2013
 Round: 8
 Date: 9/5/2013
 
-;; Fajr-Sepasi;   2-2 Damash        
+; Fajr-Sepasi;   2-2; Damash        
 ; Foolad       ; 1-0; Zob-Ahan      
 ; Gostaresh    ; 1-1; Esteghlal Kh  
 ; Malavan      ; 0-3; Saipa         
@@ -147,8 +147,8 @@ Date: 9/6/2013
 Round: 9
 Date: 9/12/2013
 
-;; Teraktor-Sazi; 2-2 Malavan       
-;; Zob-Ahan;      2-0 Esteghlal     
+; Teraktor-Sazi; 2-2; Malavan       
+; Zob-Ahan;      2-0; Esteghlal     
 
 Date: 9/13/2013
 
@@ -156,7 +156,7 @@ Date: 9/13/2013
 ; Esteghlal Kh ; 0-2; Sepahan       
 ; Mes          ; 2-2; Foolad        
 ; Pirouzi      ; 1-0; Gostaresh     
-;; Rah-Ahan;      0-0 Fajr-Sepasi   
+; Rah-Ahan;      0-0; Fajr-Sepasi   
 
 Date: 9/14/2013
 
@@ -170,7 +170,7 @@ Date: 9/19/2013
 Date: 9/20/2013
 
 ; Damash       ; 1-0; Teraktor-Sazi 
-;; Fajr-Sepasi;   2-1 Esteghlal Kh  
+; Fajr-Sepasi;   2-1; Esteghlal Kh  
 ; Foolad       ; 4-1; Saipa         
 ; Naft         ; 0-0; Malavan       
 ; Saba         ; 2-1; Rah-Ahan      
@@ -190,9 +190,9 @@ Date: 9/27/2013
 ; Esteghlal Kh ; 1-0; Saba          
 ; Malavan      ; 1-2; Foolad        
 ; Mes          ; 1-2; Gostaresh     
-;; Rah-Ahan;      1-0 Damash        
-;; Teraktor-Sazi; 1-0 Naft          
-;; Zob-Ahan;      0-1 Sepahan       
+; Rah-Ahan;      1-0; Damash        
+; Teraktor-Sazi; 1-0; Naft          
+; Zob-Ahan;      0-1; Sepahan       
 
 Date: 11/3/2013
 
@@ -201,9 +201,9 @@ Date: 11/3/2013
 Round: 12
 Date: 10/3/2013
 
-;; Fajr-Sepasi;   0-0 Zob-Ahan      
+; Fajr-Sepasi;   0-0; Zob-Ahan      
 ; Foolad       ; 0-2; Naft          
-;; Rah-Ahan;      1-2 Teraktor-Sazi 
+; Rah-Ahan;      1-2; Teraktor-Sazi 
 
 Date: 10/4/2013
 
@@ -221,14 +221,14 @@ Date: 10/17/2013
 
 ; Esteghlal Kh ; 3-2; Rah-Ahan      
 ; Malavan      ; 2-1; Gostaresh     
-;; Zob-Ahan;      1-1 Saba          
+; Zob-Ahan;      1-1; Saba          
 
 Date: 10/18/2013
 
 ; Mes          ; 1-2; Fajr-Sepasi   
 ; Pirouzi      ; 2-0; Damash        
 ; Saipa        ; 0-0; Sepahan       
-;; Teraktor-Sazi; 2-2 Foolad        
+; Teraktor-Sazi; 2-2; Foolad        
 
 Date: 10/19/2013
 
@@ -249,8 +249,8 @@ Date: 10/25/2013
 Date: 10/27/2013
 
 ; Esteghlal Kh ; 1-4; Teraktor-Sazi 
-;; Fajr-Sepasi;   0-1 Saipa         
-;; Rah-Ahan;      0-1 Pirouzi       
+; Fajr-Sepasi;   0-1; Saipa         
+; Rah-Ahan;      0-1; Pirouzi       
 
 Round: 15
 Date: 11/3/2013
@@ -259,7 +259,7 @@ Date: 11/3/2013
 ; Malavan      ; 3-1; Fajr-Sepasi   
 ; Mes          ; 1-1; Damash        
 ; Naft         ; 2-2; Sepahan       
-;; Zob-Ahan;      2-3 Rah-Ahan      
+; Zob-Ahan;      2-3; Rah-Ahan      
 
 Date: 11/6/2013
 
@@ -268,12 +268,12 @@ Date: 11/6/2013
 
 Date: 11/8/2013
 
-;; Teraktor-Sazi; 1-1 Esteghlal     
+; Teraktor-Sazi; 1-1; Esteghlal     
 
 Round: 16
 Date: 11/28/2013
 
-;; Zob-Ahan;      0-1 Esteghlal Kh  
+; Zob-Ahan;      0-1; Esteghlal Kh  
 
 Date: 11/29/2013
 
@@ -283,13 +283,13 @@ Date: 11/29/2013
 ; Mes          ; 2-0; Rah-Ahan      
 ; Naft         ; 2-0; Fajr-Sepasi   
 ; Saipa        ; 2-3; Damash        
-;; Teraktor-Sazi; 1-0 Pirouzi       
+; Teraktor-Sazi; 1-0; Pirouzi       
 
 Round: 17
 Date: 12/5/2013
 
-;; Fajr-Sepasi;   0-0 Foolad        
-;; Rah-Ahan;      0-0 Saipa         
+; Fajr-Sepasi;   0-0; Foolad        
+; Rah-Ahan;      0-0; Saipa         
 ; Sepahan      ; 0-0; Esteghlal     
 
 Date: 12/6/2013
@@ -312,7 +312,7 @@ Date: 12/13/2013
 ; Malavan      ; 0-1; Rah-Ahan      
 ; Mes          ; 0-6; Pirouzi       
 ; Naft         ; 0-0; Damash        
-;; Teraktor-Sazi; 2-2 Zob-Ahan      
+; Teraktor-Sazi; 2-2; Zob-Ahan      
 
 Date: 12/14/2013
 
@@ -322,16 +322,16 @@ Round: 19
 Date: 12/19/2013
 
 ; Esteghlal Kh ; 0-2; Malavan       
-;; Fajr-Sepasi;   0-0 Gostaresh     
+; Fajr-Sepasi;   0-0; Gostaresh     
 ; Pirouzi      ; 1-0; Saipa         
-;; Zob-Ahan;      1-1 Mes           
+; Zob-Ahan;      1-1; Mes           
 
 Date: 12/20/2013
 
 ; Damash       ; 1-2; Foolad        
-;; Rah-Ahan;      1-3 Naft          
+; Rah-Ahan;      1-3; Naft          
 ; Saba         ; 1-2; Esteghlal     
-;; Teraktor-Sazi; 1-2 Sepahan       
+; Teraktor-Sazi; 1-2; Sepahan       
 
 Round: 20 
 Date: 12/24/2013
@@ -350,15 +350,15 @@ Date: 1/3/2014
 
 ; Pirouzi      ; 0-0; Naft          
 ; Esteghlal Kh ; 0-2; Foolad        
-;; Zob-Ahan;      1-1 Malavan       
+; Zob-Ahan;      1-1; Malavan       
 
 Date: 1/4/2014
 
 ; Mes          ; 2-2; Saipa         
-;; Teraktor-Sazi; 0-0 Fajr-Sepasi   
+; Teraktor-Sazi; 0-0; Fajr-Sepasi   
 ; Damash       ; 1-2; Gostaresh     
 ; Saba         ; 0-1; Sepahan       
-;; Rah-Ahan;      0-1 Esteghlal     
+; Rah-Ahan;      0-1; Esteghlal     
 
 Round: 22
 Date: 1/9/2014
@@ -369,7 +369,7 @@ Date: 1/11/2014
 
 ; Esteghlal    ; 1-0; Esteghlal Kh  
 ; Sepahan      ; 2-0; Damash        
-;; Fajr-Sepasi;   1-2 Saba          
+; Fajr-Sepasi;   1-2; Saba          
 ; Malavan      ; 2-1; Mes           
 ; Saipa        ; 3-3; Teraktor-Sazi 
 ; Foolad       ; 2-1; Pirouzi       
@@ -380,10 +380,10 @@ Date: 1/16/2014
 
 ; Damash       ; 1-3; Fajr-Sepasi   
 ; Esteghlal Kh ; 3-1; Gostaresh     
-;; Rah-Ahan;      1-1 Sepahan       
+; Rah-Ahan;      1-1; Sepahan       
 ; Saipa        ; 1-2; Malavan       
-;; Teraktor-Sazi; 1-1 Saba          
-;; Zob-Ahan;      0-0 Foolad        
+; Teraktor-Sazi; 1-1; Saba          
+; Zob-Ahan;      0-0; Foolad        
 
 Date: 1/17/2014
 
@@ -403,7 +403,7 @@ Date: 1/21/2014
 Date: 1/26/2014
 
 ; Esteghlal    ; 1-1; Zob-Ahan      
-;; Fajr-Sepasi;   0-1 Rah-Ahan      
+; Fajr-Sepasi;   0-1; Rah-Ahan      
 ; Malavan      ; 1-1; Teraktor-Sazi 
 ; Saba         ; 3-2; Damash        
 ; Sepahan      ; 3-1; Esteghlal Kh  
@@ -415,10 +415,10 @@ Date: 1/31/2014
 ; Malavan      ; 2-0; Naft          
 ; Mes          ; 1-1; Esteghlal     
 ; Pirouzi      ; 2-0; Sepahan       
-;; Rah-Ahan;      0-0 Saba          
+; Rah-Ahan;      0-0; Saba          
 ; Saipa        ; 0-0; Foolad        
-;; Teraktor-Sazi; 0-0 Damash        
-;; Zob-Ahan;      0-0 Gostaresh     
+; Teraktor-Sazi; 0-0; Damash        
+; Zob-Ahan;      0-0; Gostaresh     
 
 Round: 26
 Date: 2/7/2014
@@ -430,7 +430,7 @@ Date: 2/7/2014
 Date: 2/9/2014
 
 ; Esteghlal    ; 2-0; Saipa         
-;; Fajr-Sepasi;   1-1 Pirouzi       
+; Fajr-Sepasi;   1-1; Pirouzi       
 ; Foolad       ; 1-0; Malavan       
 ; Gostaresh    ; 0-0; Mes           
 ; Naft         ; 3-0; Teraktor-Sazi 
@@ -441,7 +441,7 @@ Date: 2/16/2014
 ; Esteghlal Kh ; 1-1; Damash        
 ; Naft         ; 1-1; Foolad        
 ; Saipa        ; 1-1; Gostaresh     
-;; Zob-Ahan;      0-1 Fajr-Sepasi   
+; Zob-Ahan;      0-1; Fajr-Sepasi   
 
 Date: 2/19/2014
 
@@ -450,7 +450,7 @@ Date: 2/19/2014
 Date: 2/20/2014
 
 ; Mes          ; 0-0; Sepahan       
-;; Teraktor-Sazi; 0-3 Rah-Ahan      
+; Teraktor-Sazi; 0-3; Rah-Ahan      
 
 Date: 2/21/2014
 
@@ -459,11 +459,11 @@ Date: 2/21/2014
 Round: 28 
 Date: 3/27/2014
 
-;; Rah-Ahan;      1-0 Esteghlal Kh  
+; Rah-Ahan;      1-0; Esteghlal Kh  
 ; Foolad       ; 2-1; Teraktor-Sazi 
 ; Sepahan      ; 2-2; Saipa         
 ; Saba         ; 2-1; Zob-Ahan      
-;; Fajr-Sepasi;   1-1 Mes           
+; Fajr-Sepasi;   1-1; Mes           
 ; Esteghlal    ; 0-1; Naft          
 ; Damash       ; 0-1; Pirouzi       
 ; Gostaresh    ; 1-2; Malavan       
@@ -477,8 +477,8 @@ Date: 4/6/2014
 ; Naft         ; 4-1; Gostaresh     
 ; Pirouzi      ; 2-2; Rah-Ahan      
 ; Saipa        ; 0-0; Fajr-Sepasi   
-;; Teraktor-Sazi; 1-0 Esteghlal Kh  
-;; Zob-Ahan;      2-1 Damash        
+; Teraktor-Sazi; 1-0; Esteghlal Kh  
+; Zob-Ahan;      2-1; Damash        
 
 Round: 30 
 Date: 4/11/2014
@@ -486,9 +486,9 @@ Date: 4/11/2014
 ; Damash       ; 1-1; Mes           
 ; Esteghlal    ; 1-3; Teraktor-Sazi 
 ; Esteghlal Kh ; 0-1; Pirouzi       
-;; Fajr-Sepasi;   2-1 Malavan       
+; Fajr-Sepasi;   2-1; Malavan       
 ; Gostaresh    ; 0-1; Foolad        
-;; Rah-Ahan;      0-1 Zob-Ahan      
+; Rah-Ahan;      0-1; Zob-Ahan      
 ; Saba         ; 0-0; Saipa         
 ; Sepahan      ; 1-0; Naft          
 
