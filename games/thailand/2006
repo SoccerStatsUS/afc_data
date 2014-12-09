@@ -1,8 +1,6 @@
 BlockSource: http://www.rsssf.com/tablest/thai06.html
 Season: 2006
-
-
-FAT Premier League
+Competition: FAT Premier League
 
 * 1.Bangkok University                   22 11  6  5  25-17  39  Champions
 * 2.Osotspa M-150                        22 10  8  4  35-20  38
@@ -28,7 +26,7 @@ Sylla 53; Panai 62
 ; Osotspa           ; 3-2; Tobacco Monopoly
 ; BBL               ; 2-1; Bangkok University 
 ; Suphanburi        ; 2-3; PEA
-;; Thai-Honda;         1-2 KTB             
+; Thai-Honda;         1-2; KTB             
 ; Chonburi          ; 1-3; Port Authority
 
 Round: 2 
@@ -57,7 +55,7 @@ Date: 2/11/2006
 
 ; Tobacco Monopoly  ; 1-0; KTB
 ; Suphanburi        ; 0-1; Osotspa
-;; Thai-Honda;         1-1 Bangkok University
+; Thai-Honda;         1-1; Bangkok University
 ; Chonburi          ; 0-0; BEC Tero Sasana
 
 Round: 4
@@ -89,7 +87,7 @@ Date: 2/25/2006
 ; Tobacco Monopoly  ; 1-0; Bangkok University
 ; Chonburi          ; 3-0; BBL
 ; PEA               ; 2-0; BEC Tero Sasana
-;; Thai-Honda;         0-0 Army
+; Thai-Honda;         0-0; Army
 ; Suphanburi        ; 1-0; Port Authority
 
 Round: 6 
@@ -150,7 +148,7 @@ Date: 3/18/2006
 
 ; Army              ; 1-1; Chonburi
 ; Bangkok University; 0-0; PEA
-;; Thai-Honda;         1-1 Suphanburi
+; Thai-Honda;         1-1; Suphanburi
 
 Round: 9 
 Date: 3/25/2006
@@ -181,7 +179,7 @@ Date: 4/1/2006
 
 ; Bangkok University; 3-1; Port Authority
 ; BEC Tero Sasana   ; 0-1; KTB
-;; Thai-Honda;         0-0 Tobacco Monopoly
+; Thai-Honda;         0-0; Tobacco Monopoly
 ; Chonburi          ; 0-1; Suphanburi 
 
 Round: 11
@@ -213,7 +211,7 @@ Date: 4/22/2006
 ; Chonburi          ; 0-2; Bangkok University
 ; Osotspa           ; 1-1; Port Authority
 ; Suphanburi        ; 1-1; Army
-;; Thai-Honda;         1-2 BBL
+; Thai-Honda;         1-2; BBL
 ; Tobacco Monopoly  ; 1-0; BEC Tero Sasana
 
 Date: 4/23/2006
@@ -223,7 +221,7 @@ Date: 4/23/2006
 Round: 13 
 Date: 4/29/2006
 
-;; Thai-Honda;         1-1 Chonburi
+; Thai-Honda;         1-1; Chonburi
 ; KTB               ; 1-0; Suphanburi 
 ; BEC Tero Sasana   ; 1-1; Port Authority 
 ; BBL               ; 2-1; PEA
@@ -254,7 +252,7 @@ Date: 5/13/2006
 
 Date: 5/14/2006
 
-;; Thai-Honda;         0-1 PEA 
+; Thai-Honda;         0-1; PEA 
 
 Round: 16
 Date: 5/20/2006
@@ -283,7 +281,7 @@ Date: 5/27/2006
 
 Date: 5/28/2006
 
-;; Thai-Honda;         2-1 Osotspa
+; Thai-Honda;         2-1; Osotspa
 
 Round: 18
 Date: 6/3/2006
@@ -309,7 +307,7 @@ Date: 6/10/2006
 
 Date: 6/11/2006
 
-;; Thai-Honda;         1-2 Port Authority
+; Thai-Honda;         1-2; Port Authority
 
 Round: 20
 Date: 6/17/2006
@@ -329,7 +327,7 @@ Date: 6/25/2006
 
 ; PEA               ; 1-2; Osotspa
 ; Chonburi          ; 2-2; KTB
-;; Thai-Honda;         0-2 BEC Tero Sasana
+; Thai-Honda;         0-2; BEC Tero Sasana
 ; Army              ; 0-1; Bangkok University 
 ; Suphanburi        ; 1-2; BBL
 ; Tobacco Monopoly  ; 2-1; Port Authority   

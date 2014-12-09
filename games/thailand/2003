@@ -1,7 +1,6 @@
 BlockSource: http://www.rsssf.com/tablest/thai04.html
 Season: 2003-2004
-
-Thailand League
+Competition: FAT Premier League
 
 * 1.Krung Thai Bank                      18 12  2  4  33-18  38  Champions  [KTB]
 * 2.BEC Tero Sasana                      18 10  4  4  33-22  34
@@ -20,297 +19,288 @@ Thailand League
 *    or Yasoob.
 
 Round: 1
-
 Date: 12/27/2003
 
-Krung Thai Bank      0-2 BEC Tero Sasana 
-Osotspa              1-1 Tobacco Monopoly 
+; Krung Thai Bank     ; 0-2; BEC Tero Sasana 
+; Osotspa             ; 1-1; Tobacco Monopoly 
 
 Date: 12/28/2003
 
-Royal Thai Air Force 1-1 Royal Thai Navy 
-Sinthana             0-1 Port Authority 
-  [Sarayuth Chaikumdee]
+; Royal Thai Air Force; 1-1; Royal Thai Navy 
+
+; Sinthana            ; 0-1; Port Authority 
+; Sarayuth Chaikumdee
 
 Date: 12/29/2003
 
-Bangkok Bank         1-1 Bangkok University 
+; Bangkok Bank        ; 1-1; Bangkok University 
 
 Round: 2
-
 Date: 1/3/2004
 
-Bangkok University   2-1 Sinthana 
-Royal Thai Navy      0-2 Osotspa
+; Bangkok University  ; 2-1; Sinthana 
+; Royal Thai Navy     ; 0-2; Osotspa
 
 Date: 1/4/2004
 
-Port Authority       4-1 Royal Thai Air Force
-Tobacco Monopoly     1-1 BEC Tero Sasana 
+; Port Authority      ; 4-1; Royal Thai Air Force
+; Tobacco Monopoly    ; 1-1; BEC Tero Sasana 
 
 Date: 1/5/2004
 
-Krung Thai Bank      0-2 Bangkok Bank
+; Krung Thai Bank     ; 0-2; Bangkok Bank
 
 Round: 3
-
 Date: 1/10/2004
 
-BEC Tero Sasana      0-1 Bangkok Bank
-  [Chakaphan Panpee 62]
-Krung Thai Bank      1-3 Osotspa
-  [Suphachai Komsilp 1-2; Phaitoon Tiebma 6, Kittisak Jaiharn 53,
-   Nawin Jan-ngarm 85]
+; BEC Tero Sasana     ; 0-1; Bangkok Bank
+;  Chakaphan Panpee 62
+
+; Krung Thai Bank     ; 1-3; Osotspa
+  Suphachai Komsilp; Phaitoon Tiebma 6, Kittisak Jaiharn 53, Nawin Jan-ngarm 85
 
 Date: 1/11/2004
 
-Bangkok University   0-2 Royal Thai Navy 
-  [Somjed Sattabut, Supachai Kamsup; half-time 0-1]
-Royal Thai Air Force 1-0 Sinthana
-  [Nopporn Pitisai 17]
+; Bangkok University  ; 0-2; Royal Thai Navy 
+;  Somjed Sattabut, Supachai Kamsup
+
+; Royal Thai Air Force; 1-0; Sinthana
+  Nopporn Pitisai 17;
 
 Date: 1/12/2004
 
-Port Authority       1-0 Tobacco Monopoly
-  [Narongrit Radsrivo 61]
+; Port Authority      ; 1-0; Tobacco Monopoly
+  Narongrit Radsrivo 61;
 
 Round: 4
-
 Date: 1/17/2004
 
-BEC Tero Sasana      1-0 Osotspa
-  [Naret Suk-ngarm 2]
-Tobacco Monopoly     1-2 Bangkok University
+; BEC Tero Sasana     ; 1-0; Osotspa
+  Naret Suk-ngarm 2;
+
+; Tobacco Monopoly    ; 1-2; Bangkok University
 
 Date: 1/18/2004
 
-Bangkok Bank         1-2 Royal Thai Air Force
-  [Manit Noyvech 79; Sanet Lungkaew 47, Kwan Waitayacheeva 49]
-Port Authority       0-2 Krung Thai Bank
+; Bangkok Bank        ; 1-2; Royal Thai Air Force
+  Manit Noyvech 79; Sanet Lungkaew 47, Kwan Waitayacheeva 49
+
+; Port Authority      ; 0-2; Krung Thai Bank
 
 Date: 1/20/2004
 
-Sinthana             1-2 Royal Thai Navy 
-  [Erito 86; Banluesak Yodyingyong 28, Supachai Kumsup 87]
+; Sinthana            ; 1-2; Royal Thai Navy 
+  Erito 86; Banluesak Yodyingyong 28, Supachai Kumsup 87
+
 
 Round: 5
-
 Date: 1/31/2004
 
-Bangkok Bank         1-1 Sinthana
-  [Ekaphan Intasen 65; Taweepong Charoenrup 51]
-Krung Thai Bank      2-0 Bangkok University
-  [Saran Promkaew 60, Piyawat Thongmaen 87]
+; Bangkok Bank        ; 1-1; Sinthana
+  Ekaphan Intasen 65; Taweepong Charoenrup 51
+
+; Krung Thai Bank     ; 2-0; Bangkok University
+  Saran Promkaew 60, Piyawat Thongmaen 87;
 
 Date: 2/1/2004
 
-Osotspa              5-1 Royal Thai Air Force
-  [Vimol Chankum (3), Kittisak Jaiharn, Chakkrapong Jiesatawong;
-   Padet Sangviset 90]
-Tobacco Monopoly     0-0 Royal Thai Navy
+; Osotspa             ; 5-1; Royal Thai Air Force
+  Vimol Chankum, Vimol Chankum, Vimol Chankum, Kittisak Jaiharn, Chakkrapong Jiesatawong; Padet Sangviset 90
+
+; Tobacco Monopoly    ; 0-0; Royal Thai Navy
 
 Date: 2/2/2004
 
-BEC Tero Sasana      2-4 Port Authority 
-  [Sakesan Pituratana, Vorawuth Srimakha; Sarayuth Chaikumdee,
-   Nirut Kumsawad (2), Ekkachai Preechakul 87]
+; BEC Tero Sasana     ; 2-4; Port Authority 
+  Sakesan Pituratana, Vorawuth Srimakha; Sarayuth Chaikumdee, Nirut Kumsawad, Nirut Kumsawad, Ekkachai Preechakul 87
 
 Round: 6 
-
 Date: 3/12/2004
 
-Royal Thai Air Force 0-0 BEC Tero Sasana
+; Royal Thai Air Force; 0-0; BEC Tero Sasana
 
 Date: 3/14/2004
 
-Royal Thai Navy      0-1 Krung Thai Bank
-Sinthana             1-2 Osotspa 
+; Royal Thai Navy     ; 0-1; Krung Thai Bank
+; Sinthana            ; 1-2; Osotspa 
 
 Date: 3/15/2004
 
-Bangkok Bank         2-1 Tobacco Monopoly 
-Bangkok University   1-0 Port Authority 
+; Bangkok Bank        ; 2-1; Tobacco Monopoly 
+; Bangkok University  ; 1-0; Port Authority 
 
 Round: 7 
-
 Date: 4/4/2004
 
-Osotspa              4-3 Bangkok University
-Sinthana             1-3 Tobacco Monopoly
+; Osotspa             ; 4-3; Bangkok University
+; Sinthana            ; 1-3; Tobacco Monopoly
 
 Date: 4/5/2004
 
-Bangkok Bank         1-2 Port Authority 
+; Bangkok Bank        ; 1-2; Port Authority 
 
 Date: 4/11/2004
 
-Royal Thai Air Force 0-1 Krung Thai Bank
-  [Piyawat Thongmaen 69]
-BEC Tero Sasana      3-0 Royal Thai Navy 
-  [Carlos Mauro, Sakesan Pituratana 71, Teerathep Winothai]
+; Royal Thai Air Force; 0-1; Krung Thai Bank
+  Piyawat Thongmaen 69
+
+; BEC Tero Sasana     ; 3-0; Royal Thai Navy 
+  Carlos Mauro, Sakesan Pituratana 71, Teerathep Winothai
 
 Round: 8
-
 Date: 2/27/2004
 
-Royal Thai Air Force 0-3 Bangkok University
+; Royal Thai Air Force; 0-3; Bangkok University
 
 Date: 2/28/2004
 
-Osotspa              2-2 Bangkok Bank 
-Royal Thai Navy      1-3 Port Authority 
+; Osotspa             ; 2-2; Bangkok Bank 
+; Royal Thai Navy     ; 1-3; Port Authority 
 
 Date: 2/29/2004
 
-Krung Thai Bank      0-1 Tobacco Monopoly
-Sinthana             3-4 BEC Tero Sasana 
+; Krung Thai Bank     ; 0-1; Tobacco Monopoly
+; Sinthana            ; 3-4; BEC Tero Sasana 
 
 Round: 9
-
 Date: 3/5/2004
 
-Bangkok University   2-2 BEC Tero Sasana
+; Bangkok University  ; 2-2; BEC Tero Sasana
 
 Date: 3/6/2004
 
-Krung Thai Bank      6-1 Sinthana
-Tobacco Monopoly     abd Royal Thai Air Force     [abandoned at 0-0 in 24' due
+; Krung Thai Bank     ; 6-1; Sinthana
+*Tobacco Monopoly     abd Royal Thai Air Force     [abandoned at 0-0 in 24' due
 
 Date: 3/7/2004
 
-Port Authority       5-4 Osotspa
-Royal Thai Navy      1-2 Bangkok Bank
+; Port Authority      ; 5-4; Osotspa
+; Royal Thai Navy     ; 1-2; Bangkok Bank
 
-Date: 3/7-11?/2004
+*Date: 3/7-11?/2004
 
-Tobacco Monopoly     0-0 Royal Thai Air Force     [date replay unknown]
+; Tobacco Monopoly    ; 0-0; Royal Thai Air Force     
+*[date replay unknown]
 
 Round: 10
-
 Date: 4/23/2004
 
-Thai Air Force       1-3 Bangkok University
+; Thai Air Force      ; 1-3; Bangkok University
 
 Date: 4/24/2004
 
-Bangkok Bank         1-2 Osotspa
-Port Authority       0-0 Royal Thai Navy
+; Bangkok Bank        ; 1-2; Osotspa
+; Port Authority      ; 0-0; Royal Thai Navy
 
 Date: 4/25/2004
 
-BEC Tero Sasana      3-0 Sinthana
-Tobacco Monopoly     0-1 Krung Thai Bank
+; BEC Tero Sasana     ; 3-0; Sinthana
+; Tobacco Monopoly    ; 0-1; Krung Thai Bank
 
 Round: 11
-
 Date: 4/30/2004
 
-BEC Tero Sasana      0-2 Krung Thai Bank
+; BEC Tero Sasana     ; 0-2; Krung Thai Bank
 
 Date: 5/1/2004
 
-Port Authority       1-3 Sinthana
-Tobacco Monopoly     1-0 Osotspa
+; Port Authority      ; 1-3; Sinthana
+; Tobacco Monopoly    ; 1-0; Osotspa
 
 Date: 5/2/2004
 
-Bangkok University   0-0 Bangkok Bank
-Royal Thai Navy      2-0 Thai Air Force
+; Bangkok University  ; 0-0; Bangkok Bank
+; Royal Thai Navy     ; 2-0; Thai Air Force
 
 Round: 12
-
 Date: 5/7/2004
 
-Tobacco Monopoly     1-3 Sinthana
+; Tobacco Monopoly    ; 1-3; Sinthana
 
 Date: 5/8/2004
 
-Bangkok University   1-0 Osotspa
-Port Authority       3-0 Bangkok Bank
+; Bangkok University  ; 1-0; Osotspa
+; Port Authority      ; 3-0; Bangkok Bank
 
 Date: 5/9/2004
 
-Krung Thai Bank      4-1 Thai Air Force
-Royal Thai Navy      4-0 BEC Tero Sasana
+; Krung Thai Bank     ; 4-1; Thai Air Force
+; Royal Thai Navy     ; 4-0; BEC Tero Sasana
 
 Round: 13
-
 Date: 5/14/2004
 
-Royal Thai Navy      1-3 Bangkok University  
+; Royal Thai Navy     ; 1-3; Bangkok University  
 
 Date: 5/15/2004
 
-Bangkok Bank         2-3 BEC Tero Sasana
-Osotspa              1-2 Krung Thai Bank
+; Bangkok Bank        ; 2-3; BEC Tero Sasana
+; Osotspa             ; 1-2; Krung Thai Bank
 
 Date: 5/16/2004
 
-Sinthana             0-1 Thai Air Force
-Tobacco Monopoly     1-2 Port Authority
+; Sinthana            ; 0-1; Thai Air Force
+; Tobacco Monopoly    ; 1-2; Port Authority
 
 Round: 14
-
 Date: 5/21/2004
 
-Thai Air Force       0-5 Bangkok Bank
+; Thai Air Force      ; 0-5; Bangkok Bank
 
 Date: 5/22/2004
 
-Bangkok University   1-3 Tobacco Monopoly
-Krung Thai Bank      3-2 Port Authority
+; Bangkok University  ; 1-3; Tobacco Monopoly
+; Krung Thai Bank     ; 3-2; Port Authority
 
 Date: 5/23/2004
 
-Osotspa              0-0 BEC Tero Sasana
-Royal Thai Navy      1-0 Sinthana
+; Osotspa             ; 0-0; BEC Tero Sasana
+; Royal Thai Navy     ; 1-0; Sinthana
 
 Round: 15
-
 Date: 6/12/2004
 
-Bangkok Bank         3-1 Royal Thai Navy
-Thai Air Force       1-1 Tobacco Monopoly
+; Bangkok Bank        ; 3-1; Royal Thai Navy
+; Thai Air Force      ; 1-1; Tobacco Monopoly
 
 Date: 6/13/2004
 
-BEC Tero Sasana      2-0 Bangkok University
-Sinthana             2-2 Krung Thai Bank
+; BEC Tero Sasana     ; 2-0; Bangkok University
+; Sinthana            ; 2-2; Krung Thai Bank
 
 Date: 6/23/2004
 
-Osotspa              3-1 Port Authority
+; Osotspa             ; 3-1; Port Authority
 
 Round: 16
-
 Date: 6/19/2004
 
-BEC Tero Sasana      4-2 Thai Air Force
-Krung Thai Bank      3-1 Royal Thai Navy
-Osotspa              5-0 Sinthana
+; BEC Tero Sasana     ; 4-2; Thai Air Force
+; Krung Thai Bank     ; 3-1; Royal Thai Navy
+; Osotspa             ; 5-0; Sinthana
 
 Date: 6/20/2004
 
-Port Authority       0-1 Bangkok University
-Tobacco Monopoly     0-0 Bangkok Bank
+; Port Authority      ; 0-1; Bangkok University
+; Tobacco Monopoly    ; 0-0; Bangkok Bank
 
 Round: 17 
 Date: 6/27/2004
 
-Bangkok Bank         1-2 Krung Thai Bank
-BEC Tero Sasana      2-1 Tobacco Monopoly
-Osotspa              5-1 Royal Thai Navy
-Thai Air Force       1-0 Port Authority
-Sinthana             1-2 Bangkok University
+; Bangkok Bank        ; 1-2; Krung Thai Bank
+; BEC Tero Sasana     ; 2-1; Tobacco Monopoly
+; Osotspa             ; 5-1; Royal Thai Navy
+; Thai Air Force      ; 1-0; Port Authority
+; Sinthana            ; 1-2; Bangkok University
 
 Round: 18 
 Date: 7/3/2004
 
-Bangkok University   1-1 Krung Thai Bank
-Port Authority       0-4 BEC Tero Sasana
-Thai Air Force       1-4 Osotspa
-Royal Thai Navy      0-0 Tobacco Monopoly
-Sinthana             0-3 Bangkok Bank
+; Bangkok University  ; 1-1; Krung Thai Bank
+; Port Authority      ; 0-4; BEC Tero Sasana
+; Thai Air Force      ; 1-4; Osotspa
+; Royal Thai Navy     ; 0-0; Tobacco Monopoly
+; Sinthana            ; 0-3; Bangkok Bank
 
 * 1.Krung Thai Bank                      18 12  2  4  33-18  38  Champions  [KTB]
 * 2.BEC Tero Sasana                      18 10  4  4  33-22  34

@@ -1,9 +1,8 @@
 BlockSource: http://www.rsssf.com/tablest/thai03.html
 Season: 2002-2003
-
-GSM Thai League
-
-NB: run by the Football Association of Thailand (FAT)
+Competition: FAT Premier League
+*GSM Thai League
+*NB: run by the Football Association of Thailand (FAT)
 
 * 1.Krung Thai Bank                      18 10  6  2  29-15  36  Champions  [KTB]
 * 2.BEC Tero Sasana                      18 10  5  3  31-11  35
@@ -17,305 +16,410 @@ NB: run by the Football Association of Thailand (FAT)
 *--------------------------------------------------------------
 * 9.Telephone Organisation of Thailand   18  2  5 11  18-29  11  Relegated  [TOT]
 *10.Bangkok Christian College            18  2  3 13  16-44   9  Relegated  [BCC]
-
 *[*] Thailand Tobacco Monopoly are also known as RYS or Yasoob.
 
 Round: 1
-[Oct 26]
-BEC Tero    4-0 BCC  
-Sinthana    3-3 Tobacco   
-[Oct 27]
-Osotspa     2-3 TOT
-RTAF        1-4 KTB   
-[Nov 5]
-BBL         2-1 Port  
+Date: 10/26/2002
+
+; BEC Tero   ; 4-0; BCC  
+; Sinthana   ; 3-3; Tobacco   
+
+Date: 10/27/2002
+
+; Osotspa    ; 2-3; TOT
+; RTAF       ; 1-4; KTB   
+
+Date: 11/5/2002
+
+; BBL        ; 2-1; Port  
 
 Round: 2
-[Nov 2]
-BBL         1-1 TOT   
-Sinthana    1-2 Port
-[Nov 3]
-RTAF        6-2 BCC  
-Osotspa     0-0 Tobacco   
-[Nov 5]
-BEC Tero    0-0 KTB 
+Date: 11/2/2002
+
+; BBL        ; 1-1; TOT   
+; Sinthana   ; 1-2; Port
+
+Date: 11/3/2002
+
+; RTAF       ; 6-2; BCC  
+; Osotspa    ; 0-0; Tobacco   
+
+Date: 11/5/2002
+
+; BEC Tero   ; 0-0; KTB 
 
 Round: 3
-[Nov 9] 
-BEC Tero    2-1 Osotspa    
-Tobacco     0-0 TOT   
-[Nov 10]
-BBL         2-2 RTAF  
-[Nov 12]
-Port        1-1 KTB 
-Sinthana    0-0 BCC 
+Date: 11/9/2002
+
+; BEC Tero   ; 2-1; Osotspa    
+; Tobacco    ; 0-0; TOT   
+
+Date: 11/10/2002
+
+; BBL        ; 2-2; RTAF  
+
+Date: 11/12/2002
+
+; Port       ; 1-1; KTB 
+; Sinthana   ; 0-0; BCC 
 
 Round: 4
-[Nov 16]
-Port        4-0 Tobacco 
-[Nov 17]
-RTAF        3-1 Sinthana 
-TOT         0-1 BCC
-[Nov 19]
-BEC Tero    4-1 BBL 
-Osotspa     1-1 KTB 
+Date: 11/16/2002
+
+; Port       ; 4-0; Tobacco 
+
+Date: 11/17/2002
+
+; RTAF       ; 3-1; Sinthana 
+; TOT        ; 0-1; BCC
+
+Date: 11/19/2002
+
+; BEC Tero   ; 4-1; BBL 
+; Osotspa    ; 1-1; KTB 
 
 Round: 5
-[Nov 23]
-Osotspa     0-2 RTAF 
-BCC         2-4 Tobacco 
-[Nov 24]
-KTB         1-1 TOT
-BBL         2-2 Sinthana 
-[Nov 26]
-BEC Tero    0-1 Port
+Date: 11/23/2002
+
+; Osotspa    ; 0-2; RTAF 
+; BCC        ; 2-4; Tobacco 
+
+Date: 11/24/2002
+
+; KTB        ; 1-1; TOT
+; BBL        ; 2-2; Sinthana 
+
+Date: 11/26/2002
+
+; BEC Tero   ; 0-1; Port
 
 Round: 6
-[Nov 29]
-Osotspa     1-1 BCC 
-[Nov 30]
-Sinthana    1-0 TOT 
-RTAF        3-0 Port
-[Dec 1]
-KTB         4-4 BBL   
-Tobacco     1-3 BEC Tero 
+Date: 11/29/2002
+
+; Osotspa    ; 1-1; BCC 
+
+Date: 11/30/2002
+
+; Sinthana   ; 1-0; TOT 
+; RTAF       ; 3-0; Port
+
+Date: 12/1/2002
+
+; KTB        ; 4-4; BBL   
+; Tobacco    ; 1-3; BEC Tero 
 
 Round: 7
-[Jan 4]
-Sinthana    1-0 BEC Tero  
-  [Satrupai Srinarong 75]
-KTB         2-1 Tobacco   
-  [Yuthana Chaikaew 49, Amnaj Kaewkew 51; Wasant Natasant 22]
-[Jan 5]
-RTAF        1-0 TOT  
-  [Narongsak Pantang 56]
-BCC         1-4 Port
-  [Suwit Wattant 63; Sarayuth Chaikumdee 1st half, Ekkachai Preechakul 47,
-   Udom Jokrob 51, Yuthana Pollasak 90]
-[Jan 7]
-Osotspa     0-0 BBL  
+Date: 1/4/2003
+
+; Sinthana   ; 1-0; BEC Tero  
+  Satrupai Srinarong 75;
+
+; KTB        ; 2-1; Tobacco   
+  Yuthana Chaikaew 49, Amnaj Kaewkew 51; Wasant Natasant 22
+
+Date: 1/5/2003
+
+; RTAF       ; 1-0; TOT  
+  Narongsak Pantang 56
+
+; BCC        ; 1-4; Port
+  Suwit Wattant 63; Sarayuth Chaikumdee, Ekkachai Preechakul 47, Udom Jokrob 51, Yuthana Pollasak 90
+
+Date: 1/7/2003
+
+; Osotspa    ; 0-0; BBL  
 
 Round: 8
-[Jan 11]
-KTB         3-0 Sinthana
-  [Pichitpong Cheuchiew 54, Yuthana Chaikaew 65, Piyawat Thongmane 3-0]
-BBL         2-2 BCC  
-  [Nattapong Rujitanat 45, Manit Noyvech 2-1; Anucha Mancharoen 43, 
-   Suwit Wadtan 2-2]
-[Jan 12]
-Port        1-0 Osotspa  
-  [Tanandorn Pralacha]
-Tobacco     1-0 RTAF   
-  [Todsapol Karnplook 79]  
-[Jan 14]
-TOT         1-1 BEC Tero  
+Date: 1/11/2003
+
+; KTB        ; 3-0; Sinthana
+  Pichitpong Cheuchiew 54, Yuthana Chaikaew 65, Piyawat Thongmane;
+
+; BBL        ; 2-2; BCC  
+  Nattapong Rujitanat 45, Manit Noyvech; Anucha Mancharoen 43, Suwit Wadtan
+
+Date: 1/12/2003
+
+; Port       ; 1-0; Osotspa  
+  Tanandorn Pralacha;
+
+; Tobacco    ; 1-0; RTAF   
+  Todsapol Karnplook 79;
+  
+Date: 1/14/2003
+
+; TOT        ; 1-1; BEC Tero  
 
 Round: 9
-[Jan 18] 
-RTAF        0-4 BEC Tero 
-  [Adu Sunday 19, Therdsak Chaiman 25, Jatupong Thongsukh 31, 33]
-Sinthana    0-2 Osotspa     
-[Jan 19]
-KTB         1-0 BCC   
-  [Rangsan Viwatchaichoke]
-TOT         1-2 Port  
-  [Kittipong Boonpong 1-2; Apisit Khakikaew 47, Thanandorn Praracha 56]
-[Jan 21]
-BBL         3-3 Tobacco  
-  [Pranupong Pinsuwan (og), Kampee Pintakul 15, Manit Noyvech 85;
-   Wasant Natasant 20, 76, Kritsana Wongbutdee 83]
+Date: 1/18/2003
+
+; RTAF       ; 0-4; BEC Tero 
+;  Adu Sunday 19, Therdsak Chaiman 25, Jatupong Thongsukh 31, Jatupong Thongsukh 33
+
+; Sinthana   ; 0-2; Osotspa     
+
+Date: 1/19/2003
+
+; KTB        ; 1-0; BCC   
+  Rangsan Viwatchaichoke;
+
+; TOT        ; 1-2; Port  
+  Kittipong Boonpong; Apisit Khakikaew 47, Thanandorn Praracha 56
+
+Date: 1/21/2003
+
+; BBL        ; 3-3; Tobacco  
+  Pranupong Pinsuwan (og), Kampee Pintakul 15, Manit Noyvech 85; Wasant Natasant 20, Wasant Natasant 76, Kritsana Wongbutdee 83
 
 Round: 10
-[Mar 4]
-Osotspa     1-1 BEC Tero
-  [Vimol Jankum; Jatupong Thongsukh]
-[Mar 8]
-Port        1-0 KTB
-  [Sarayuth Chaikumdee 28]
-BCC         2-5 Sinthana
-  [Anucha Mancharoen (2); Sakesan Pituratana (2), Weat Janutai, 
-   Niweat Siriwong, Santi Chaipuek] 
-[Mar 9]
-TOT         0-1 Tobacco
-  [Wasant Natasant 11]
-RTAF        1-3 BBL
-  [Narongsak Pantang 45; Sanong Chaiprakom 1, 17, 78]
+Date: 3/4/2003
+
+; Osotspa    ; 1-1; BEC Tero
+  Vimol Jankum; Jatupong Thongsukh
+
+Date: 3/8/2003
+
+; Port       ; 1-0; KTB
+  Sarayuth Chaikumdee 28;
+
+; BCC        ; 2-5; Sinthana
+  Anucha Mancharoen, Anucha Mancharoen; Sakesan Pituratana, Sakesan Pituratana, Weat Janutai, Niweat Siriwong, Santi Chaipuek
+ 
+Date: 3/9/2003
+
+; TOT        ; 0-1; Tobacco
+;  Wasant Natasant 11
+
+; RTAF       ; 1-3; BBL
+  Narongsak Pantang 45; Sanong Chaiprakom 1, Sanong Chaiprakom 17, Sanong Chaiprakom 78
 
 Round: 11
-[Mar 15]
-RTAF        0-4 Tobacco
-  [Wasant Natasant 10, Totsapol Karnplook 25, Jirawat Kulwong 38, 39]
-[Mar 16]
-BBL         1-0 BCC
-  [Manit Noyvech 14]  
-Sinthana    0-0 KTB
-[Mar 18]
-BEC Tero    2-0 TOT 
-  [Datsakorn Thonglao 51, Patipan Petchpoon 80og]
-[Mar 25]
-Osotspa     1-0 Port
+Date: 3/15/2003
+
+; RTAF       ; 0-4; Tobacco
+;  Wasant Natasant 10, Totsapol Karnplook 25, Jirawat Kulwong 38, Jirawat Kulwong 39
+
+Date: 3/16/2003
+
+; BBL        ; 1-0; BCC
+  Manit Noyvech 14;
+  
+; Sinthana   ; 0-0; KTB
+
+Date: 3/18/2003
+
+; BEC Tero   ; 2-0; TOT 
+  Datsakorn Thonglao 51, Patipan Petchpoon (og) 80;
+
+Date: 3/25/2003
+
+; Osotspa    ; 1-0; Port
 
 Round: 12  
-[Mar 22]
-RTAF        3-1 Port 
-  [Anucha Chuesri 15, 38, 67; Udom Jokrob 90]
-Osotspa     3-1 BCC  
-[Mar 23]
-BBL         1-2 KTB
-  [Nattapong Rutjitanat 63; Yuthana Chaikaew 20, Vicharn Sakeeya 78]
-Sinthana    2-2 TOT  
-[Mar 25]
-BEC Tero    0-0 Tobacco  
+Date: 3/22/2003
+
+; RTAF       ; 3-1; Port 
+  Anucha Chuesri 15, Anucha Chuesri 38, Anucha Chuesri 67; Udom Jokrob 90
+
+; Osotspa    ; 3-1; BCC  
+
+Date: 3/23/2003
+
+; BBL        ; 1-2; KTB
+  Nattapong Rutjitanat 63; Yuthana Chaikaew 20, Vicharn Sakeeya 78
+
+; Sinthana   ; 2-2; TOT  
+
+Date: 3/25/2003
+
+; BEC Tero   ; 0-0; Tobacco  
 
 Round: 13
-[Mar 29]
-Port        2-0 BCC 
-  [Sarayuth Chaikumdee 25, 52]
-Tobacco     1-2 KTB
-  [Apichate Puttan 14; Anon Boonsukho 72, Piyawat Thongman (1-2)]
-[Mar 30]
-BBL         1-1 Osotspa  
-  [Sanong Chaiprokom (1-1); Vimol Junkum (0-1)]
-BEC Tero    1-1 Sinthana  
-  [Vorawuth Srimakha (1-1); Santi Chaipuek (0-1)]
-[Apr 1]
-TOT         2-3 RTAF
-  [Sayed Mir 80, Kittipong Moopong (2-3); Anucha Chuesri 45, 55, 84] 
+Date: 3/29/2003
 
+; Port       ; 2-0; BCC 
+  Sarayuth Chaikumdee 25, Sarayuth Chaikumdee 52;
+
+; Tobacco    ; 1-2; KTB
+  Apichate Puttan 14; Anon Boonsukho 72, Piyawat Thongman
+
+Date: 3/30/2003
+
+; BBL        ; 1-1; Osotspa  
+  Sanong Chaiprokom; Vimol Junkum
+
+; BEC Tero   ; 1-1; Sinthana  
+  Vorawuth Srimakha; Santi Chaipuek
+
+Date: 4/1/2003
+
+; TOT        ; 2-3; RTAF
+  Sayed Mir 80, Kittipong Moopong; Anucha Chuesri 45, Anucha Chuesri 55, Anucha Chuesri 84
+ 
 Round: 14
-[Apr 5]
-KTB         1-0 Osotspa  
-  [Yuthana Chaikaew]
-BBL         1-0 BEC Tero 
-  [Sanong Chaiprakom 85]
-[Apr 6]
-Tobacco     1-2 Port
-  [Wassant Natasant; Sarayuth Chaikumdee (2)]
-BCC         1-3 TOT
-  [Jedsada Pinviset (1-3); Kittipong Moopong 45?, 56, Suchao Nutnum 82]
-[Apr 8]
-Sinthana    1-0 RTAF 
-  [Sakesan Pituratana 56]
+Date: 4/5/2003
+
+; KTB        ; 1-0; Osotspa  
+  Yuthana Chaikaew;
+
+; BBL        ; 1-0; BEC Tero 
+  Sanong Chaiprakom 85;
+
+
+Date: 4/6/2003
+
+; Tobacco    ; 1-2; Port
+  Wassant Natasant; Sarayuth Chaikumdee, Sarayuth Chaikumdee
+
+; BCC        ; 1-3; TOT
+  Jedsada Pinviset; Kittipong Moopong 45, Kittipong Moopong 56, Suchao Nutnum 82
+*  Jedsada Pinviset (1-3); Kittipong Moopong 45?, 56, Suchao Nutnum 82
+
+
+Date: 4/8/2003
+
+; Sinthana   ; 1-0; RTAF 
+  Sakesan Pituratana 56;
 
 Round: 15
-[Apr 19]
-Port        1-0 TOT
-  [Songsak Chaisamak 29] 
-[Apr 20]
-Osotspa     1-1 Sinthana 
-  [Kittisak Jaiharn (1-1); Sakesan Pituratana (0-1)]
-KTB         3-1 BCC 
-  [Yuthana Chaikaew 15, Anon Boonsukho (pen, 2nd half), Piyawat Thongman;
-   Kittipol Papunga 14]
-[Apr 22] 
-Tobacco     0-2 BBL 
-  [Kampee Pintakul 25, Sanong Chaiprakom 56]
-[May 3]
-BEC Tero    2-1 RTAF 
-  [Vorawuth Srimaka 19, Jatupong Thongsukh 81; Anuwat Innyin 16]
+Date: 4/19/2003
+
+; Port       ; 1-0; TOT
+  Songsak Chaisamak 29;
+
+Date: 4/20/2003
+
+; Osotspa    ; 1-1; Sinthana 
+  Kittisak Jaiharn; Sakesan Pituratana
+
+; KTB        ; 3-1; BCC 
+  Yuthana Chaikaew 15, Anon Boonsukho (pk), Piyawat Thongman; Kittipol Papunga 14
+
+Date: 4/22/2003
+
+; Tobacco    ; 0-2; BBL 
+;   Kampee Pintakul 25, Sanong Chaiprakom 56
+
+Date: 5/3/2003
+
+; BEC Tero   ; 2-1; RTAF 
+  Vorawuth Srimaka 19, Jatupong Thongsukh 81; Anuwat Innyin 16
 
 Round: 16
-[Apr 26]
-BCC         1-0 RTAF
-  [Woraphan Tunton] 
-TOT         1-3 BBL
-  [Benjapol Kloyeim 21; Kampee Pintakul 23, Sanong Chaiprakom,
-   Preecha Chaokla 90]
-[Apr 27]
-Tobacco     0-2 Osotspa 
-  [Kittisak Jaiharn 88pen, Phaitoon Tiebma 93]  
-Port        1-1 Sinthana
-  [Sarayuth Chaikumdee 12; Sakesan Pituratana 32]
-[Apr 29]
-KTB         0-1 BEC Tero 
-  [Vorawuth Srimakha 28]
+Date: 4/26/2003
+
+; BCC        ; 1-0; RTAF
+  Woraphan Tunton;
+ 
+; TOT        ; 1-3; BBL
+  Benjapol Kloyeim 21; Kampee Pintakul 23, Sanong Chaiprakom, Preecha Chaokla 90
+
+Date: 4/27/2003
+
+; Tobacco    ; 0-2; Osotspa 
+;  Kittisak Jaiharn 88pen, Phaitoon Tiebma 93
+  
+; Port       ; 1-1; Sinthana
+  Sarayuth Chaikumdee 12; Sakesan Pituratana 32
+
+Date: 4/29/2003
+
+; KTB        ; 0-1; BEC Tero 
+;  Vorawuth Srimakha 28
 
 Round: 17 
-[May 10]
-KTB         1-0 RTAF  
-  [Vicharn Sakeeya 77]
-Port        1-1 BBL 
-TOT         2-3 Osotspa   
-BCC         1-3 BEC Tero  
-  [Tanapat na Tharue 1-3; Pipop Onn-mo 0-1, Vorawuth Srimakha 0-2,
-   Jatupong Thongsukh 62; half-time 0-2]
-[May 13]
-Tobacco     0-0 Sinthana 
+Date: 5/10/2003
 
-Round: 18 [May 17] 
-Port        0-3 BEC Tero  
-  [Therdsak Chaiman 26, Pipop On-mo 43, 65]
-Sinthana    1-1 BBL
-TOT         1-3 KTB
-  [Kittipong Moopong 1-2 (1st half); Nantawat Jidtrong 17,
-   Piyawat Thongmate 19, Saran Promkaew 86]
-BCC         0-2 Tobacco  
-RTAF        0-0 Osotspa    
+; KTB        ; 1-0; RTAF  
+  Vicharn Sakeeya 77;
 
-Final Table:
+; Port       ; 1-1; BBL 
 
- 1.Krung Thai Bank                      18 10  6  2  29-15  36  Champions  [KTB]
- 2.BEC Tero Sasana                      18 10  5  3  31-11  35
- 3.Port Authority of Thailand           18 10  3  5  25-19  33
- 4.Bangkok Bank Ltd.                    18  6 10  2  31-26  28  [BBL]
- 5.Royal Thai Air Force                 18  7  2  9  26-29  23  [2 1 1 0 2-0 4] [RTAF]
- 6.Osotspa                              18  5  8  5  19-17  23  [2 0 1 1 0-2 1]
- 7.Sinthana                             18  4 10  4  21-23  22
- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
- 8.Thailand Tobacco Monopoly            18  5  6  7  22-25  21  Relegation Playoff  [*]
---------------------------------------------------------------
- 9.Telephone Organisation of Thailand   18  2  5 11  18-29  11  Relegated  [TOT]
-10.Bangkok Christian College            18  2  3 13  16-44   9  Relegated  [BCC]
+; TOT        ; 2-3; Osotspa   
 
-[*] Thailand Tobacco Monopoly are also known as RYS or Yasoob.
+; BCC        ; 1-3; BEC Tero  
+  Tanapat na Tharue; Pipop Onn-mo, Vorawuth Srimakha, Jatupong Thongsukh 62
 
-Promoted: Bangkok University, Royal Thai Navy.
+Date: 5/13/2003
 
-Promotion/Relegation Playoff
+; Tobacco    ; 0-0; Sinthana 
 
-First Leg [May 31]
-Tobacco     1-0 Provincial Electricity Authority 
-  [Wasant Natasant 69]
+Round: 18 
+Date: 5/17/2003
 
-Second Leg [Jun 3]
-PEA         0-0 Tobacco
+; Port       ; 0-3; BEC Tero  
+; Therdsak Chaiman 26, Pipop On-mo 43, Pipop On-mo 65
 
-Tobacco remain at 1st level.
+; Sinthana   ; 1-1; BBL
 
-NB: Provincial Electricity Authority finished 3rd in First Division.
+; TOT        ; 1-3; KTB
+  Kittipong Moopong; Nantawat Jidtrong 17, Piyawat Thongmate 19, Saran Promkaew 86
+
+; BCC        ; 0-2; Tobacco  
+; RTAF       ; 0-0; Osotspa    
 
 
-Topscorers:
+* 1.Krung Thai Bank                      18 10  6  2  29-15  36  Champions  [KTB]
+* 2.BEC Tero Sasana                      18 10  5  3  31-11  35
+* 3.Port Authority of Thailand           18 10  3  5  25-19  33
+* 4.Bangkok Bank Ltd.                    18  6 10  2  31-26  28  [BBL]
+* 5.Royal Thai Air Force                 18  7  2  9  26-29  23  [2 1 1 0 2-0 4] [RTAF]
+* 6.Osotspa                              18  5  8  5  19-17  23  [2 0 1 1 0-2 1]
+* 7.Sinthana                             18  4 10  4  21-23  22
+* - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+* 8.Thailand Tobacco Monopoly            18  5  6  7  22-25  21  Relegation Playoff  [*]
+*--------------------------------------------------------------
+* 9.Telephone Organisation of Thailand   18  2  5 11  18-29  11  Relegated  [TOT]
+*10.Bangkok Christian College            18  2  3 13  16-44   9  Relegated  [BCC]
+*[*] Thailand Tobacco Monopoly are also known as RYS or Yasoob.
 
-12 Sarayuth Chaikumdee (Port)
-11 Sanong Chaiprakom (BBL)
-10 Vorawuth Srimakha (BEC Tero)
+*Promoted: Bangkok University, Royal Thai Navy.
+
+Stage: Promotion/Relegation Playoff
+Leg: 1
+
+Date: 5/31/2003
+
+; Tobacco    ; 1-0; Provincial Electricity Authority 
+Wasant Natasant 69;
+
+Leg: 2
+
+6/3/2003; PEA        ; 0-0; Tobacco
+
+*Tobacco remain at 1st level.
+*NB: Provincial Electricity Authority finished 3rd in First Division.
+
+
+*Topscorers:
+*12 Sarayuth Chaikumdee (Port)
+*11 Sanong Chaiprakom (BBL)
+*10 Vorawuth Srimakha (BEC Tero)
 
 
 
-First Division 2002/03
+Competition: Thai First Division 
+Season: 2002-2003
+*Run by the Football Association of Thailand (FAT)
 
-Run by the Football Association of Thailand (FAT)
-
-Final Table: 
-
- 1.Bangkok University                   22 13  8  1  42-10  47  Promoted
- 2.Royal Thai Navy                      22 12  6  4  35-22  42  Promoted
- 3.Provincial Electricity Authority     22  9 12  1  44-20  39  Promotion Playoff
- 4.[team name unknown]                  22 10  6  6  24-22  36
- 5.[team name unknown]                  22  8  7  7  24-22  31
- 6.[team name unknown]                  22  6 12  4  21-15  30
- 7.Royal Thai Army                      22  7  8  7  31-25  29
- 8.[team name unknown]                  22  6  8  8  15-27  26
- 9.Police                               22  6  7  9  33-33  25
-10.[team name unknown]                  22  7  4 11  24-39  25
-11.Rajpracha                            22  2  8 12  17-32  14
-12.[?] Bank                             22  1  4 17  19-62   7
+* 1.Bangkok University                   22 13  8  1  42-10  47  Promoted
+* 2.Royal Thai Navy                      22 12  6  4  35-22  42  Promoted
+* 3.Provincial Electricity Authority     22  9 12  1  44-20  39  Promotion Playoff
+* 4.[team name unknown]                  22 10  6  6  24-22  36
+* 5.[team name unknown]                  22  8  7  7  24-22  31
+* 6.[team name unknown]                  22  6 12  4  21-15  30
+* 7.Royal Thai Army                      22  7  8  7  31-25  29
+* 8.[team name unknown]                  22  6  8  8  15-27  26
+* 9.Police                               22  6  7  9  33-33  25
+*10.[team name unknown]                  22  7  4 11  24-39  25
+*11.Rajpracha                            22  2  8 12  17-32  14
+*12.[?] Bank                             22  1  4 17  19-62   7
  
 
-Provincial League 2003
+Competition: Provincial League 
+Season: 2003
 
-Run by the Sports Authority of Thailand 
+*Run by the Sports Authority of Thailand 
 
 
 * 1.Nakhon Sawan (Lions)                 22 13  7  2  37-16  46
