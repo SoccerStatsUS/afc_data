@@ -1,0 +1,285 @@
+BlockSource: http://rsssf.com/tablesi/india2016.html#nfl1
+Season: 2015-2016
+Competition: I League
+
+
+* 1.Bengaluru FC                  16  10  2  4  24-17  32  Champions  [Bangalore]
+* 2.Mohun Bagan AC                16   8  6  2  32-16  30  [C]  [Kolkata]
+* 3.East Bengal Club              16   7  4  5  22-18  25  [Kolkata]
+* 4.Sporting Clube de Goa         16   5  7  4  24-20  22  [Goa]
+* 5.Mumbai FC                     16   4  7  5  20-19  19  [Mumbai]
+* 6.Shillong Lajong FC            16   4  6  6  14-23  18  [Shillong]
+* 7.Salgaocar SC                  16   4  4  8  19-27  16  [2 1 1 0 2-1 4]  [Goa]
+* 8.Aizawl FC                     16   4  4  8  15-21  16  [2 0 1 1 1-2 1]  [P]  [Aizawl]
+* 9.DSK Shivajians                16   3  6  7  16-25  15  [N]  [Pune]
+
+*NB: as direct entry club DSK Shivajians are given immunity from relegation for three
+*    season, Aizawl are relegated
+
+Round: 1
+Date: 1/9/2015
+
+; Mohun Bagan        ; 3-1; Aizawl FC           
+; Salgaocar          ; 1-2; Bengaluru FC        
+
+Date: 1/10/2015
+
+; SC Goa             ; 1-3; East Bengal         
+; Shillong Lajong    ; 0-0; Mumbai FC           
+*DSK Shivajians      bye
+
+Round: 2
+Date: 1/16/2015
+
+; Aizawl FC          ; 0-1; Bengaluru FC        
+; Mohun Bagan        ; 4-2; Salgaocar           
+
+Date: 1/17/2015
+
+; SC Goa             ; 0-0; DSK Shivajians      
+; Mumbai FC          ; 0-0; East Bengal         
+*Shillong Lajong     bye
+
+Round: 3
+Date: 1/22/2015
+
+; Aizawl FC          ; 2-0; DSK Shivajians      
+
+Date: 1/23/2015
+
+; Mohun Bagan        ; 1-1; East Bengal         
+
+Date: 1/24/2015
+
+; Mumbai FC          ; 2-1; Salgaocar           
+; Bengaluru FC       ; 3-0; Shillong Lajong     
+*SC Goa              bye
+
+Round: 4
+Date: 1/25/2015
+
+; Aizawl FC          ; 0-2; SC Goa              
+
+Date: 1/26/2015
+
+; East Bengal        ; 1-0; DSK Shivajians      
+
+Date: 1/27/2015
+
+; Mumbai FC          ; 2-0; Bengaluru FC        
+
+Date: 1/28/2015
+
+; Shillong Lajong    ; 1-0; Salgaocar           
+*Mohun Bagan         bye
+
+Round: 5
+Date: 1/30/2015
+
+; East Bengal        ; 0-1; Bengaluru FC        
+; DSK Shivajians     ; 0-2; Mohun Bagan         
+
+Date: 1/31/2015
+
+; Salgaocar          ; 1-1; Aizawl FC           
+; Shillong Lajong    ; 1-0; SC Goa              
+*Mumbai FC           bye
+
+Round: 6
+Date: 2/5/2015
+
+; East Bengal        ; 2-0; Aizawl FC           
+
+Date: 2/6/2015
+
+; Bengaluru FC       ; 1-2; SC Goa              
+
+Date: 2/7/2015
+
+; DSK Shivajians     ; 1-0; Mumbai FC           
+
+Date: 2/17/2015
+
+; Mohun Bagan        ; 1-1; Shillong Lajong     
+*Salgaocar           bye
+
+Round: 7
+Date: 2/9/2015
+
+; East Bengal        ; 4-0; Shillong Lajong     
+
+Date: 2/10/2015
+
+; Bengaluru FC       ; 4-1; DSK Shivajians      
+; Mumbai FC          ; 0-0; Mohun Bagan         
+
+Date: 2/11/2015
+
+; SC Goa             ; 1-1; Salgaocar           
+*Aizawl FC           bye
+
+Round: 8
+Date: 2/13/2015
+
+; Aizawl FC          ; 0-0; Shillong Lajong     
+; Bengaluru FC       ; 0-2; Mohun Bagan         
+
+Date: 2/14/2015
+
+; DSK Shivajians     ; 2-3; Salgaocar           
+; SC Goa             ; 3-2; Mumbai FC           
+*East Bengal         bye
+
+Round: 9
+Date: 2/20/2015
+
+; Aizawl FC          ; 2-0; Mumbai FC           
+; Mohun Bagan        ; 1-0; SC Goa              
+
+Date: 2/21/2015
+
+; East Bengal        ; 2-1; Salgaocar           
+; DSK Shivajians     ; 1-1; Shillong Lajong     
+*Bengaluru FC        bye
+
+Round: 10
+Date: 2/26/2015
+
+; Shillong Lajong    ; 1-1; DSK Shivajians      
+
+Date: 2/27/2015
+
+; Salgaocar          ; 1-3; Mohun Bagan         
+; Mumbai FC          ; 2-2; SC Goa              
+
+Date: 2/28/2015
+
+; Bengaluru FC       ; 1-0; Aizawl FC           
+*East Bengal         bye
+
+Round: 11
+Date: 3/1/2015
+
+; Salgaocar          ; 3-1; East Bengal         
+; SC Goa             ; 1-1; Mohun Bagan         
+
+Date: 3/2/2015
+
+; Mumbai FC          ; 2-2; Aizawl FC           
+; Shillong Lajong    ; 0-2; Bengaluru FC        
+*DSK Shivajians      bye
+
+Round: 12
+Date: 3/5/2015
+
+; Salgaocar          ; 2-2; Mumbai FC           
+
+Date: 3/6/2015
+
+; SC Goa             ; 2-2; Bengaluru FC        
+; DSK Shivajians     ; 2-0; East Bengal         
+
+Date: 3/26/2015
+
+; Aizawl FC          ; 2-1; Mohun Bagan         
+*Shillong Lajong     bye
+
+Round: 13
+Date: 3/12/2015
+
+; Aizawl FC          ; 2-3; East Bengal         
+; Salgaocar          ; 1-0; Shillong Lajong     
+
+Date: 3/13/2015
+
+; DSK Shivajians     ; 3-1; SC Goa              
+; Mohun Bagan        ; 2-0; Mumbai FC           
+*Bengaluru FC        bye
+
+Round: 14
+Date: 4/1/2015
+
+; Salgaocar          ; 1-1; DSK Shivajians      
+; Shillong Lajong    ; 3-1; Aizawl FC           
+
+Date: 4/2/2015
+
+; East Bengal        ; 2-1; Mohun Bagan         
+; Bengaluru FC       ; 1-0; Mumbai FC           
+*SC Goa              bye
+
+Round: 15
+Date: 4/5/2015
+
+; Shillong Lajong    ; 2-2; Mohun Bagan         
+; East Bengal        ; 2-2; Mumbai FC           
+
+Date: 4/6/2015
+
+; SC Goa             ; 1-1; Aizawl FC           
+; DSK Shivajians     ; 1-1; Bengaluru FC        
+*Salgaocar           bye
+
+Round: 16
+Date: 4/9/2015
+
+; Mohun Bagan        ; 3-3; DSK Shivajians      
+
+Date: 4/10/2015
+
+; SC Goa             ; 5-2; Shillong Lajong     
+; Bengaluru FC       ; 3-1; East Bengal         
+
+Date: 4/11/2015
+
+; Aizawl FC          ; 0-1; Salgaocar           
+*Mumbai FC           bye
+
+Round: 17
+Date: 4/15/2015
+
+; East Bengal        ; 0-0; SC Goa              
+
+Date: 4/16/2015
+
+; DSK Shivajians     ; 0-1; Aizawl FC           
+
+Date: 4/17/2015
+
+; Mumbai FC          ; 2-1; Shillong Lajong     
+; Bengaluru FC       ; 2-0; Salgaocar           
+*Mohun Bagan         bye
+
+Round: 18
+Date: 4/23/2015
+
+; Mohun Bagan        ; 5-0; Bengaluru FC        
+; Salgaocar          ; 0-3; SC Goa              
+
+Date: 4/24/2015
+
+; Mumbai FC          ; 4-0; DSK Shivajians      
+; Shillong Lajong    ; 1-0; East Bengal         
+*Aizawl FC           bye
+
+*Final Table:
+
+* 1.Bengaluru FC                  16  10  2  4  24-17  32  Champions  [Bangalore]
+* 2.Mohun Bagan AC                16   8  6  2  32-16  30  [C]  [Kolkata]
+* 3.East Bengal Club              16   7  4  5  22-18  25  [Kolkata]
+* 4.Sporting Clube de Goa         16   5  7  4  24-20  22  [Goa]
+* 5.Mumbai FC                     16   4  7  5  20-19  19  [Mumbai]
+* 6.Shillong Lajong FC            16   4  6  6  14-23  18  [Shillong]
+* 7.Salgaocar SC                  16   4  4  8  19-27  16  [2 1 1 0 2-1 4]  [Goa]
+* 8.Aizawl FC                     16   4  4  8  15-21  16  [2 0 1 1 1-2 1]  [P]  [Aizawl]
+* 9.DSK Shivajians                16   3  6  7  16-25  15  [N]  [Pune]
+
+*NB: as direct entry club DSK Shivajians are given immunity from relegation for three
+*    season, Aizawl are relegated
+
+
+*Prepared and maintained by Karel Stokkermans for the Rec.Sport.Soccer Statistics Foundation
+*Author: Karel Stokkermans 
+*Last updated: 28 Apr 2016
+*(C) Copyright Karel Stokkermans and RSSSF 2015/16
+*You are free to copy this document in whole or part provided that proper acknowledgement is given to the author. All rights reserved.
